@@ -1,7 +1,941 @@
-price,location,bathrooms,title
-"₦99,750,000","Adron City Park And Gardens, Asejire, Ibadan, Oyo",,3 bedroom detached bungalow for sale
-"₦130,000,000","Orange Gate, Oluyole Estate, Ibadan, Oyo",,2 bedroom block of flats for sale
-"₦340,000,000","Blue Gate Oluyole Estate, Ibadan, Oyo",,4 bedroom detached duplex for sale
-"₦40,000,000","Airport, Alakia, Ibadan, Oyo",,4 bedroom detached bungalow for sale
-"₦90,000,000","Ope Odu Estate, Elewuro,akobo, Akobo, Ibadan, Oyo",,3 bedroom detached bungalow for sale
-"₦180,000,000","Alalubosa Gra, Ibadan, Oyo",,3 bedroom detached duplex for sale
+title,price,location,bedrooms,bathrooms,toilets,size
+3 bedroom detached bungalow for sale,"99,750,000","Adron City Park And Gardens, Asejire, Ibadan, Oyo",3.0,4.0,4.0,500 sqm total area
+9 bedroom detached bungalow for sale,"55,000,000","Close To Makoni Hotel, Ologuneru, Ibadan, Oyo",9.0,,9.0,605 sqm covered area
+4 bedroom detached bungalow for sale,"50,000,000","Road 4 Ire-akari, Idi-oya, Ayegun Oleyo Road, Oluyole Extension, Ibadan, Oyo",4.0,,,500 sqm covered area
+2 bedroom block of flats for sale,"130,000,000","Orange Gate, Oluyole Estate, Ibadan, Oyo",2.0,2.0,2.0,500 sqm covered area
+4 bedroom detached duplex for sale,"340,000,000","Blue Gate Oluyole Estate, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+3 bedroom detached bungalow for sale,"8,000,000","Akinbode Zone 3, Oluwo, Alakia, Ibadan, Oyo",3.0,,,400 sqm total area
+Block of flats for sale,"25,000,000","Akinbode Zone 3, Oluwo, Alakia, Ibadan, Oyo",,,,400 sqm total area
+2 bedroom block of flats for sale,"85,000,000","Airport, Alakia, Ibadan, Oyo",2.0,,,400 sqm total area
+Block of flats for sale,"38,000,000","Paara, Inu Ewe, Alakia, Ibadan, Oyo",,,,400 sqm total area
+5 bedroom detached duplex for sale,"200,000,000","New Bodija, Ibadan, Oyo",5.0,,,400 sqm total area
+Block of flats for sale,"25,000,000","Adogba, Monatan, Alakia, Ibadan, Oyo",,,,400 sqm total area
+4 bedroom detached bungalow for sale,"40,000,000","Airport, Alakia, Ibadan, Oyo",4.0,4.0,,400 sqm total area
+5 bedroom detached duplex for sale,"70,000,000","Barracks Road, Ojoo, Ibadan, Oyo",5.0,,,400 sqm total area
+4 bedroom detached bungalow for sale,"15,000,000","Podo, Top One Garden Area, Challenge, Ibadan, Oyo",4.0,,,400 sqm total area
+3 bedroom detached bungalow for sale,"90,000,000","Ope Odu Estate, Elewuro,akobo, Akobo, Ibadan, Oyo",3.0,4.0,,400 sqm total area
+3 bedroom detached duplex for sale,"180,000,000","Alalubosa Gra, Ibadan, Oyo",3.0,4.0,,400 sqm total area
+Block of flats for sale,"60,000,000","Ring Road, Challenge, Ibadan, Oyo",,,,400 sqm total area
+6 bedroom detached bungalow for sale,"40,000,000","Odo Ona Elewe,orita, Challenge, Ibadan, Oyo",6.0,,,400 sqm total area
+Block of flats for sale,"13,000,000","Oloruntedo, Iyana Agbala, Alakia, Ibadan, Oyo",,,,400 sqm total area
+9 bedroom detached duplex for sale,"180,000,000","Prof. Peller Area, New Bodija, Ibadan, Oyo",9.0,,,400 sqm total area
+Block of flats for sale,"75,000,000","Temidire Gra, Sdp, Wema Bank, Alakia, Ibadan, Oyo",,,,400 sqm total area
+4 bedroom terraced duplex for sale,"220,000,000","Jericho, Ibadan, Oyo",4.0,4.0,5.0,400 sqm total area
+3 bedroom detached bungalow for sale,"160,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",3.0,,,400 sqm total area
+Block of flats for sale,"80,000,000","Agbowo, Ibadan, Oyo",,,,400 sqm total area
+5 bedroom detached duplex for sale,"200,000,000","Airforce Estate, Akobo, Ibadan, Oyo",5.0,,,400 sqm total area
+Block of flats for sale,"18,000,000","Olaogun, Old Ife Road, Alakia, Ibadan, Oyo",,,,400 sqm total area
+Block of flats for sale,"50,000,000","Isokan Estate, Akobo, Ibadan, Oyo",,,,400 sqm total area
+3 bedroom detached bungalow for sale,"50,000,000","Tomiwa Awe, Alengongo, Akobo, Ibadan, Oyo",3.0,,,400 sqm total area
+3 bedroom detached bungalow for sale,"72,000,000","Ahoyaya Estate, Ile Tuntun, Jericho, Ibadan, Oyo",3.0,,,400 sqm total area
+4 bedroom detached bungalow for sale,"68,000,000","Akilapa Estate, Jericho, Ibadan, Oyo",4.0,,,400 sqm total area
+6 bedroom detached duplex for sale,"100,000,000","Omolayo Estate, Akobo, Ibadan, Oyo",6.0,,,400 sqm total area
+4 bedroom terraced duplex for sale,"600,000,000","Gra, Alalubosa, Ibadan, Oyo",4.0,,,400 sqm total area
+Block of flats for sale,"8,000,000","Gbaremu, Alakia, Ibadan, Oyo",,,,400 sqm total area
+3 bedroom block of flats for sale,"85,000,000","Anifalaje, Akobo, Ibadan, Oyo",3.0,,,400 sqm total area
+Block of flats for sale,"40,000,000","Olanrewaju, Alakia, Ibadan, Oyo",,,,400 sqm total area
+Block of flats for sale,"70,000,000","Omolayo Road 3, Akobo, Ibadan, Oyo",,,,400 sqm total area
+Block of flats for sale,"250,000,000","Adeoyo Road, Ringroad, Challenge, Ibadan, Oyo",,,,400 sqm total area
+Block of flats for sale,"400,000,000","Ilaro Street, Old Bodija, Ibadan, Oyo",,,,400 sqm total area
+Block of flats for sale,"420,000,000","Arigidi, Old Bodija, Ibadan, Oyo",,,,400 sqm total area
+2 bedroom block of flats for sale,"54,000,000","Off All Saints College Road, Off Up Jesus Road, Idishin, Ibadan, Oyo",2.0,2.0,2.0,400 sqm total area
+Block of flats for sale,"100,000,000","Benjamin, Eleyele, Ibadan, Oyo",,,,400 sqm total area
+5 bedroom detached duplex for sale,"339,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",5.0,6.0,6.0,500 sqm total area
+3 bedroom detached bungalow for sale,"29,000,000","Omi Adio, Apata, Ibadan, Oyo",3.0,3.0,3.0,500 sqm total area
+4 bedroom house for sale,"32,000,000","Yawiri, Akobo Ojurin Ibadan, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+7 bedroom block of flats for sale,"70,000,000","Behind Brent Supermarket, Apata, Ibadan, Oyo",7.0,4.0,4.0,500 sqm total area
+11 bedroom block of flats for sale,"265,000,000","Aare Oluyole Estate, Ibadan, Oyo",11.0,13.0,13.0,500 sqm total area
+4 bedroom detached duplex for sale,"195,000,000","Palm Garden Estate, Oluyole Estate, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Alalubosa Gra, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"310,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+3 bedroom semi-detached duplex for sale,"160,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",3.0,3.0,4.0,500 sqm total area
+4 bedroom detached duplex for sale,"220,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"315,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"195,000,000","Purple Estate, Oluyole, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Aerodrome Gra Samonda, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+Block of flats for sale,"70,000,000","Anfani Road, Ring Road,, Challenge, Ibadan, Oyo",,,,500 sqm total area
+4 bedroom detached duplex for sale,"315,000,000","Carlton Gate Estate,kolapo Ishola, Akobo, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate Estate, Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+3 bedroom detached duplex for sale,"400,000,000","Oba Olagbegi Avenue, Old Bodija, Ibadan, Oyo",3.0,,,500 sqm total area
+3 bedroom detached duplex for sale,"160,000,000","S & T Estate, Eleyele, Ibadan, Oyo",3.0,,,500 sqm total area
+Block of flats for sale,"65,000,000","Alegongo Estate, Akobo, Ibadan, Oyo",,,,500 sqm total area
+4 bedroom detached bungalow for sale,"35,000,000","Bcj Area, Apata, Ibadan, Oyo",4.0,,,500 sqm total area
+4 bedroom detached bungalow for sale,"25,000,000","Isokan Estate, Akobo, Ibadan, Oyo",4.0,,,500 sqm total area
+Block of flats for sale,"100,000,000","Wema, Iwo Road, Alakia, Ibadan, Oyo",,,,500 sqm total area
+6 bedroom detached duplex for sale,"150,000,000","By Liberty Stadium, Oke Ado, Ibadan, Oyo",6.0,6.0,7.0,500 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+5 bedroom house for sale,"130,000,000","Ayegoro Estate, Akobo, Ibadan, Oyo",5.0,6.0,6.0,500 sqm total area
+3 bedroom detached bungalow for sale,"180,000,000","Ikolaba/arisekola Street, New Bodija, Ibadan, Oyo",3.0,4.0,4.0,650 sqm total area
+6 bedroom detached bungalow for sale,"130,000,000","Olive Estate, Ile Tuntun Jericho Extension, Jericho, Ibadan, Oyo",6.0,6.0,6.0,650 sqm total area
+3 bedroom detached duplex for sale,"90,000,000","Adron City Park And Gardens, Phase 1, Asejire, Ibadan, Oyo",3.0,4.0,4.0,300 sqm covered area
+4 bedroom semi-detached duplex for sale,"370,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,300 sqm covered area
+4 bedroom detached duplex for sale,"230,000,000","Link Reservation, Golf Club, Onireke Gra, Ibadan, Oyo",4.0,4.0,5.0,410 sqm total area
+5 bedroom detached duplex for sale,"350,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,5.0,6.0,410 sqm total area
+3 bedroom detached duplex for sale,"75,000,000","Adron Homes City Park & Gardens Estate Opposite Coca-cola Asejire, Ibadan, Oyo",3.0,4.0,4.0,410 sqm total area
+Block of flats for sale,"75,000,000","Salawu, Opposite Welfare Hospital, Alakia, Ibadan, Oyo",,,,410 sqm total area
+5 bedroom detached duplex for sale,"100,000,000","Tiger Mini Estate, Ojoo, Ibadan, Oyo",5.0,,,410 sqm total area
+5 bedroom detached duplex for sale,"500,000,000","Gra, Agodi, Ibadan, Oyo",5.0,5.0,6.0,410 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Gra, New Bodija, Ibadan, Oyo",4.0,4.0,5.0,410 sqm total area
+4 bedroom terraced duplex for sale,"90,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,410 sqm total area
+5 bedroom detached duplex for sale,"210,000,000","Airforce Estate (bashorun Housing Estate), Akobo, Ibadan, Oyo",5.0,5.0,6.0,410 sqm total area
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate Estate Akobo, Ibadan, Oyo",4.0,4.0,5.0,410 sqm total area
+4 bedroom detached duplex for sale,"220,000,000","Carlton Gate Estate Akobo, Ibadan, Oyo",4.0,4.0,5.0,410 sqm total area
+4 bedroom house for sale,"250,000,000","Jericho Gra, Ibadan, Oyo",4.0,4.0,5.0,410 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Tomiwa Awe Avenue, Alegongo Akobo, Ibadan, Oyo",3.0,3.0,4.0,410 sqm total area
+2 bedroom block of flats for sale,"65,000,000","Behind Foodco Ringroad, Ibadan, Oyo",2.0,2.0,3.0,410 sqm total area
+1 bedroom block of flats for sale,"55,000,000","Behind Foodco, Ringroad, Ibadan, Oyo",1.0,1.0,2.0,410 sqm total area
+3 bedroom detached duplex for sale,"350,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",3.0,,,410 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Ibadan, Oyo",4.0,4.0,5.0,410 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,410 sqm total area
+3 bedroom detached bungalow for sale,"73,000,000","Ahoyaya Estate,ile Tuntun, Jericho, Ibadan, Oyo",3.0,4.0,4.0,410 sqm total area
+3 bedroom detached bungalow for sale,"83,000,000","Abdulsalam Estate, Akala Way, Akobo, Ibadan, Oyo",3.0,4.0,4.0,400 sqm total area
+5 bedroom house for sale,"160,000,000","Bashorun Housing Estate Akobo, Ibadan, Oyo",5.0,6.0,6.0,"1,200 sqm total area"
+4 bedroom detached duplex for sale,"320,000,000","Agodi, Ibadan, Oyo",4.0,4.0,5.0,"1,200 sqm total area"
+5 bedroom house for sale,"450,000,000","Engr Lere Adigun Gra, Ibadan, Oyo",5.0,5.0,6.0,500 sqm total area
+4 bedroom detached duplex for sale,"465,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"240,000,000","Main Jericho Gra, Jericho, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+2 bedroom block of flats for sale,"250,000,000","Old Bodija, Ibadan, Oyo",2.0,2.0,3.0,"1,000 sqm total area"
+4 bedroom detached bungalow for sale,"75,000,000","Yanbule Area Bashorun, Ibadan, Oyo",4.0,4.0,5.0,"1,000 sqm total area"
+4 bedroom detached duplex for sale,"280,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"250,000,000","Oluyole Estate, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"260,000,000","Oluyole Estate, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+6 bedroom detached duplex for sale,"220,000,000","Felele Straight, Challenge, Ibadan, Oyo",6.0,6.0,7.0,500 sqm total area
+Block of flats for sale,"45,000,000","National Estate, Kulodi, Alakia, Ibadan, Oyo",,,,500 sqm total area
+3 bedroom detached bungalow for sale,"6,000,000","Olomo Area, Apete, Eleyele, Ibadan, Oyo",3.0,,,500 sqm total area
+5 bedroom detached duplex for sale,"55,000,000","Bako Area, Apata, Ibadan, Oyo",5.0,,,500 sqm total area
+Block of flats for sale,"35,000,000","Aromolaran, Old Ife Road, Alakia, Ibadan, Oyo",,,,500 sqm total area
+Block of flats for sale,"30,000,000","Obat Tower, Adegbayi, Alakia, Ibadan, Oyo",,,,500 sqm total area
+5 bedroom detached duplex for sale,"60,000,000","Babalola Estate,orita Challenge, Challenge, Ibadan, Oyo",5.0,,,500 sqm total area
+4 bedroom detached bungalow for sale,"90,000,000","Ayegoro Estate, Akobo, Ibadan, Oyo",4.0,,,500 sqm total area
+Block of flats for sale,"95,000,000","Challenge, Ibadan, Oyo",,,,500 sqm total area
+2 bedroom terraced duplex for sale,"90,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",2.0,,,500 sqm total area
+4 bedroom detached duplex for sale,"310,000,000","Carlton Gate Estate, Next To Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+3 bedroom detached bungalow for sale,"35,000,000","Treasure Island Estate, Osengere, Ife Road, Ibadan, Oyo",3.0,3.0,4.0,500 sqm total area
+4 bedroom semi-detached duplex for sale,"375,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"450,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,6.0,6.0,500 sqm total area
+5 bedroom detached duplex for sale,"450,000,000","Engineer Lere Adigun Gra, Ibadan, Oyo",5.0,6.0,6.0,500 sqm total area
+5 bedroom semi-detached duplex for sale,"135,000,000","Behind Ashi-bodija Baptist College, Ibadan, Oyo",5.0,4.0,4.0,868 sqm total area
+5 bedroom detached duplex for sale,"300,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,6.0,6.0,868 sqm total area
+4 bedroom semi-detached duplex for sale,"370,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,868 sqm total area
+4 bedroom detached duplex for sale,"250,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,868 sqm total area
+4 bedroom detached duplex for sale,"250,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",4.0,5.0,5.0,400 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,400 sqm total area
+5 bedroom detached duplex for sale,"300,000,000","Mallami, Oluyole Estate, Ibadan, Oyo",5.0,6.0,6.0,400 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",4.0,5.0,5.0,400 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Gra Phase 1, Alalubosa, Ibadan, Oyo",4.0,5.0,5.0,400 sqm total area
+4 bedroom detached duplex for sale,"310,000,000","Carlton Gate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,620 sqm total area
+4 bedroom detached duplex for sale,"340,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,620 sqm covered area
+5 bedroom detached duplex for sale,"180,000,000","Aare, New Bodija, Ibadan, Oyo",5.0,5.0,6.0,350 sqm total area
+3 bedroom house for sale,"130,000,000","Ologuneru, Ibadan, Oyo",3.0,3.0,4.0,350 sqm total area
+4 bedroom detached duplex for sale,"190,000,000","Star Gate Oluyole Estate, Ibadan, Oyo",4.0,4.0,4.0,350 sqm total area
+5 bedroom detached duplex for sale,"140,000,000","Ire Akari Estate, Akala Express, Oluyole Extension, Ibadan, Oyo",5.0,6.0,7.0,350 sqm total area
+7 bedroom detached duplex for sale,"250,000,000","Arapaja Estate, Oluyole Estate, Ibadan, Oyo",7.0,7.0,8.0,350 sqm total area
+10 bedroom house for sale,"50,000,000","Kafolabi,alakia Junction New Ife Road, Alakia, Ibadan, Oyo",10.0,6.0,6.0,350 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Promiseland Estate, Elebu Off Akala Express, Ibadan, Oyo",3.0,3.0,4.0,350 sqm total area
+3 bedroom detached bungalow for sale,"50,000,000","Wisdom Estate, Akobo, Ibadan, Oyo",3.0,3.0,4.0,560 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Omolayo Akobo, Ibadan, Oyo",4.0,5.0,5.0,560 sqm total area
+5 bedroom detached duplex for sale,"55,000,000","Akobo Ojurin, Ibadan, Oyo",5.0,5.0,5.0,560 sqm total area
+5 bedroom detached duplex for sale,"110,000,000","New Bodija Estate, Ibadan, Oyo",5.0,,6.0,"1,000 sqm total area"
+5 bedroom detached duplex for sale,"300,000,000","Aerodrome Gra, Ibadan, Oyo",5.0,5.0,6.0,"1,000 sqm total area"
+4 bedroom detached duplex for sale,"330,000,000","Oluyole Estate, Ibadan, Oyo",4.0,4.0,5.0,"1,000 sqm total area"
+3 bedroom detached duplex for sale,"290,000,000","Jericho, Ibadan, Oyo",3.0,4.0,4.0,"1,000 sqm total area"
+9 bedroom detached duplex for sale,"620,000,000","Forest Hill Estate, Jericho Gra, Ibadan, Oyo",9.0,12.0,12.0,"1,000 sqm total area"
+3 bedroom detached bungalow for sale,"85,000,000","Abdul Salam Estate Akala Way, Akobo, Ibadan, Oyo",3.0,4.0,4.0,"1,000 sqm total area"
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,"1,000 sqm total area"
+4 bedroom detached duplex for sale,"200,000,000","Carlton Gate Estate, Beside Kolapo Ishola, Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,"1,000 sqm total area"
+3 bedroom detached bungalow for sale,"50,000,000","Temidire Estate, Ologuneru, Eleyele, Ibadan, Oyo",3.0,3.0,4.0,"1,000 sqm total area"
+4 bedroom detached duplex for sale,"195,000,000","Palm Garden Estate, Oluyole Estate, Ibadan, Oyo",4.0,5.0,5.0,550 sqm total area
+4 bedroom detached duplex for sale,"180,000,000","Kolapo Ishola Gra, Ibadan, Oyo",4.0,4.0,5.0,400 sqm total area
+4 bedroom detached duplex for sale,"185,000,000","Emmanuel Estate, Ile Tuntun, Jericho Extension, Jericho, Ibadan, Oyo",4.0,5.0,5.0,400 sqm total area
+6 bedroom block of flats for sale,"58,000,000","Ire Akari Close Estate, Ologuneru, Eleyele, Ibadan, Oyo",6.0,7.0,7.0,400 sqm total area
+5 bedroom semi-detached duplex for sale,"130,000,000","Emmanuel Estate, Ile Tuntun, Jericho, Ibadan, Oyo",5.0,,,400 sqm total area
+4 bedroom detached duplex for sale,"340,000,000","Oluyole Estate, Ibadan, Oyo",4.0,4.0,5.0,400 sqm total area
+4 bedroom detached duplex for sale,"45,000,000","Isokan Estate, Apata, Ibadan, Oyo",4.0,,,400 sqm total area
+3 bedroom terraced duplex for sale,"110,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",3.0,,,400 sqm total area
+5 bedroom detached duplex for sale,"350,000,000","Legacy Estate, Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,5.0,5.0,400 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Temidire Estate, Ologuneru, Ibadan, Oyo",3.0,3.0,4.0,400 sqm total area
+4 bedroom semi-detached duplex for sale,"250,000,000","Jericho Gra, Ibadan, Oyo",4.0,4.0,5.0,400 sqm total area
+5 bedroom detached duplex for sale,"450,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,5.0,6.0,400 sqm total area
+4 bedroom semi-detached duplex for sale,"130,000,000","Emmanuel Estate, Ile-titun Area, Jericho/idi-ishin Extension, Ibadan, Oyo",4.0,4.0,5.0,400 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Temidire Estate,, Ologuneru, Ibadan, Oyo",3.0,,,400 sqm total area
+3 bedroom detached bungalow for sale,"44,500,000","Baay Foreshore, Omititun Estate, Ibadan, Oyo",3.0,3.0,4.0,400 sqm total area
+5 bedroom detached duplex for sale,"380,000,000","Kolapo Ishola Estate, Akobo, Ibadan, Oyo",5.0,6.0,6.0,400 sqm total area
+3 bedroom detached bungalow for sale,"55,000,000","Peculiar Estate, Idi Ape, Akobo, Ibadan, Oyo",3.0,,,400 sqm total area
+5 bedroom detached bungalow for sale,"32,000,000","Sarumi, International Airport Area, Alakia, Ibadan, Oyo",5.0,,,400 sqm total area
+4 bedroom house for sale,"90,000,000","Arapaja, Ibadan, Oyo",4.0,4.0,5.0,400 sqm total area
+4 bedroom semi-detached duplex for sale,"120,000,000","Adeoyo, Ring Road, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+5 bedroom detached duplex for sale,"650,000,000","Forest Hill Estate, Jericho, Ibadan, Oyo",5.0,,,400 sqm total area
+Block of flats for sale,"110,000,000","Bashorun, New Bodija, Ibadan, Oyo",,,,400 sqm total area
+Block of flats for sale,"15,000,000","Gbaremu, Alakia, Ibadan, Oyo",,,,400 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+2 bedroom terraced duplex for sale,"90,000,000","Ashi - Bodija, Ibadan, Oyo",2.0,2.0,3.0,400 sqm total area
+3 bedroom detached bungalow for sale,"80,000,000","Idi Ishin, Jericho, Ibadan, Oyo",3.0,4.0,4.0,400 sqm total area
+5 bedroom detached duplex for sale,"100,000,000","Tiger Mini Estate, Ojoo, Ibadan, Oyo",5.0,,,400 sqm total area
+Block of flats for sale,"55,000,000","Temidire Estate, Sdp, Old Ife Road, Alakia, Ibadan, Oyo",,,,400 sqm total area
+3 bedroom detached bungalow for sale,"20,000,000","Olorisa Oko, Moniya, Train Station, Ojoo, Ibadan, Oyo",3.0,3.0,,400 sqm total area
+4 bedroom terraced duplex for sale,"90,000,000","Kolapo Isola Gra, Akobo, Ibadan, Oyo",4.0,,,400 sqm total area
+5 bedroom detached duplex for sale,"450,000,000","Alpha Grace Estate, Jericho, Ibadan, Oyo",5.0,,,400 sqm total area
+3 bedroom detached duplex for sale,"85,000,000","Ibadan, Oyo",3.0,,,400 sqm total area
+4 bedroom detached bungalow for sale,"15,000,000","Agbomati, Olodo, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+5 bedroom detached duplex for sale,"385,000,000","Gov Ajimobiâs Street Oluyole Estate, Ibadan, Oyo",5.0,5.0,5.0,400 sqm total area
+4 bedroom detached duplex for sale,"550,000,000","Agodi Gra, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+5 bedroom detached duplex for sale,"450,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,5.0,5.0,400 sqm total area
+4 bedroom detached bungalow for sale,"170,000,000","Arapaja Estate Oluyole, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+4 bedroom detached duplex for sale,"195,000,000","Palm Garden Estate, Green Gate, Oluyole, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+4 bedroom detached duplex for sale,"210,000,000","Carlton Estate, Kolapo Ishola, Akobo, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+4 bedroom detached duplex for sale,"310,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+3 bedroom detached bungalow for sale,"75,000,000","Ile Titun Nihort Area Jericho, Ibadan, Oyo",3.0,3.0,3.0,400 sqm total area
+4 bedroom terraced duplex for sale,"280,000,000","Alalubosa Main Gra, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+2 bedroom detached bungalow for sale,"140,000,000","Ile Titun Jericho, Ibadan, Oyo",2.0,2.0,2.0,400 sqm total area
+3 bedroom detached bungalow for sale,"30,000,000","Erunmu, Olodo, Ibadan, Oyo",3.0,3.0,3.0,400 sqm total area
+3 bedroom detached duplex for sale,"290,000,000","Main Jericho Gra, Ibadan, Oyo",3.0,3.0,3.0,400 sqm total area
+3 bedroom detached bungalow for sale,"45,000,000","Succes Olorunda Akobo, Ibadan, Oyo",3.0,3.0,3.0,400 sqm total area
+3 bedroom detached bungalow for sale,"35,000,000","Akoto Estate, Elebu, Ibadan, Oyo",3.0,3.0,3.0,400 sqm total area
+5 bedroom detached duplex for sale,"480,000,000","Oluyole Main Gra, Ibadan, Oyo",5.0,5.0,5.0,400 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+2 bedroom block of flats for sale,"65,000,000","Alapata, Off Lifeforte Group Of School, Apáº¹táº¹, Ibadan, Oyo",2.0,2.0,2.0,400 sqm total area
+4 bedroom detached bungalow for sale,"110,000,000","Baba Agba Area, Off Eleyele-ido Road, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+5 bedroom detached duplex for sale,"170,000,000","Akoto Estate, Elebu, Oluyole Extension, Ibadan, Oyo",5.0,5.0,5.0,400 sqm total area
+4 bedroom block of flats for sale,"65,000,000","Victory Garden Estate, Via Akoto 1st Gate, Elebu, Ibadan, Oyo",4.0,4.0,4.0,400 sqm total area
+3 bedroom detached bungalow for sale,"75,000,000","Elebu Area Off Akala Express, Ibadan, Oyo",3.0,3.0,3.0,400 sqm total area
+3 bedroom detached bungalow for sale,"35,000,000","Owode Area, Apata, Ibadan, Oyo",3.0,3.0,3.0,400 sqm total area
+3 bedroom detached bungalow for sale,"45,000,000","Karinkapo Estate, Tipper Garage, Akala Express, Ibadan, Oyo",3.0,3.0,3.0,312 sqm covered area
+3 bedroom detached bungalow for sale,"65,000,000","Eleyele Area, Ibadan, Oyo",3.0,3.0,3.0,312 sqm covered area
+2 bedroom detached duplex for sale,"100,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",2.0,2.0,2.0,312 sqm covered area
+4 bedroom detached bungalow for sale,"70,000,000","Sunshine School, Ologuneru, Ibadan, Oyo",4.0,4.0,4.0,312 sqm covered area
+7 bedroom detached duplex for sale,"160,000,000","Adeojo Estate Off Akala Express Way, Ibadan, Oyo",7.0,7.0,7.0,700 sqm covered area
+4 bedroom detached bungalow for sale,"220,000,000","Kolapo Ishola Gra Akobo, Ibadan, Oyo",4.0,4.0,4.0,740 sqm covered area
+3 bedroom detached bungalow for sale,"75,000,000","Green View Estate, Oritamerin, Elebu, Oluyole Extension, Ibadan, Oyo",3.0,3.0,3.0,550 sqm covered area
+4 bedroom detached bungalow for sale,"85,000,000","Elewuro Area Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,000 sqm covered area"
+5 bedroom detached duplex for sale,"500,000,000","Agodi Gra, Ibadan, Oyo",5.0,5.0,5.0,"1,000 sqm covered area"
+3 bedroom block of flats for sale,"130,000,000","Abela Alagutan, Ibadan, Oyo",3.0,3.0,3.0,"1,000 sqm covered area"
+4 bedroom detached duplex for sale,"350,000,000","Jericho Gra, Ibadan, Oyo",4.0,4.0,4.0,"1,000 sqm covered area"
+4 bedroom block of flats for sale,"450,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,545 sqm covered area"
+5 bedroom detached duplex for sale,"465,000,000","Prestigious Oluyole Estate, Ibadan, Oyo",5.0,5.0,5.0,"1,545 sqm covered area"
+4 bedroom detached duplex for sale,"300,000,000","Popular Aerodrome Gra, Samonda, Ibadan, Oyo",4.0,4.0,4.0,"1,545 sqm covered area"
+4 bedroom detached duplex for sale,"250,000,000","Tiger Estate, Ojoo, Ibadan, Oyo",4.0,4.0,4.0,"1,545 sqm covered area"
+4 bedroom detached duplex for sale,"230,000,000","Legacy Estate,kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,545 sqm covered area"
+4 bedroom detached duplex for sale,"150,000,000","Elewuro Junction Off Akala Express Way, Ibadan, Oyo",4.0,4.0,4.0,"1,545 sqm covered area"
+4 bedroom block of flats for sale,"1,700,000,000","Jericho Gra, Ibadan, Oyo",4.0,4.0,4.0,"1,545 sqm covered area"
+18 bedroom detached bungalow for sale,"850,000,000","Ajoke Estate Jericho, Ibadan, Oyo",18.0,,,"1,545 sqm covered area"
+5 bedroom detached duplex for sale,"465,000,000","Ajimobi Street Oluyole Estate, Ibadan, Oyo",5.0,5.0,5.0,"1,545 sqm covered area"
+5 bedroom detached duplex for sale,"385,000,000","Oluyole, Ibadan, Oyo",5.0,5.0,6.0,"1,545 sqm covered area"
+5 bedroom detached duplex for sale,"280,000,000","Oluyole Estate, Ibadan, Oyo",5.0,5.0,6.0,"1,545 sqm covered area"
+4 bedroom detached duplex for sale,"280,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,,,"1,545 sqm covered area"
+3 bedroom detached bungalow for sale,"83,000,000","Abdulsalam Estate, Akala Way, Akobo, Ibadan, Oyo",3.0,3.0,4.0,"1,545 sqm covered area"
+Block of flats for sale,"28,000,000","Alakia, Ibadan, Oyo",,,,"1,545 sqm covered area"
+4 bedroom detached bungalow for sale,"55,000,000","Aroromakin, University Of Ibadan Cooperative, Ojoo, Ibadan, Oyo",4.0,,,"1,545 sqm covered area"
+20 bedroom house for sale,"45,000,000","Behind Ap, Near Molete - Dugbe Road, Oke Ado, Ibadan, Oyo",20.0,4.0,4.0,"1,545 sqm covered area"
+9 bedroom house for sale,"80,000,000","Icast Area, Elebu Off Akala Express, Ibadan, Oyo",9.0,9.0,12.0,"1,545 sqm covered area"
+5 bedroom detached duplex for sale,"310,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",5.0,6.0,6.0,"1,545 sqm covered area"
+4 bedroom detached duplex for sale,"200,000,000","New Bodija, Ibadan, Oyo",4.0,5.0,5.0,"1,545 sqm covered area"
+4 bedroom detached duplex for sale,"200,000,000","Ikolaba Gra Agodi, Ibadan, Oyo",4.0,5.0,6.0,"1,545 sqm covered area"
+4 bedroom detached bungalow for sale,"85,000,000","Airforce Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,"1,545 sqm covered area"
+6 bedroom detached duplex for sale,"350,000,000","Kolapo Ishola Gra, Ibadan, Oyo",6.0,7.0,7.0,450 sqm total area
+4 bedroom detached duplex for sale,"170,000,000","Carlton Gate Estate, Ibadan, Oyo",4.0,,5.0,450 sqm total area
+3 bedroom detached bungalow for sale,"23,000,000","Olosan Road, Alakia, Ibadan, Oyo",3.0,,,450 sqm total area
+2 bedroom semi-detached bungalow for sale,"70,000,000","Old Bodija, Ibadan, Oyo",2.0,,,450 sqm total area
+5 bedroom detached duplex for sale,"310,000,000","Blue Gate Oluyole Estate, Ibadan, Oyo",5.0,6.0,6.0,450 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Alalubosa, Ibadan, Oyo",4.0,,,450 sqm total area
+Block of flats for sale,"300,000,000","Adeoyo Road, Ringroad, Challenge, Ibadan, Oyo",,,,450 sqm total area
+3 bedroom semi-detached bungalow for sale,"120,000,000","Kolapo Isola Gra, Akobo, Ibadan, Oyo",3.0,,,450 sqm total area
+5 bedroom detached duplex for sale,"465,000,000","Oluyole Estate, Ibadan, Oyo",5.0,5.0,6.0,450 sqm total area
+3 bedroom block of flats for sale,"45,000,000","Okunsaga Street, Eleyele, Ibadan, Oyo",3.0,,,450 sqm total area
+5 bedroom detached bungalow for sale,"160,000,000","Bashorun Housing Estate (air Force Estate), Akobo, Ibadan, Oyo",5.0,6.0,6.0,"1,200 sqm total area"
+Block of flats for sale,"100,000,000","Idi Iroko, New Felele, Soka, Challenge, Ibadan, Oyo",,,,"1,200 sqm total area"
+3 bedroom house for sale,"80,000,000","Olunde Scheme, Academy, Ibadan*, Ibadan, Oyo",3.0,3.0,3.0,"1,200 sqm total area"
+4 bedroom detached duplex for sale,"160,000,000","Gra, Agodi, Ibadan, Oyo",4.0,,,"1,200 sqm total area"
+5 bedroom detached duplex for sale,"350,000,000","Kolapo Isola Gra, Akobo, Ibadan, Oyo",5.0,,,"1,200 sqm total area"
+4 bedroom detached bungalow for sale,"70,000,000","Bashorun, New Bodija, Ibadan, Oyo",4.0,,,"1,200 sqm total area"
+5 bedroom detached duplex for sale,"300,000,000","Oluyole Estate, Ibadan, Oyo",5.0,5.0,6.0,"1,200 sqm total area"
+4 bedroom terraced duplex for sale,"150,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,"1,200 sqm total area"
+5 bedroom semi-detached duplex for sale,"370,000,000","Kolapo Ishola Gra Estate, Akobo, Ibadan, Oyo",5.0,6.0,6.0,"1,200 sqm total area"
+4 bedroom detached duplex for sale,"250,000,000","Baale Akintola, Jericho, Ibadan, Oyo",4.0,5.0,5.0,"1,200 sqm total area"
+4 bedroom detached bungalow for sale,"170,000,000","Old Bodija Estate, Ibadan, Oyo",4.0,,,"1,200 sqm total area"
+Block of flats for sale,"550,000,000","Onireke Gra, Jericho, Ibadan, Oyo",,,,"2,800 sqm covered area"
+5 bedroom detached duplex for sale,"159,999,999","Gra, Agodi, Ibadan, Oyo",5.0,6.0,6.0,"2,800 sqm covered area"
+4 bedroom detached duplex for sale,"160,000,000","Gra, Agodi, Ibadan, Oyo",4.0,,5.0,"2,800 sqm covered area"
+3 bedroom semi-detached duplex for sale,"145,000,000","Golfview Estate, Link Reservations, Onireke Gra., Ibadan, Oyo",3.0,,4.0,"2,800 sqm covered area"
+2 bedroom detached bungalow for sale,"85,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",2.0,,,"2,800 sqm covered area"
+3 bedroom detached bungalow for sale,"100,000,000","Adeniran Estate, Alafara Ile Tuntun Jericho Extension, Jericho, Ibadan, Oyo",3.0,4.0,4.0,"2,800 sqm covered area"
+4 bedroom semi-detached duplex for sale,"160,000,000","Chief Lateef Oyelade Gra, Oluyole Industrial Estate, Ibadan, Oyo",4.0,5.0,5.0,"2,800 sqm covered area"
+4 bedroom detached duplex for sale,"230,000,000","Alalubosa Gra, Alalubosa, Ibadan, Oyo",4.0,4.0,5.0,"2,800 sqm covered area"
+4 bedroom semi-detached duplex for sale,"125,000,000","Peace Estate, Ibadan, Oyo",4.0,4.0,5.0,"2,800 sqm covered area"
+5 bedroom detached duplex for sale,"750,000,000","Oba Adesida Street, Iyaganku Gra, Iyaganku, Ibadan, Oyo",5.0,,,"3,500 sqm total area"
+4 bedroom semi-detached duplex for sale,"180,000,000","Association Street, Ashi. Bodija, Ibadan, Oyo",4.0,4.0,5.0,600 sqm total area
+6 bedroom detached duplex for sale,"285,000,000","Larry Estate, Oluyole Estate, Ibadan, Oyo",6.0,6.0,7.0,600 sqm total area
+5 bedroom detached duplex for sale,"300,000,000","Malami Estate,  Oluyole Estate, Ibadan, Oyo",5.0,6.0,7.0,600 sqm total area
+5 bedroom detached duplex for sale,"200,000,000","New Bodija Estate, Ibadan, Oyo",5.0,6.0,6.0,600 sqm total area
+5 bedroom semi-detached duplex for sale,"240,000,000","Gra, Jericho, Ibadan, Oyo",5.0,6.0,6.0,600 sqm total area
+4 bedroom detached bungalow for sale,"270,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,600 sqm total area
+4 bedroom detached duplex for sale,"180,000,000","Omololu Olunloyo Gra Ring Road, Ibadan, Oyo",4.0,4.0,5.0,600 sqm total area
+4 bedroom detached duplex for sale,"450,000,000","Kolapo Ishola Gra Estate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,600 sqm total area
+5 bedroom semi-detached duplex for sale,"360,000,000","Afin Iyanun, Providence Estate, Ibadan, Oyo",5.0,5.0,5.0,600 sqm total area
+3 bedroom detached bungalow for sale,"29,000,000","Akufo, Adron London Park And Gardens, Ibadan, Oyo",3.0,4.0,4.0,600 sqm total area
+4 bedroom detached duplex for sale,"305,000,000","Calton Gate Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,600 sqm total area
+3 bedroom detached bungalow for sale,"60,900,000","The Gloverwood Bungalows By Elanorris, Lawoyin, Ologuneru, Ibadan, Oyo",3.0,4.0,4.0,300 sqm total area
+5 bedroom detached duplex for sale,"198,000,000","Ayo Adekunle Street, New Bodija, Ibadan, Oyo",5.0,6.0,6.0,300 sqm total area
+4 bedroom detached duplex for sale,"400,000,000","Oba Akenzua Road Onireke Gra, Jericho, Ibadan, Oyo",4.0,5.0,5.0,"3,000 sqm covered area"
+7 bedroom detached duplex for sale,"350,000,000","Adeyi Junction, Old Bodija, Ibadan, Oyo",7.0,8.0,8.0,"3,000 sqm covered area"
+5 bedroom detached duplex for sale,"140,000,000","Ire Akari Estate Akala Express, Challenge, Ibadan, Oyo",5.0,6.0,6.0,"3,000 sqm covered area"
+10 bedroom semi-detached duplex for sale,"150,000,000","Akingbade Area Near Gbagi Off Airport-ife Road, Ibadan, Oyo",10.0,10.0,12.0,"3,000 sqm covered area"
+5 bedroom detached duplex for sale,"220,000,000","Kolapo Ishola Estate, Ibadan, Oyo",5.0,6.0,6.0,"3,000 sqm covered area"
+4 bedroom detached duplex for sale,"180,000,000","Kolapo Ishola, Akobo, Ibadan, Oyo",4.0,5.0,5.0,"3,000 sqm covered area"
+2 bedroom block of flats for sale,"100,000,000","Almond Estate, Faith Bible Area, Akobo, Ibadan, Oyo",2.0,2.0,3.0,300 sqm total area
+3 bedroom detached bungalow for sale,"80,000,000","Success Estate, Akuru, Elebu, Off Akala Expressway, Oluyole Extension, Ibadan, Oyo",3.0,3.0,3.0,501 sqm total area
+4 bedroom detached bungalow for sale,"110,000,000","City Park And Gardens Estate, Opposite Coca-cola Factory, Egbeda, Ibadan, Oyo",4.0,4.0,4.0,501 sqm total area
+2 bedroom detached bungalow for sale,"40,000,000","Baayforeshore, Ibadan, Oyo",2.0,3.0,3.0,501 sqm total area
+4 bedroom detached bungalow for sale,"32,000,000","Yawiri, Akobo Ojurin, Akobo, Ibadan, Oyo",4.0,4.0,4.0,501 sqm total area
+2 bedroom detached bungalow for sale,"53,000,000","Near Taska Filling Station Off Akala Express Way, Ibadan, Oyo",2.0,2.0,2.0,501 sqm total area
+3 bedroom block of flats for sale,"70,000,000","Kufeyiji Street, Ibadan, Oyo",3.0,3.0,3.0,501 sqm total area
+3 bedroom detached bungalow for sale,"85,000,000","Opposite Kuola Police Station, Off Akala Express Road., Ibadan, Oyo",3.0,3.0,3.0,501 sqm total area
+4 bedroom detached duplex for sale,"9,000,000","Odo Oba, Moniya, Ibadan, Oyo",4.0,4.0,5.0,501 sqm total area
+5 bedroom detached duplex for sale,"170,000,000","Shola Street, Jericho, Ibadan, Oyo",5.0,5.0,6.0,501 sqm total area
+4 bedroom detached duplex for sale,"250,000,000","Alalubosa Main Gra, Ibadan, Oyo",4.0,4.0,4.0,501 sqm total area
+Block of flats for sale,"50,000,000","New Bodija, Ibadan, Oyo",,,,501 sqm total area
+2 bedroom block of flats for sale,"35,000,000","Ire Akari Estate, Soka, Ibadan, Oyo",2.0,2.0,2.0,501 sqm total area
+4 bedroom detached duplex for sale,"245,000,000","Oluyole Estate, Ibadan, Oyo",4.0,5.0,5.0,501 sqm total area
+5 bedroom detached duplex for sale,"226,000,000","Oluyole Estate, Ibadan, Oyo",5.0,6.0,6.0,501 sqm total area
+3 bedroom block of flats for sale,"650,000,000","Aerodrome Gra Mini Estate, Samonda, Ibadan, Oyo",3.0,4.0,4.0,"2,300 sqm total area"
+4 bedroom detached duplex for sale,"220,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,"2,300 sqm total area"
+4 bedroom detached bungalow for sale,"60,000,000","Olaogun Estate, Old Ife Road, Ibadan, Oyo",4.0,4.0,4.0,"2,300 sqm total area"
+3 bedroom detached bungalow for sale,"40,000,000","Amugba, Off Olorunda Abaa, Akobo Area,, Ibadan, Oyo",3.0,3.0,3.0,"1,185 sqm total area"
+4 bedroom block of flats for sale,"70,000,000","Beside Brent Supermarket Apata Area, Ibadan, Oyo",4.0,4.0,4.0,"1,185 sqm total area"
+2 bedroom semi-detached bungalow for sale,"6,000,000","Omi Adio Train Terminal, Omi Adio, Ibadan, Oyo",2.0,2.0,2.0,"1,185 sqm total area"
+3 bedroom detached duplex for sale,"40,000,000","Karinkapo Estate, Tipper Garage, Akala Express,, Ibadan, Oyo",3.0,3.0,3.0,312 sqm total area
+3 bedroom detached bungalow for sale,"75,000,000","Jericho Extension Alafara, Ibadan, Oyo",3.0,4.0,4.0,312 sqm total area
+3 bedroom detached bungalow for sale,"80,000,000","Olusetan Estate, Elebu, Oluyole Extension, Ibadan, Oyo",3.0,,,312 sqm total area
+4 bedroom terraced duplex for sale,"90,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,312 sqm total area
+4 bedroom detached bungalow for sale,"73,000,000","Faruku, Soka, Ibadan, Oyo",4.0,,,312 sqm total area
+3 bedroom detached bungalow for sale,"68,000,000","Tobi Rentals Junction, Eleyele- Ologuneru Rd, Ibadan, Oyo",3.0,3.0,3.0,312 sqm total area
+4 bedroom detached bungalow for sale,"80,000,000","Asunle Area Off Akala Express, Ibadan, Oyo",4.0,4.0,4.0,312 sqm total area
+4 bedroom detached duplex for sale,"240,000,000","Sijuade, Jericho, Ibadan, Oyo",4.0,,,312 sqm total area
+5 bedroom semi-detached duplex for sale,"120,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",5.0,4.0,4.0,312 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Calton Gate Estate Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,312 sqm total area
+4 bedroom semi-detached duplex for sale,"250,000,000","Lare Adigun Gra, Ibadan, Oyo",4.0,4.0,4.0,312 sqm total area
+2 bedroom block of flats for sale,"70,000,000","Omolayo Estate, Ibadan, Oyo",2.0,2.0,2.0,545 sqm total area
+4 bedroom detached bungalow for sale,"90,000,000","Royal Garden Estate, Elebu, Off Akala Express, Ibadan, Oyo",4.0,4.0,4.0,545 sqm total area
+3 bedroom semi-detached duplex for sale,"160,000,000","Carlton Gate Estate  Next To Kolapo Ishola Gra, Akobo, Ibadan, Oyo",3.0,3.0,3.0,545 sqm total area
+3 bedroom detached duplex for sale,"80,000,000","Mkh City  Estate Oluyunde, Ibadan, Oyo",3.0,3.0,4.0,545 sqm total area
+3 bedroom block of flats for sale,"45,000,000","Julian Nursery And Primary School,aromolaran, Ibadan, Oyo",3.0,3.0,3.0,545 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Sijuwade Road, Jericho, Ibadan, Oyo",4.0,4.0,4.0,700 sqm total area
+4 bedroom house for sale,"9,000,000","Odo Oba, Moniya, Ibadan, Oyo",4.0,4.0,4.0,700 sqm total area
+4 bedroom detached bungalow for sale,"60,000,000","Bola Extention, Ojoo Barracks, Ibadan, Oyo",4.0,4.0,4.0,700 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Temidere  Estate, Ologuneru, Ibadan, Oyo",3.0,3.0,3.0,550 sqm total area
+4 bedroom detached duplex for sale,"65,000,000","Abiola Quarters, Moniya, Ibadan, Oyo",4.0,4.0,5.0,175 sqm total area
+5 bedroom semi-detached duplex for sale,"120,000,000","Ikolaba Gra, Ibadan, Oyo",5.0,5.0,5.0,500 sqm total area
+4 bedroom semi-detached duplex for sale,"250,000,000","Apampa Estate, Jericho Gra, Ibadan, Oyo",4.0,4.0,4.0,500 sqm total area
+4 bedroom detached bungalow for sale,"75,000,000","Bashorun Housing Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,500 sqm total area
+7 bedroom detached bungalow for sale,"40,000,000","Adegbayi, Old Ife Road, Alakia, Ibadan, Oyo",7.0,,,500 sqm total area
+3 bedroom detached bungalow for sale,"35,000,000","Omi Adio, Ibadan, Oyo",3.0,3.0,3.0,500 sqm total area
+3 bedroom semi-detached duplex for sale,"32,000,000","Elebu Akala Express, Ibadan, Oyo",3.0,3.0,3.0,500 sqm total area
+Block of flats for sale,"50,000,000","Olubadan Estate, Alakia, Ibadan, Oyo",,,,500 sqm total area
+6 bedroom detached duplex for sale,"220,000,000","Iyaganku Gra, Ibadan, Oyo",6.0,6.0,7.0,500 sqm total area
+4 bedroom semi-detached duplex for sale,"200,000,000","Ikolaba Estate, Agodi, Ibadan, Oyo",4.0,4.0,4.0,500 sqm total area
+4 bedroom detached bungalow for sale,"90,000,000","Ateere ,kasunmu Off Akalaâs Expressway, Ibadan, Oyo",4.0,,,500 sqm total area
+3 bedroom detached bungalow for sale,"85,000,000","Ateere Akala Express, Challenge, Ibadan, Oyo",3.0,4.0,4.0,500 sqm total area
+5 bedroom detached duplex for sale,"500,000,000","Agodi, Ibadan, Oyo",5.0,6.0,6.0,500 sqm total area
+5 bedroom semi-detached duplex for sale,"370,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,6.0,6.0,500 sqm total area
+4 bedroom detached duplex for sale,"130,000,000","Palace Estate, Akala, Akobo, Ibadan, Oyo",4.0,4.0,4.0,500 sqm total area
+5 bedroom detached bungalow for sale,"150,000,000","Adebisi Layout, Nnpc Area, Apata, Ibadan, Oyo",5.0,,,500 sqm total area
+4 bedroom semi-detached duplex for sale,"200,000,000","Kolapo Ishola Gra, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+4 bedroom detached duplex for sale,"280,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+3 bedroom house for sale,"45,000,000","Akobo Extension, Akobo, Ibadan, Oyo",3.0,3.0,4.0,500 sqm total area
+Block of flats for sale,"25,000,000","Adegbayi, Alakia, Ibadan, Oyo",,,,500 sqm total area
+3 bedroom detached bungalow for sale,"85,000,000","Niyi Ishola Estate, Elebu, Ibadan, Oyo",3.0,3.0,4.0,500 sqm total area
+4 bedroom semi-detached duplex for sale,"200,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,500 sqm total area
+5 bedroom detached bungalow for sale,"80,000,000","Akilapa Estate., Jericho, Ibadan, Oyo",5.0,6.0,6.0,580 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Engineer Lere Adigun Gra, Next To Bcos, Bashorun, Ibadan, Oyo",4.0,5.0,5.0,501 sqm total area
+5 bedroom detached duplex for sale,"600,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",5.0,5.0,4.0,501 sqm total area
+2 bedroom detached duplex for sale,"38,000,000","Ibadan, Oyo",2.0,,,501 sqm total area
+4 bedroom house for sale,"37,000,000","Apata, Ibadan, Oyo",4.0,4.0,5.0,501 sqm total area
+5 bedroom detached bungalow for sale,"165,000,000","Tunji Bello Street, Ikolaba Gra, Ibadan, Oyo",5.0,,,501 sqm total area
+5 bedroom semi-detached bungalow for sale,"165,000,000","Along Aare Avenue, New Bodija, Ibadan, Oyo",5.0,,,501 sqm total area
+4 bedroom detached bungalow for sale,"50,000,000","Unity (isokan) Estate, Akobo, Ibadan, Oyo",4.0,,,501 sqm total area
+2 bedroom block of flats for sale,"100,000,000","Yemetu, Ibadan, Oyo",2.0,1.0,1.0,501 sqm total area
+3 bedroom detached bungalow for sale,"75,000,000","Nihort Area, Ibadan, Oyo",3.0,3.0,4.0,501 sqm total area
+5 bedroom detached duplex for sale,"350,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,5.0,6.0,501 sqm total area
+4 bedroom detached duplex for sale,"310,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,,,501 sqm total area
+4 bedroom detached duplex for sale,"185,000,000","Emmanuel Estate, Jericho Extension., Ibadan, Oyo",4.0,,,501 sqm total area
+3 bedroom terraced duplex for sale,"70,000,000","Maicon Courts, Omolayo Estate, Akobo, Ibadan, Oyo",3.0,3.0,4.0,501 sqm total area
+2 bedroom detached duplex for sale,"100,000,000","Carlton Gate Estate,  Akobo G.r.a, Ibadan, Oyo",2.0,2.0,3.0,501 sqm total area
+3 bedroom block of flats for sale,"130,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",3.0,4.0,4.0,501 sqm total area
+3 bedroom semi-detached bungalow for sale,"75,000,000","Bashorun Housing Estate, Akobo, Ibadan, Oyo",3.0,3.0,4.0,501 sqm total area
+5 bedroom detached duplex for sale,"500,000,000","Gra, Agodi, Ibadan, Oyo",5.0,6.0,6.0,501 sqm total area
+4 bedroom detached duplex for sale,"240,000,000","Off Bashorun Apampa, Jericho Gra, Ibadan, Oyo",4.0,,,501 sqm total area
+4 bedroom detached duplex for sale,"170,000,000","Emmanuel Estate, After Nihort, Jericho, Ibadan, Oyo",4.0,5.0,5.0,501 sqm total area
+3 bedroom detached bungalow for sale,"72,000,000","Johnson Awe, Oluyole Estate, Ibadan, Oyo",3.0,,4.0,501 sqm total area
+5 bedroom detached duplex for sale,"365,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,6.0,6.0,501 sqm total area
+4 bedroom detached duplex for sale,"155,000,000","Adenuga Street, New Bodija, Ibadan, Oyo",4.0,4.0,5.0,501 sqm total area
+3 bedroom detached bungalow for sale,"75,000,000","Iletuntun, Ibadan, Oyo",3.0,3.0,4.0,501 sqm total area
+5 bedroom detached duplex for sale,"190,000,000","Omolayo Estate, Akobo, Ibadan, Oyo",5.0,5.0,6.0,501 sqm total area
+5 bedroom detached bungalow for sale,"83,000,000","Oke'badan Estate, Akala Way, Akobo, Ibadan, Oyo",5.0,6.0,6.0,501 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Alalubosa Gra, Jericho, Ibadan, Oyo",4.0,4.0,5.0,501 sqm total area
+4 bedroom detached duplex for sale,"260,000,000","Jericho, Ibadan, Oyo",4.0,4.0,5.0,501 sqm total area
+5 bedroom detached duplex for sale,"260,000,000","Onireke Gra, Ibadan, Oyo",5.0,5.0,5.0,"1,500 sqm total area"
+4 bedroom detached duplex for sale,"350,000,000","Akobo, Ibadan, Oyo",4.0,4.0,5.0,"1,500 sqm total area"
+4 bedroom semi-detached duplex for sale,"170,000,000","Association Street, Ashi Bodija, Ibadan, Ibadan, Oyo",4.0,5.0,5.0,"1,500 sqm total area"
+Block of flats for sale,"52,000,000","Iyana Church, Alakia, Ibadan, Oyo",,,,"1,500 sqm total area"
+5 bedroom detached duplex for sale,"110,000,000","Adejuml, Alafara,, Jericho, Ibadan, Oyo",5.0,,,"1,500 sqm total area"
+4 bedroom detached bungalow for sale,"150,000,000","Dejo Oyelese, Old Bodija, Ibadan, Oyo",4.0,,,"1,500 sqm total area"
+4 bedroom detached duplex for sale,"400,000,000","8, Ilaro Street, Old Bodija, Ibadan, Oyo",4.0,,,"1,500 sqm total area"
+6 bedroom detached duplex for sale,"250,000,000","Idi Ishin Main Road, Jericho, Ibadan, Oyo",6.0,,,"1,500 sqm total area"
+Block of flats for sale,"100,000,000","Apata Market, Apata, Ibadan, Oyo",,,,"1,500 sqm total area"
+4 bedroom detached bungalow for sale,"35,000,000","Idi Orogbo, After Yawiri, Akobo, Ibadan, Oyo",4.0,,,"1,500 sqm total area"
+3 bedroom block of flats for sale,"85,000,000","Wema Bank Area, Close To Main New Ife Road, Alakia, Ibadan, Oyo",3.0,,,"1,500 sqm total area"
+3 bedroom block of flats for sale,"50,000,000","Isebo Alakia, Ibadan, Oyo",3.0,,,"1,500 sqm total area"
+2 bedroom house for sale,"67,000,000","Mkh City, Olunde Scheme, Academy, Ibadan, Oyo",2.0,2.0,2.0,"1,500 sqm total area"
+Block of flats for sale,"75,000,000","Felele, Challenge, Ibadan, Oyo",,,,"1,500 sqm total area"
+3 bedroom house for sale,"70,000,000","Golden Estate, Ajara Olorunda Road, Akobo, Ibadan, Oyo",3.0,3.0,4.0,"1,500 sqm total area"
+4 bedroom detached bungalow for sale,"35,000,000","Omolayo, Akobo, Ibadan, Oyo",4.0,,,"1,500 sqm total area"
+4 bedroom detached duplex for sale,"75,000,000","Shalom Estate, Off Akala Express, Ibadan, Oyo",4.0,,,"1,500 sqm total area"
+Block of flats for sale,"120,000,000","Elewuro, Akobo, Ibadan, Oyo",,,,"1,500 sqm total area"
+5 bedroom detached duplex for sale,"350,000,000","Legacy Estate, Kolapo Isola Gra, Akobo, Ibadan, Oyo",5.0,,,"1,500 sqm total area"
+Block of flats for sale,"70,000,000","Liberty Road, Ring Road, Challenge, Ibadan, Oyo",,,,"1,500 sqm total area"
+7 bedroom detached duplex for sale,"750,000,000","Facing Awolowo Road, Old Bodija, Ibadan, Oyo",7.0,,,"1,500 sqm total area"
+4 bedroom detached duplex for sale,"230,000,000","Kolapo Isola Gra, Akobo, Ibadan, Oyo",4.0,,,"1,500 sqm total area"
+3 bedroom detached bungalow for sale,"40,000,000","Ariyan, Ologuneru, Ibadan, Oyo",3.0,,,"1,500 sqm total area"
+4 bedroom detached duplex for sale,"280,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,"1,500 sqm total area"
+5 bedroom detached duplex for sale,"110,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",5.0,,,"1,500 sqm total area"
+4 bedroom terraced duplex for sale,"135,000,000","Oko - Ibadan Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,"1,500 sqm total area"
+Block of flats for sale,"65,000,000","Ibadan, Oyo",,,,"1,500 sqm total area"
+3 bedroom detached duplex for sale,"65,000,000","Temidire Estate, Ologuneru, Ibadan, Oyo",3.0,,,"1,500 sqm total area"
+4 bedroom detached bungalow for sale,"70,000,000","All Saints College Road, Jericho Extension, Jericho, Ibadan, Oyo",4.0,4.0,5.0,"1,500 sqm total area"
+4 bedroom detached bungalow for sale,"195,000,000","Old Bodija, Ibadan, Oyo",4.0,4.0,5.0,"1,500 sqm total area"
+Block of flats for sale,"120,000,000","Adebisi Layout, Nnpc, Apata, Ibadan, Oyo",,,,"1,500 sqm total area"
+Block of flats for sale,"35,000,000","Maku, Iyana Church, Alakia, Ibadan, Oyo",,,,"1,500 sqm total area"
+Block of flats for sale,"55,000,000","Ebenezery, Ibadan Polytechnic Area, Alakia, Ibadan, Oyo",,,,"1,500 sqm total area"
+4 bedroom semi-detached duplex for sale,"10,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",4.0,,,"1,500 sqm total area"
+Block of flats for sale,"35,000,000","Ejikeye, Iyana Agbala, Alakia, Ibadan, Oyo",,,,"1,500 sqm total area"
+7 bedroom semi-detached duplex for sale,"400,000,000","Onireke Gra, Ibadan, Oyo",7.0,7.0,7.0,"2,538 sqm total area"
+4 bedroom house for sale,"100,000,000","Olorunda Aba, Akobo, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"220,000,000","Adeyi, Old Bodija, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+4 bedroom detached bungalow for sale,"25,000,000","Omi Adio, Apata, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"160,000,000","Okebadan Estate, Akobo, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+4 bedroom detached bungalow for sale,"60,000,000","Ekerin, Ologuneru, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"270,000,000","Alalubosa, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+Block of flats for sale,"60,000,000","Liberty Road, Challenge, Ibadan, Oyo",,,,"2,538 sqm total area"
+Block of flats for sale,"130,000,000","Isebo, Alakia, Ibadan, Oyo",,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"350,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,"2,538 sqm total area"
+Block of flats for sale,"180,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",,,,"2,538 sqm total area"
+5 bedroom detached duplex for sale,"320,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",5.0,,,"2,538 sqm total area"
+5 bedroom detached duplex for sale,"200,000,000","Airforce Estate Akobo, Ibadan, Oyo",5.0,5.0,5.0,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"250,000,000","Gra, Jericho, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+Block of flats for sale,"170,000,000","Ringroad, Challenge, Ibadan, Oyo",,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"300,000,000","Kolapo Isola Gra, Akobo, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"200,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+Block of flats for sale,"120,000,000","Alengongo Estate, Akobo, Ibadan, Oyo",,,,"2,538 sqm total area"
+6 bedroom detached bungalow for sale,"18,000,000","Agbowo, Ibadan, Oyo",6.0,,,"2,538 sqm total area"
+5 bedroom detached bungalow for sale,"160,000,000","Airforce Estate, Akobo, Ibadan, Oyo",5.0,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"200,000,000","Olunde Scheme Academy Off Lagos Lbadan Express Way, Ibadan, Oyo",4.0,4.0,4.0,"2,538 sqm total area"
+2 bedroom block of flats for sale,"67,000,000","Mkh City, Ibadan, Oyo",2.0,2.0,2.0,"2,538 sqm total area"
+Block of flats for sale,"65,000,000","Dikart, Ringroad, Challenge, Ibadan, Oyo",,,,"2,538 sqm total area"
+5 bedroom detached duplex for sale,"85,000,000","Tinubu Estate, Adex Bus Stop, Iwo Road, Alakia, Ibadan, Oyo",5.0,,,"2,538 sqm total area"
+Block of flats for sale,"25,000,000","Wire And Cable, Apata, Ibadan, Oyo",,,,"2,538 sqm total area"
+Block of flats for sale,"55,000,000","Kajola Estate, Monatan, Alakia, Ibadan, Oyo",,,,"2,538 sqm total area"
+Block of flats for sale,"190,000,000","Adeoyo Road, Ring Road, Challenge, Ibadan, Oyo",,,,"2,538 sqm total area"
+4 bedroom detached bungalow for sale,"95,000,000","West Park & Gardens Estate Phase1 Ayegun Off Akala Express, Ibadan, Oyo",4.0,5.0,5.0,"2,538 sqm total area"
+4 bedroom house for sale,"50,000,000","Isebo, Alakia, Ibadan, Oyo",4.0,4.0,5.0,"2,538 sqm total area"
+5 bedroom detached bungalow for sale,"90,000,000","Orogun, Orogun, Ibadan, Oyo",5.0,,,"2,538 sqm total area"
+Block of flats for sale,"80,000,000","Tinubu Estate, Iwo Road, Alakia, Ibadan, Oyo",,,,"2,538 sqm total area"
+3 bedroom detached bungalow for sale,"44,500,000","Omituntun Estate, Ajoda New Town Kulodi Egbeda, Ibadan, Oyo",3.0,3.0,4.0,"2,538 sqm total area"
+4 bedroom detached bungalow for sale,"185,000,000","Old Bodija, Ibadan, Oyo",4.0,4.0,5.0,"2,538 sqm total area"
+3 bedroom detached bungalow for sale,"13,000,000","Alapata Apete, Lifort Road, Ibadan, Oyo",3.0,4.0,4.0,"2,538 sqm total area"
+4 bedroom block of flats for sale,"55,000,000","Basorun, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+Block of flats for sale,"180,000,000","First Class, Isebo, Alakia, Ibadan, Oyo",,,,"2,538 sqm total area"
+4 bedroom detached duplex for sale,"50,000,000","Foye, Alakia, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+Block of flats for sale,"230,000,000","Old Bodija, Ibadan, Oyo",,,,"2,538 sqm total area"
+4 bedroom detached bungalow for sale,"30,000,000","Ibugbe Alafia, Adegbayi, Alakia, Ibadan, Oyo",4.0,,,"2,538 sqm total area"
+2 bedroom house for sale,"67,000,000","Olude, Ibadan, Oyo",2.0,2.0,2.0,"2,538 sqm total area"
+Block of flats for sale,"22,000,000","Omi Adio, Apata, Ibadan, Oyo",,,,"2,538 sqm total area"
+Block of flats for sale,"20,000,000","Bako, Apata, Ibadan, Oyo",,,,"2,538 sqm total area"
+4 bedroom terraced bungalow for sale,"65,000,000","Mkh City, Olunde, Ibadan, Oyo",4.0,4.0,5.0,500 sqm covered area
+4 bedroom detached bungalow for sale,"25,000,000","Railway Area, Moniya, Ibadan, Oyo",4.0,,,500 sqm covered area
+4 bedroom detached bungalow for sale,"180,000,000","Old Bodija, Ibadan, Oyo",4.0,,,500 sqm covered area
+3 bedroom semi-detached bungalow for sale,"95,000,000","Carlton Gate, Akobo, Ibadan, Oyo",3.0,,,500 sqm covered area
+4 bedroom detached bungalow for sale,"28,000,000","Jiboye Area, Apata, Ibadan, Oyo",4.0,,,500 sqm covered area
+3 bedroom detached bungalow for sale,"60,000,000","Springfield Hotel, Eleyele, Ibadan, Oyo",3.0,,,500 sqm covered area
+4 bedroom detached bungalow for sale,"10,000,000","Araba, Oluwo, Alakia, Ibadan, Oyo",4.0,,,500 sqm covered area
+4 bedroom detached duplex for sale,"30,000,000","Kulodi Estate, Alakia, Ibadan, Oyo",4.0,,,500 sqm covered area
+Block of flats for sale,"150,000,000","Bada Estate, Akobo, Ibadan, Oyo",,,,500 sqm covered area
+Block of flats for sale,"45,000,000","Bashorun, New Bodija, Ibadan, Oyo",,,,500 sqm covered area
+Block of flats for sale,"65,000,000","Ologbo Estate, Ologuneru, Ibadan, Oyo",,,,500 sqm covered area
+3 bedroom block of flats for sale,"35,000,000","Molade Area, Alakia, Ibadan, Oyo",3.0,,,500 sqm covered area
+2 bedroom detached bungalow for sale,"15,000,000","Asaaju Estate, Akobo, Ibadan, Oyo",2.0,,,500 sqm covered area
+4 bedroom detached bungalow for sale,"23,000,000","Alakia, Ibadan, Oyo",4.0,,,500 sqm covered area
+2 bedroom detached bungalow for sale,"16,000,000","Elenushonshon, Ologuneru, Ibadan, Oyo",2.0,,,500 sqm covered area
+3 bedroom detached bungalow for sale,"30,000,000","Elewuro, Akobo, Ibadan, Oyo",3.0,,,500 sqm covered area
+4 bedroom detached bungalow for sale,"180,000,000","Old Bodija, Ibadan, Oyo",4.0,,,500 sqm covered area
+Block of flats for sale,"32,000,000","Off Liberty Road, Ring Road, Challenge, Ibadan, Oyo",,,,500 sqm covered area
+5 bedroom detached duplex for sale,"320,000,000","Afin Iyanu Off Eleyele, Ologuneru, Ibadan, Oyo",5.0,5.0,5.0,561 sqm covered area
+4 bedroom detached duplex for sale,"180,000,000","Tiger Estate Ojoo, Ibadan, Oyo",4.0,4.0,4.0,561 sqm covered area
+4 bedroom detached duplex for sale,"175,000,000","Kolapo Ishola Gra, Ibadan, Oyo",4.0,4.0,4.0,561 sqm covered area
+5 bedroom block of flats for sale,"200,000,000","Peace And Progress Estate, Akobo, Ibadan, Oyo",5.0,5.0,5.0,561 sqm covered area
+5 bedroom detached bungalow for sale,"120,000,000","Ayoola Drive Area, New Bodija, Ibadan, Oyo",5.0,5.0,5.0,812 sqm covered area
+3 bedroom detached bungalow for sale,"26,000,000","Oke Awon, Mogaji, Oyo Town , Atiba Local Government Area, Ibadan, Oyo",3.0,3.0,3.0,"1,046 sqm covered area"
+4 bedroom detached duplex for sale,"250,000,000","Chief Oyelade Estate, Oluyole Area, Ibadan, Oyo",4.0,4.0,4.0,"1,046 sqm covered area"
+4 bedroom detached bungalow for sale,"55,000,000","Harmony Way, Akoto Estate, Elebu, Off Akala Express, Ibadan, Oyo",4.0,4.0,4.0,"1,046 sqm covered area"
+3 bedroom detached duplex for sale,"350,000,000","Kolapo Ishola Gra Akobo, Ibadan, Oyo",3.0,4.0,4.0,"1,046 sqm covered area"
+4 bedroom detached bungalow for sale,"25,000,000","Falade Olorisha Oko, Moniya, Ibadan, Oyo",4.0,4.0,4.0,"1,046 sqm covered area"
+1 bedroom block of flats for sale,"75,000,000","Elebu Off Akala Express, Ibadan, Oyo",1.0,1.0,1.0,"1,046 sqm covered area"
+4 bedroom detached duplex for sale,"310,000,000","Blue Gate, Oluyole Estate, Ibadan, Oyo",4.0,4.0,4.0,"1,046 sqm covered area"
+3 bedroom block of flats for sale,"95,000,000","Ologede Estate New Garage Off Akala Express, Ibadan, Oyo",3.0,3.0,3.0,"1,046 sqm covered area"
+3 bedroom detached duplex for sale,"270,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",3.0,3.0,3.0,"1,046 sqm covered area"
+4 bedroom detached duplex for sale,"300,000,000","Aare Oluyole Estate, Ibadan, Oyo",4.0,4.0,4.0,"1,046 sqm covered area"
+Block of flats for sale,"85,000,000","Karikapo Estate Kasumu Road Off Akala Express, Ibadan, Oyo",,,,700 sqm covered area
+3 bedroom block of flats for sale,"120,000,000","Olorunda Road Akobo, Ibadan, Oyo",3.0,3.0,3.0,700 sqm covered area
+4 bedroom detached duplex for sale,"180,000,000","Carlton Gate Estate, Akobo Gra, Ibadan, Oyo",4.0,4.0,4.0,700 sqm covered area
+3 bedroom detached bungalow for sale,"55,000,000","Aba Odo Moniya Expressway, Ibadan, Oyo",3.0,3.0,3.0,503 sqm covered area
+4 bedroom semi-detached duplex for sale,"200,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",4.0,4.0,4.0,503 sqm covered area
+3 bedroom block of flats for sale,"220,000,000","Progressive Estate Off Akala Express, Ibadan, Oyo",3.0,3.0,3.0,503 sqm covered area
+5 bedroom terraced duplex for sale,"200,000,000","Kolapo Ishola Gra, Akobo General Gas, Ibadan, Oyo",5.0,5.0,5.0,503 sqm covered area
+4 bedroom detached duplex for sale,"140,000,000","Oluyole, Ibadan, Oyo",4.0,4.0,4.0,503 sqm covered area
+5 bedroom detached duplex for sale,"230,000,000","Onireke Gra Jericho, Ibadan, Oyo",5.0,5.0,5.0,503 sqm covered area
+5 bedroom detached duplex for sale,"350,000,000","Providence Estate Eleyele Road, Ibadan, Oyo",5.0,5.0,5.0,503 sqm covered area
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,503 sqm covered area
+5 bedroom terraced duplex for sale,"200,000,000","Engr. Lere Adigun, Gra Basorun, Ibadan, Oyo",5.0,4.0,5.0,503 sqm covered area
+4 bedroom house for sale,"220,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,503 sqm covered area
+3 bedroom detached bungalow for sale,"70,000,000","Beloved Estate, Off Nihortâalafara Road, Idi Ishin, Jericho, Ibadan, Oyo",3.0,3.0,3.0,503 sqm covered area
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate Estate, Beside Kolapo Ishola Gra, Ibadan, Oyo",4.0,4.0,4.0,450 sqm covered area
+5 bedroom detached duplex for sale,"250,000,000","Oluyole, Ibadan, Oyo",5.0,5.0,5.0,450 sqm covered area
+4 bedroom house for sale,"1,500,000,000","Main Jericho Gra, Ibadan, Oyo",4.0,4.0,4.0,450 sqm covered area
+4 bedroom detached duplex for sale,"260,000,000","Carlton Gate Estate, Beside Kolapo Ishola Gra, Ibadan, Oyo",4.0,4.0,4.0,450 sqm covered area
+4 bedroom detached duplex for sale,"150,000,000","Akala Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,450 sqm covered area
+3 bedroom block of flats for sale,"100,000,000","Behind Aleshinloye Shopping Mall, Ibadan, Oyo",3.0,3.0,3.0,"1,000 sqm covered area"
+5 bedroom detached bungalow for sale,"150,000,000","Aiyegoro Estate, Akobo, Ibadan, Oyo",5.0,5.0,5.0,918 sqm covered area
+3 bedroom detached bungalow for sale,"70,000,000","Ile Titun Jericho Extension, Ibadan, Oyo",3.0,3.0,3.0,918 sqm covered area
+4 bedroom detached bungalow for sale,"550,000,000","Iyaganku Gra, Ibadan, Oyo",4.0,4.0,4.0,"2,622 sqm covered area"
+Block of flats for sale,"200,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",,,,"2,622 sqm covered area"
+3 bedroom detached bungalow for sale,"65,000,000","Ogo Oluwa Estate, Bada, Akobo, Ibadan, Oyo",3.0,,,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"130,000,000","Hallmark Palace Estate, Akobo, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"220,000,000","Carlton Gate, Akobo, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+Block of flats for sale,"23,000,000","Aliri, Opposite Wisdom Estate, Akobo, Ibadan, Oyo",,,,"2,622 sqm covered area"
+4 bedroom semi-detached duplex for sale,"135,000,000","Old Bodija, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+5 bedroom detached bungalow for sale,"150,000,000","New Bodija Estate, Ibadan, Oyo",5.0,5.0,5.0,"2,622 sqm covered area"
+Block of flats for sale,"85,000,000","Oni Estate, Akobo, Ibadan, Oyo",,,,"2,622 sqm covered area"
+3 bedroom detached bungalow for sale,"85,000,000","Ateere Area Off Akala Express, Ibadan, Oyo",3.0,3.0,3.0,"2,622 sqm covered area"
+3 bedroom detached bungalow for sale,"60,000,000","Afin Iyanu, Off Ologuneru, Ibadan, Oyo",3.0,,,"2,622 sqm covered area"
+3 bedroom detached bungalow for sale,"63,000,000","Oluyole, Ibadan, Oyo",3.0,,3.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"260,000,000","Oluyole Estate, Ibadan, Oyo",4.0,4.0,5.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate Estate, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+3 bedroom block of flats for sale,"130,000,000","Abela Alagutan, Ibadan, Oyo",3.0,,,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"160,000,000","Afin Iyanu, Ologuneru, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+Block of flats for sale,"80,000,000","Between Bodija Market And Unibadan, New Bodija, Ibadan, Oyo",,,,"2,622 sqm covered area"
+3 bedroom detached bungalow for sale,"75,000,000","Green View Estate, Oluyole Extension, Ibadan, Oyo",3.0,,,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"300,000,000","Gra Phase 1, Alalubosa, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+3 bedroom detached duplex for sale,"420,000,000","Kobiowu Estate, Iyaganku, Ibadan, Oyo",3.0,,,"2,622 sqm covered area"
+Block of flats for sale,"70,000,000","Yawiri Road, Akobo, Ibadan, Oyo",,,,"2,622 sqm covered area"
+Block of flats for sale,"80,000,000","Ateere, Akala Express, Challenge, Ibadan, Oyo",,,,"2,622 sqm covered area"
+5 bedroom detached duplex for sale,"180,000,000","New Bodija, Ibadan, Oyo",5.0,6.0,6.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"260,000,000","Chief Lateef Oyelade Street, Ring Road Gra, Challenge, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+4 bedroom detached bungalow for sale,"55,000,000","Akoto Estate, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+Block of flats for sale,"420,000,000","Lateef Oyelade Street, Ring Road Gra, Challenge, Ibadan, Oyo",,,,"2,622 sqm covered area"
+Block of flats for sale,"50,000,000","Anfani Street, Ring Road, Challenge, Ibadan, Oyo",,,,"2,622 sqm covered area"
+Block of flats for sale,"35,000,000","Adetokun, Ologuneru, Ibadan, Oyo",,,,"2,622 sqm covered area"
+3 bedroom detached bungalow for sale,"80,000,000","Akala Way, Akobo, Ibadan, Oyo",3.0,3.0,3.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"290,000,000","Larry Estate, Aare Oluyole, Ibadan, Oyo",4.0,4.0,5.0,"2,622 sqm covered area"
+5 bedroom detached duplex for sale,"350,000,000","Providence Estate, Eleyele, Ibadan, Oyo",5.0,,,"2,622 sqm covered area"
+4 bedroom terraced duplex for sale,"120,000,000","High Court Estate, Adeoyo, Challenge, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+Block of flats for sale,"30,000,000","Papa Apete, Santo, Eleyele, Ibadan, Oyo",,,,"2,622 sqm covered area"
+4 bedroom terraced duplex for sale,"150,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+Block of flats for sale,"100,000,000","Iwo Road ,lagos Ibadan Express Way, Alakia, Ibadan, Oyo",,,,"2,622 sqm covered area"
+4 bedroom detached bungalow for sale,"30,000,000","Paara, Airport Second Gate, Alakia, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+Block of flats for sale,"40,000,000","Akingbile, Moniya, Ibadan, Oyo",,,,"2,622 sqm covered area"
+5 bedroom detached duplex for sale,"275,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",5.0,6.0,6.0,"2,622 sqm covered area"
+Block of flats for sale,"55,000,000","Idi Ishin, Jericho, Ibadan, Oyo",,,,"2,622 sqm covered area"
+Block of flats for sale,"240,000,000","Moremi, New Bodija, Ibadan, Oyo",,,,"2,622 sqm covered area"
+4 bedroom detached bungalow for sale,"200,000,000","Favours, New Bodija, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+3 bedroom detached bungalow for sale,"90,000,000","Ateere, After Kasunmu Off Akala Expressway, Ibadan, Oyo",3.0,4.0,4.0,"2,622 sqm covered area"
+4 bedroom house for sale,"150,000,000","Elebu, Ibadan, Oyo",4.0,5.0,5.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"185,000,000","Kolapo Ishola Gra, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+4 bedroom terraced duplex for sale,"280,000,000","Old Bodija, Ibadan, Oyo",4.0,,,"2,622 sqm covered area"
+5 bedroom detached bungalow for sale,"250,000,000","Ibachi Chinese Restaurant, New Bodija, Ibadan, Oyo",5.0,,,"2,622 sqm covered area"
+4 bedroom semi-detached duplex for sale,"180,000,000","Ashi, Bodija, Ibadan, Oyo",4.0,4.0,4.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"160,000,000","Engineer Oyelade Lateef  Gra Oluyole, Off 7-up Road, Ibadan, Oyo",4.0,4.0,4.0,"2,622 sqm covered area"
+4 bedroom semi-detached duplex for sale,"180,000,000","Ashi, Bodija, Ibadan, Oyo",4.0,4.0,5.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"220,000,000","Star Gate Oluyole Estate, Ibadan, Oyo",4.0,4.0,4.0,"2,622 sqm covered area"
+4 bedroom detached duplex for sale,"270,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,400 sqm covered area
+5 bedroom detached bungalow for sale,"35,000,000","Tella Estate, Akobo, Ibadan, Oyo",5.0,,,400 sqm covered area
+6 bedroom detached duplex for sale,"450,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",6.0,6.0,6.0,530 sqm covered area
+5 bedroom detached duplex for sale,"185,000,000","Akala Way, Akobo, Ibadan, Oyo",5.0,5.0,5.0,530 sqm covered area
+2 bedroom block of flats for sale,"50,000,000","Ogungbade New Ife Road, Ibadan, Oyo",2.0,,2.0,500 sqm covered area
+4 bedroom detached bungalow for sale,"55,000,000","Gate 3 Elebu Off Akala Expressway, Ibadan, Oyo",4.0,4.0,4.0,500 sqm covered area
+3 bedroom block of flats for sale,"85,000,000","Alaaka, Elebu Area Off Akala Express Way, Ibadan, Oyo",3.0,3.0,3.0,500 sqm covered area
+3 bedroom detached bungalow for sale,"70,000,000","Elewuro Area, Akobo, Ibadan, Oyo",3.0,3.0,3.0,610 sqm covered area
+3 bedroom block of flats for sale,"60,000,000","Plot 2 Bola, Ojoo Area, Ibadan, Oyo",3.0,3.0,3.0,610 sqm covered area
+3 bedroom block of flats for sale,"90,000,000","Iwo Road, Ibadan, Oyo",3.0,3.0,3.0,600 sqm covered area
+5 bedroom detached duplex for sale,"170,000,000","Asunle, Akala Express, Ibadan, Oyo",5.0,5.0,5.0,600 sqm covered area
+4 bedroom detached duplex for sale,"210,000,000","Carlton Gate Estate Akobo Gra, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+1 bedroom block of flats for sale,"40,000,000","Iyana Agbala, Ibadan, Oyo",1.0,1.0,11.0,600 sqm covered area
+2 bedroom block of flats for sale,"40,000,000","Lagbe, Akingbile, Moniya, Ibadan, Oyo",2.0,2.0,2.0,600 sqm covered area
+3 bedroom terraced duplex for sale,"160,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",3.0,3.0,3.0,600 sqm covered area
+4 bedroom detached duplex for sale,"340,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,620 sqm covered area
+4 bedroom detached duplex for sale,"110,000,000","Palace Estate, Akala, Ibadan, Oyo",4.0,4.0,4.0,620 sqm covered area
+2 bedroom block of flats for sale,"80,000,000","Ajara Estate, Olorunda Akobo, Ibadan, Oyo",2.0,2.0,2.0,620 sqm covered area
+4 bedroom detached bungalow for sale,"150,000,000","Lagelu Estate   Challenge, Ibadan, Oyo",4.0,4.0,4.0,620 sqm covered area
+4 bedroom detached duplex for sale,"150,000,000","New Bodija, Ibadan, Oyo",4.0,4.0,4.0,620 sqm covered area
+2 bedroom detached duplex for sale,"100,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",2.0,2.0,3.0,620 sqm covered area
+Block of flats for sale,"65,000,000","Alegongo Estate, Akobo, Ibadan, Oyo",,,,620 sqm covered area
+4 bedroom detached duplex for sale,"200,000,000","Ikolaba Gra, Ibadan, Oyo",4.0,,,620 sqm covered area
+11 bedroom detached duplex for sale,"900,000,000","Agodi, Ibadan, Oyo",11.0,14.0,15.0,620 sqm covered area
+3 bedroom detached bungalow for sale,"15,000,000","Abaotun, Adegbayi, Alakia, Ibadan, Oyo",3.0,,,620 sqm covered area
+Block of flats for sale,"150,000,000","Ikolaba Main Estate, New Bodija, Ibadan, Oyo",,,,620 sqm covered area
+5 bedroom detached duplex for sale,"190,000,000","Emmanuel Estate, Idi Ishin, After Nihort, Jericho, Ibadan, Oyo",5.0,,,620 sqm covered area
+5 bedroom detached duplex for sale,"260,000,000","Carlton Gate Estate, Ibadan, Oyo",5.0,5.0,6.0,620 sqm covered area
+2 bedroom detached bungalow for sale,"45,000,000","Baptist Grammar School Nihort Junction Ile Tuntun, Jericho, Ibadan, Oyo",2.0,3.0,3.0,700 sqm total area
+4 bedroom detached duplex for sale,"265,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,700 sqm total area
+5 bedroom detached duplex for sale,"300,000,000","Orange Gate Oluyole Estate Extension, Ibadan, Oyo",5.0,5.0,5.0,450 sqm covered area
+5 bedroom detached duplex for sale,"270,000,000","Golf Club,  Onireke Gra, Ibadan, Oyo",5.0,5.0,5.0,450 sqm covered area
+5 bedroom detached duplex for sale,"285,000,000","Larry Estate Oluyole Extension, Ibadan, Oyo",5.0,5.0,5.0,450 sqm covered area
+4 bedroom detached duplex for sale,"185,000,000","Emmanuel Estate, Nihort, Jericho, Ibadan, Oyo",4.0,4.0,4.0,450 sqm covered area
+7 bedroom detached duplex for sale,"150,000,000","Adeleye Str, Commodore Area Elebu Off Akala Express, Oluyole Extension, Ibadan, Oyo",7.0,7.0,8.0,450 sqm covered area
+6 bedroom detached duplex for sale,"85,000,000","Icast School Area, Near Elebu Market, Off Akala Express, Ibadan, Oyo",6.0,5.0,5.0,450 sqm covered area
+6 bedroom house for sale,"20,000,000","Winners Area, Wire And Cable, Apata, Ibadan, Oyo",6.0,6.0,6.0,450 sqm covered area
+3 bedroom detached bungalow for sale,"35,000,000","Iyana Akanle,, Alakia, Ibadan, Oyo",3.0,,,450 sqm covered area
+Block of flats for sale,"300,000,000","Elewura, Challenge, Ibadan, Oyo",,,,450 sqm covered area
+5 bedroom detached bungalow for sale,"120,000,000","Sun Beam Area, New Bodija, Ibadan, Oyo",5.0,,,450 sqm covered area
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,450 sqm covered area
+4 bedroom detached duplex for sale,"260,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,450 sqm covered area
+5 bedroom detached duplex for sale,"250,000,000","Oluyole, Ibadan, Oyo",5.0,5.0,6.0,450 sqm covered area
+4 bedroom semi-detached duplex for sale,"250,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,450 sqm covered area
+Block of flats for sale,"50,000,000","Omolayo, Akobo, Ibadan, Oyo",,,,450 sqm covered area
+4 bedroom detached duplex for sale,"375,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,450 sqm covered area
+4 bedroom detached duplex for sale,"150,000,000","Lekron Estate, New Bodija, Ibadan, Oyo",4.0,,,450 sqm covered area
+Block of flats for sale,"35,000,000","Iyana Church, Alakia, Ibadan, Oyo",,,,450 sqm covered area
+Block of flats for sale,"35,000,000","Akingbade, Gbagi, Alakia, Ibadan, Oyo",,,,450 sqm covered area
+4 bedroom detached duplex for sale,"200,000,000","Sunbeam Area, New Bodija, Ibadan, Oyo",4.0,,,450 sqm covered area
+4 bedroom detached duplex for sale,"190,000,000","Omolayo Estate, Akobo, Ibadan, Oyo",4.0,,,450 sqm covered area
+15 bedroom block of flats for sale,"150,000,000","Before Nihort Gate, Jericho, Ibadan, Oyo",15.0,,16.0,450 sqm covered area
+5 bedroom detached duplex for sale,"250,000,000","Gra, Agodi, Ibadan, Oyo",5.0,,,450 sqm covered area
+2 bedroom detached duplex for sale,"100,000,000","Carlton Gate, Akobo, Ibadan, Oyo",2.0,,,450 sqm covered area
+3 bedroom detached bungalow for sale,"65,000,000","Olofa Royal Estate, Elebu Off Akala Expressway, Ibadan, Oyo",3.0,,,450 sqm covered area
+5 bedroom detached duplex for sale,"80,000,000","Brent Mall, Airport, Old Ife Road,, Alakia, Ibadan, Oyo",5.0,,,450 sqm covered area
+4 bedroom semi-detached duplex for sale,"250,000,000","Legacy Estate, Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,450 sqm covered area
+Block of flats for sale,"180,000,000","Alafia Estate, Akobo, Ibadan, Oyo",,,,450 sqm covered area
+3 bedroom detached bungalow for sale,"12,000,000","Gbopa, Ologuneru, Ibadan, Oyo",3.0,,,450 sqm covered area
+5 bedroom detached bungalow for sale,"55,000,000","Akilapa Iyalode Area Olorunda Abaa, Akobo, Ibadan, Oyo",5.0,5.0,7.0,450 sqm covered area
+5 bedroom detached duplex for sale,"450,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,6.0,6.0,450 sqm covered area
+4 bedroom detached duplex for sale,"190,000,000","New Garage, Challenge, Ibadan, Oyo",4.0,,,450 sqm covered area
+5 bedroom detached duplex for sale,"250,000,000","Oluyole, Ibadan, Oyo",5.0,5.0,6.0,450 sqm covered area
+3 bedroom detached bungalow for sale,"28,000,000","Aba Titi, Adegbayi, Alakia, Ibadan, Oyo",3.0,,,450 sqm covered area
+Block of flats for sale,"18,000,000","Old Ajia Road, Adegbayi, Alakia, Ibadan, Oyo",,,,450 sqm covered area
+3 bedroom detached bungalow for sale,"70,000,000","Ile Tuntun Estate, Nihort Area, Jericho, Ibadan, Oyo",3.0,,,450 sqm covered area
+4 bedroom detached duplex for sale,"200,000,000","New Bodija, Ibadan, Oyo",4.0,,,450 sqm covered area
+4 bedroom detached duplex for sale,"250,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",4.0,,,450 sqm covered area
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,5.0,450 sqm covered area
+4 bedroom detached bungalow for sale,"170,000,000","Adeyi, Old Bodija, Ibadan, Oyo",4.0,,,450 sqm covered area
+5 bedroom semi-detached bungalow for sale,"40,000,000","Elelu, Alakia, Ibadan, Oyo",5.0,,6.0,400 sqm total area
+4 bedroom semi-detached duplex for sale,"170,000,000","Gra, Jericho, Ibadan, Oyo",4.0,5.0,5.0,400 sqm total area
+11 bedroom block of flats for sale,"95,000,000","Idi Ape, Akobo, Ibadan, Oyo",11.0,,13.0,500 sqm total area
+10 bedroom block of flats for sale,"75,000,000","Olohunda Akobi Road, Akobo, Ibadan, Oyo",10.0,12.0,12.0,500 sqm total area
+4 bedroom detached duplex for sale,"105,000,000","Omolayo, Akobo, Ibadan, Oyo",4.0,4.0,,500 sqm total area
+3 bedroom detached bungalow for sale,"43,000,000","Near Ance Building, Off Jericho - Aleshinloye Road, Jericho, Ibadan, Oyo",3.0,3.0,3.0,500 sqm total area
+4 bedroom detached duplex for sale,"270,000,000","Carlton Gate, Akobo, Ibadan, Oyo",4.0,,,500 sqm total area
+4 bedroom detached duplex for sale,"180,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,500 sqm total area
+3 bedroom detached bungalow for sale,"25,000,000","Omilabu, Ojoo, Ibadan, Oyo",3.0,,4.0,500 sqm total area
+Block of flats for sale,"45,000,000","Agoro, Behind Nigerian Brewery, Alakia, Ibadan, Oyo",,,,500 sqm total area
+Block of flats for sale,"25,000,000","Ibugbe Alayo, Adegbayi, Alakia, Ibadan, Oyo",,,,500 sqm total area
+4 bedroom detached bungalow for sale,"30,000,000","Apete, Eleyele, Ibadan, Oyo",4.0,,,500 sqm total area
+5 bedroom detached duplex for sale,"250,000,000","Kolapo Ishola Gra, Ibadan, Oyo",5.0,5.0,6.0,500 sqm total area
+6 bedroom detached duplex for sale,"110,000,000","New Bodija, Ibadan, Oyo",6.0,6.0,6.0,930 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Kobiowu Crescent, Iyaganku, Ibadan, Oyo",4.0,,,930 sqm total area
+Block of flats for sale,"85,000,000","Orogun, Ibadan, Oyo",,,,930 sqm total area
+3 bedroom house for sale,"200,000,000","Iwo Road, Alakia, Ibadan, Oyo",3.0,,,930 sqm total area
+2 bedroom detached bungalow for sale,"50,900,000","The Gloverwood Bungalows By Elanorris Lawoyin, Ologuneru, Ibadan, Oyo",2.0,2.0,3.0,930 sqm total area
+3 bedroom detached bungalow for sale,"11,000,000","Oluwabamise, Iyana Agbala, Alakia, Ibadan, Oyo",3.0,,,930 sqm total area
+Block of flats for sale,"65,000,000","Ashi, Second Plot To Main Road, New Bodija, Ibadan, Oyo",,,,930 sqm total area
+5 bedroom detached duplex for sale,"185,000,000","Facing Aare Road, New Bodija, Ibadan, Oyo",5.0,,,930 sqm total area
+Block of flats for sale,"80,000,000","Idi Ape, Bashorun, New Bodija, Ibadan, Oyo",,,,930 sqm total area
+4 bedroom detached duplex for sale,"145,000,000","Oluyole Estate, Ibadan, Oyo",4.0,5.0,5.0,930 sqm total area
+3 bedroom detached bungalow for sale,"75,000,000","Akobo Estate, Akobo, Ibadan, Oyo",3.0,3.0,4.0,930 sqm total area
+4 bedroom detached duplex for sale,"450,000,000","Akobo, Ibadan, Oyo",4.0,5.0,5.0,930 sqm total area
+5 bedroom detached bungalow for sale,"65,000,000","Oki To Ogungbade Road, Alakia, Ibadan, Oyo",5.0,,,930 sqm total area
+4 bedroom detached duplex for sale,"250,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",4.0,4.0,5.0,930 sqm total area
+4 bedroom semi-detached duplex for sale,"200,000,000","Ikolaba Estate, Old Bodija, Ibadan, Oyo",4.0,,5.0,600 sqm total area
+Block of flats for sale,"45,000,000","Awotan, Apete, Beside Awotan Police Station, Samonda, Ibadan, Oyo",,,,600 sqm total area
+5 bedroom detached bungalow for sale,"35,000,000","Yawiri, Akobo, Ibadan, Oyo",5.0,,,600 sqm total area
+4 bedroom detached duplex for sale,"185,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,600 sqm total area
+3 bedroom house for sale,"140,000,000","Peace Estate, Beside Dss Estate, Jericho, Ibadan, Oyo",3.0,,,600 sqm total area
+5 bedroom detached duplex for sale,"340,000,000","Gra, Agodi, Ibadan, Oyo",5.0,,,600 sqm total area
+Block of flats for sale,"70,000,000","Okebadan Estate, Akobo, Ibadan, Oyo",,,,600 sqm total area
+Block of flats for sale,"60,000,000","Bolumole, Ringroad, Challenge, Ibadan, Oyo",,,,600 sqm total area
+4 bedroom detached bungalow for sale,"40,000,000","Ojurin, Akobo, Ibadan, Oyo",4.0,,,600 sqm total area
+2 bedroom detached bungalow for sale,"28,000,000","Ido, Ibadan, Oyo",2.0,2.0,2.0,600 sqm total area
+4 bedroom detached duplex for sale,"150,000,000","Carlton Gate, Akobo, Ibadan, Oyo",4.0,,,600 sqm total area
+4 bedroom detached duplex for sale,"180,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,600 sqm total area
+3 bedroom detached bungalow for sale,"18,000,000","Idi Ape, Olorunda, Akobo, Ibadan, Oyo",3.0,,,600 sqm total area
+5 bedroom detached duplex for sale,"360,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",5.0,6.0,6.0,600 sqm total area
+4 bedroom semi-detached duplex for sale,"180,000,000","Jericho, Ibadan, Oyo",4.0,4.0,5.0,600 sqm total area
+Block of flats for sale,"25,000,000","Alabidun, Airport Area, Alakia, Ibadan, Oyo",,,,600 sqm total area
+Block of flats for sale,"160,000,000","Fodasis, Ringroad, Challenge, Ibadan, Oyo",,,,600 sqm total area
+Block of flats for sale,"50,000,000","Olorunda, Akobo, Ibadan, Oyo",,,,600 sqm total area
+5 bedroom detached duplex for sale,"220,000,000","Oluyole Estate, Ibadan, Oyo",5.0,6.0,6.0,600 sqm total area
+Block of flats for sale,"55,000,000","Ajeigbe, Ring Road, Challenge, Ibadan, Oyo",,,,600 sqm total area
+Block of flats for sale,"60,000,000","Olorombo, Bashorun, New Bodija, Ibadan, Oyo",,,,600 sqm total area
+Block of flats for sale,"10,000,000","Alagbayun, Oremeji,, Alakia, Ibadan, Oyo",,,,600 sqm total area
+3 bedroom block of flats for sale,"115,000,000","Basorun, Akobo, Ibadan, Oyo",3.0,3.0,3.0,600 sqm total area
+Block of flats for sale,"150,000,000","Ashi Junction, New Bodija, Ibadan, Oyo",,,,600 sqm total area
+4 bedroom detached duplex for sale,"82,582,500","Fort Court Estate, Owode Street, Off Abeokuta-ibadan Road, Gra, Ibadan, Oyo",4.0,4.0,5.0,600 sqm total area
+9 bedroom detached duplex for sale,"500,000,000","Forest Hills Estate, Jericho Gra, Jericho, Ibadan, Oyo",9.0,10.0,10.0,"2,800 sqm total area"
+96 bedroom house for sale,"55,000,000","Anfani Street, Ring Road, Challenge, Ibadan, Oyo",96.0,6.0,6.0,"2,800 sqm total area"
+4 bedroom detached duplex for sale,"185,000,000","Kolapo Ishola Gra Akobo, Ibadan, Oyo",4.0,4.0,4.0,"2,800 sqm total area"
+3 bedroom terraced duplex for sale,"65,000,000","Ropo Adeniran Street, Akala Way, Akobo, Ibadan, Oyo",3.0,4.0,4.0,"2,800 sqm total area"
+4 bedroom detached duplex for sale,"250,000,000","Ikolaba Estate Bodija, Ibadan, Oyo",4.0,4.0,4.0,"2,800 sqm total area"
+4 bedroom semi-detached duplex for sale,"200,000,000","Ikolaba Estate, Bodija, Ibadan, Oyo",4.0,4.0,4.0,"2,800 sqm total area"
+4 bedroom semi-detached duplex for sale,"130,000,000","Jericho Gra, Jericho, Ibadan, Oyo",4.0,,,"2,800 sqm total area"
+5 bedroom detached duplex for sale,"190,000,000","Alao Akala Express Way, Akobo, Ibadan, Oyo",5.0,4.0,4.0,"2,800 sqm total area"
+10 bedroom detached duplex for sale,"650,000,000","Aerodrome Gra, Samonda, Ibadan, Oyo",10.0,10.0,11.0,700 sqm covered area
+4 bedroom block of flats for sale,"70,000,000","Anfani, Off Ring Road, Ibadan, Oyo",4.0,4.0,44.0,700 sqm covered area
+6 bedroom detached duplex for sale,"120,000,000","Alafia Estate Akobo Akala Way, Ibadan, Oyo",6.0,6.0,6.0,700 sqm covered area
+2 bedroom detached duplex for sale,"75,000,000","Salami Estate, New Bodija, Ibadan, Oyo",2.0,2.0,2.0,700 sqm covered area
+5 bedroom detached duplex for sale,"100,000,000","Oluwo Nla Basorun, Ibadan, Oyo",5.0,5.0,5.0,700 sqm covered area
+4 bedroom detached bungalow for sale,"55,000,000","Aba-asa, Ile Titun Nihort Area Nihort, Ibadan, Oyo",4.0,4.0,4.0,700 sqm covered area
+3 bedroom detached bungalow for sale,"100,000,000","Ile Titun, Jericho, Ibadan, Oyo",3.0,3.0,3.0,700 sqm covered area
+4 bedroom detached duplex for sale,"209,000,000","Tiger Estate, Ojoo, Ibadan, Oyo",4.0,4.0,4.0,700 sqm covered area
+4 bedroom detached duplex for sale,"185,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,700 sqm covered area
+4 bedroom semi-detached duplex for sale,"250,000,000","Ikolaba Gra, New Bodija, Ibadan, Oyo",4.0,,,700 sqm covered area
+4 bedroom detached duplex for sale,"310,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,5.0,5.0,620 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Carlton Gate Estate, Ibadan, Oyo",4.0,5.0,6.0,620 sqm total area
+Block of flats for sale,"110,000,000","Opposite Liberty Stadium, Facing Main Road, Oke Ado, Ibadan, Oyo",,,,620 sqm total area
+Block of flats for sale,"50,000,000","Barika, Agbowo, Ibadan, Oyo",,,,620 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Aree, Oluyole Estate, Ibadan, Oyo",4.0,4.0,4.0,620 sqm total area
+3 bedroom detached bungalow for sale,"30,000,000","Jiboye Area, Apata, Ibadan, Oyo",3.0,,3.0,620 sqm total area
+4 bedroom detached duplex for sale,"350,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,620 sqm total area
+3 bedroom detached bungalow for sale,"60,000,000","Around Bovas, Afin Iyanu, Ologuneru, Ibadan, Oyo",3.0,3.0,3.0,620 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Jericho, Ibadan, Oyo",4.0,4.0,4.0,620 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Alafara Mini Estate, Off Nihort Jericho Extension, Ibadan, Oyo",3.0,3.0,3.0,620 sqm total area
+3 bedroom detached bungalow for sale,"18,000,000","Ologuneru, Ibadan, Oyo",3.0,3.0,3.0,620 sqm total area
+4 bedroom detached duplex for sale,"220,000,000","Oyelade Estate, Oluyole Estate, Ibadan, Oyo",4.0,4.0,5.0,620 sqm total area
+4 bedroom detached duplex for sale,"185,000,000","Kolapo Ishola Gra, Ibadan, Oyo",4.0,5.0,6.0,620 sqm total area
+4 bedroom detached bungalow for sale,"25,000,000","Paara, Airport, Alakia, Ibadan, Oyo",4.0,,,620 sqm total area
+4 bedroom detached bungalow for sale,"6,500,000","Adegbayi, Alakia, Ibadan, Oyo",4.0,,,620 sqm total area
+4 bedroom detached duplex for sale,"70,000,000","Temidayo Ajadi, Ologuneru, Ibadan, Oyo",4.0,,,620 sqm total area
+4 bedroom semi-detached duplex for sale,"180,000,000","Gra, Jericho, Ibadan, Oyo",4.0,4.0,5.0,620 sqm total area
+Block of flats for sale,"28,000,000","Apata, Agbowo, Ibadan, Oyo",,,,620 sqm total area
+Block of flats for sale,"50,000,000","Abayomi, Iwo Road, Alakia, Ibadan, Oyo",,,,620 sqm total area
+Block of flats for sale,"50,000,000","Pagun, Olodo, Alakia, Ibadan, Oyo",,,,620 sqm total area
+Block of flats for sale,"150,000,000","Foye, Alakia, Ibadan, Oyo",,,,620 sqm total area
+4 bedroom detached duplex for sale,"220,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,620 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Jericho Extension Alafara, Ibadan, Oyo",3.0,4.0,4.0,620 sqm total area
+4 bedroom semi-detached duplex for sale,"120,000,000","Ososami Road, Oke Ado, Ibadan, Oyo",4.0,,,620 sqm total area
+Block of flats for sale,"90,000,000","Akinyemi, Ring Road, Challenge, Ibadan, Oyo",,,,620 sqm total area
+3 bedroom detached bungalow for sale,"100,000,000","Adeniran Estate, Nihort, Alafara, Jericho, Ibadan, Oyo",3.0,,,620 sqm total area
+12 bedroom block of flats for sale,"50,000,000","Iyana Olopa, Along Faith Bible Church, Akobo, Ibadan, Oyo",12.0,,,620 sqm total area
+3 bedroom detached bungalow for sale,"58,000,000","Moniya, Ibadan, Oyo",3.0,3.0,4.0,620 sqm total area
+5 bedroom terraced duplex for sale,"130,000,000","Iyaganku, Ibadan, Oyo",5.0,5.0,6.0,620 sqm total area
+5 bedroom detached duplex for sale,"130,000,000","Mkh City Estate Ibadan, Ibadan, Oyo",5.0,5.0,,620 sqm total area
+Block of flats for sale,"230,000,000","Okebadan Estate, Akobo, Ibadan, Oyo",,,,620 sqm total area
+2 bedroom detached bungalow for sale,"90,000,000","Bashorun, Winners Way, New Bodija, Ibadan, Oyo",2.0,,,620 sqm total area
+Block of flats for sale,"120,000,000","Trumped, Ringroad, Challenge, Ibadan, Oyo",,,,620 sqm total area
+3 bedroom detached duplex for sale,"75,000,000","Adron Estate, Asejire, Coca-cola, Alakia, Ibadan, Oyo",3.0,,,620 sqm total area
+Block of flats for sale,"25,000,000","Sawmill, Old Ife Road, Alakia, Ibadan, Oyo",,,,620 sqm total area
+4 bedroom detached duplex for sale,"230,000,000","Rotimi Williams, Old Bodija, Ibadan, Oyo",4.0,,,620 sqm total area
+3 bedroom detached bungalow for sale,"65,000,000","Olonde, Ologuneru, Ibadan, Oyo",3.0,,,620 sqm total area
+6 bedroom detached duplex for sale,"250,000,000","Oluyole Estate, Ibadan, Oyo",6.0,7.0,7.0,700 sqm total area
+Block of flats for sale,"50,000,000","Harmony Estate, Akobo, Ibadan, Oyo",,,,700 sqm total area
+4 bedroom detached duplex for sale,"150,000,000","Tiger Mini Estate, Ibadan, Oyo",4.0,5.0,5.0,700 sqm total area
+4 bedroom semi-detached bungalow for sale,"200,000,000","Oni & Sons, Ringroad, Challenge, Ibadan, Oyo",4.0,,,700 sqm total area
+Block of flats for sale,"65,000,000","Sawmill, Old Ife Road, Alakia, Ibadan, Oyo",,,,700 sqm total area
+4 bedroom detached duplex for sale,"190,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,700 sqm total area
+4 bedroom semi-detached duplex for sale,"250,000,000","Legacy Estate, Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,5.0,5.0,700 sqm total area
+5 bedroom semi-detached duplex for sale,"200,000,000","Olubi Close, New Bodija, Ibadan, Oyo",5.0,,,700 sqm total area
+Block of flats for sale,"85,000,000","T Exclusive, Bashorun, Akobo, Ibadan, Oyo",,,,700 sqm total area
+2 bedroom semi-detached duplex for sale,"200,000,000","Optimed Pharmacy Area, Alakia, Ibadan, Oyo",2.0,,,700 sqm total area
+5 bedroom semi-detached duplex for sale,"180,000,000","New Bodija, Ibadan, Oyo",5.0,,,700 sqm total area
+5 bedroom detached bungalow for sale,"65,000,000","Ososami, Oke Bola, Ibadan, Oyo",5.0,,,700 sqm total area
+Block of flats for sale,"25,000,000","Ogo Oluwa, Iyana Agbala, Alakia, Ibadan, Oyo",,,,700 sqm total area
+3 bedroom detached bungalow for sale,"97,000,000","Adeniran Estate, Alafara Near Ile Tuntun-nihort-idi Ishin Road, Ibadan, Oyo",3.0,,,700 sqm total area
+5 bedroom detached duplex for sale,"450,000,000","Secretariat Road, New Bodija, Ibadan, Oyo",5.0,5.0,5.0,"1,000 sqm total area"
+Block of flats for sale,"85,000,000","Ashi, New Bodija, Ibadan, Oyo",,,,"1,000 sqm total area"
+Block of flats for sale,"55,000,000","Olorunda, Akobo, Ibadan, Oyo",,,,"1,000 sqm total area"
+Block of flats for sale,"10,000,000","Oluyori, Olodo, Alakia, Ibadan, Oyo",,,,"1,000 sqm total area"
+3 bedroom detached bungalow for sale,"22,000,000","Solomon Ogunbayo Memorial Estate Odo Ona Kekere, Ibadan, Oyo",3.0,3.0,4.0,"1,000 sqm total area"
+7 bedroom house for sale,"75,000,000","No. 7, Adeoya Street,  Iyana Olopa Bus Stop, Ibadan, Oyo",7.0,7.0,7.0,595 sqm total area
+24 bedroom block of flats for sale,"160,000,000","House 8, Monatan Rd, Iyana Eleha Bus Stp Church, Iwo Rd Ib, Ibadan, Oyo",24.0,24.0,24.0,595 sqm total area
+Block of flats for sale,"65,000,000","Oluwonla, Bashorun, Prof Pella's Close, New Bodija, Ibadan, Oyo",,,,595 sqm total area
+5 bedroom detached duplex for sale,"220,000,000","Lere Adigun Gra, Ibadan, Oyo",5.0,6.0,6.0,595 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Olive Court, Agodi Gra, Agodi, Ibadan, Oyo",4.0,,,595 sqm total area
+Block of flats for sale,"35,000,000","Agbaje, Ijokodo, Eleyele, Ibadan, Oyo",,,,595 sqm total area
+3 bedroom detached bungalow for sale,"25,000,000","Oleyo Road,off Tipper Garage, Akala Expressway, Ibadan, Oyo",3.0,,,595 sqm total area
+2 bedroom detached bungalow for sale,"32,000,000","Ileero Housing Estate, Oleyo Road, Off Akala Expressway, Ibadan, Oyo",2.0,,,595 sqm total area
+3 bedroom detached duplex for sale,"120,000,000","Adetokun Ologuneru, Ibadan, Oyo",3.0,3.0,4.0,595 sqm total area
+Block of flats for sale,"40,000,000","School Of Nursing, Babalegba Area, Eleyele, Ibadan, Oyo",,,,595 sqm total area
+Block of flats for sale,"60,000,000","Ogungbade, New Ife Road, Alakia, Ibadan, Oyo",,,,595 sqm total area
+4 bedroom detached duplex for sale,"270,000,000","New Bodija Estate., Ibadan, Oyo",4.0,,,595 sqm total area
+4 bedroom detached bungalow for sale,"20,000,000","Oganla, Olodo, Alakia, Ibadan, Oyo",4.0,,,595 sqm total area
+2 bedroom terraced duplex for sale,"75,000,000","New Bodija, Ibadan, Oyo",2.0,,3.0,595 sqm total area
+4 bedroom detached duplex for sale,"175,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,595 sqm total area
+Block of flats for sale,"85,000,000","Alakia, Ibadan, Oyo",,,,595 sqm total area
+Block of flats for sale,"43,000,000","Gbopa, Ologuneru, Ibadan, Oyo",,,,595 sqm total area
+Block of flats for sale,"150,000,000","Omolayo, Akobo, Ibadan, Oyo",,,,595 sqm total area
+5 bedroom semi-detached duplex for sale,"160,000,000","Oluyole, Ibadan, Oyo",5.0,,,595 sqm total area
+Block of flats for sale,"30,000,000","Apete, Samonda, Ibadan, Oyo",,,,595 sqm total area
+4 bedroom semi-detached duplex for sale,"250,000,000","Engineer Lere Adigun Gra, Ibadan, Oyo",4.0,5.0,5.0,595 sqm total area
+3 bedroom block of flats for sale,"50,000,000","Akingbile/iita Area, Ibadan, Oyo",3.0,3.0,4.0,595 sqm total area
+4 bedroom terraced duplex for sale,"190,000,000","St Richard School, Jericho, Ibadan, Oyo",4.0,,,595 sqm total area
+3 bedroom detached bungalow for sale,"20,000,000","Island Estate, Awotan, Apete, Ibadan, Oyo",3.0,3.0,3.0,595 sqm total area
+5 bedroom detached duplex for sale,"200,000,000","Ring Road, Adeoyo Hospital, Challenge, Ibadan, Oyo",5.0,5.0,6.0,595 sqm total area
+4 bedroom detached duplex for sale,"250,000,000","Aerodrome Gra, Ibadan, Oyo",4.0,5.0,5.0,595 sqm total area
+2 bedroom detached bungalow for sale,"18,000,000","Gegelose Estate, Adejumo, Ologuneru, Ibadan, Oyo",2.0,,,595 sqm total area
+4 bedroom detached duplex for sale,"230,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,595 sqm total area
+4 bedroom detached duplex for sale,"200,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,595 sqm total area
+3 bedroom block of flats for sale,"70,000,000","Liberty Academy Road Off Akala Express Way, Ibadan, Oyo",3.0,3.0,3.0,595 sqm total area
+4 bedroom terraced duplex for sale,"150,000,000","Jericho Gra, Ibadan, Oyo",4.0,4.0,4.0,595 sqm total area
+4 bedroom detached duplex for sale,"180,000,000","Carlton Gate Estate Akobo Gra, Ibadan, Oyo",4.0,4.0,4.0,595 sqm total area
+5 bedroom detached duplex for sale,"200,000,000","Olive Court, Agodi Gra, Ibadan, Oyo",5.0,5.0,5.0,595 sqm total area
+3 bedroom semi-detached duplex for sale,"120,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",3.0,3.0,3.0,400 sqm covered area
+4 bedroom detached duplex for sale,"200,000,000","Carlton Gate Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,409 sqm covered area
+3 bedroom detached bungalow for sale,"35,000,000","Erunmu, Olodo, Ibadan, Oyo",3.0,3.0,3.0,409 sqm covered area
+3 bedroom block of flats for sale,"30,000,000","Akingbile, Moniya, Ibadan, Oyo",3.0,3.0,3.0,409 sqm covered area
+44 bedroom block of flats for sale,"200,000,000","Agbowo, Ui, Ibadan, Oyo",44.0,44.0,44.0,409 sqm covered area
+4 bedroom detached duplex for sale,"170,000,000","Adigun Gra, Beside Bcos, Bashorun, Ibadan, Oyo",4.0,4.0,4.0,409 sqm covered area
+2 bedroom block of flats for sale,"40,000,000","Olonde, Ologuneru, Ibadan, Oyo",2.0,2.0,2.0,409 sqm covered area
+5 bedroom detached duplex for sale,"130,000,000","Oluga, New Bodija, Ibadan, Oyo",5.0,5.0,5.0,900 sqm covered area
+3 bedroom block of flats for sale,"100,000,000","Ajinde Road 7, Ireakari Estate, Off Akala Express, Ibadan, Oyo",3.0,3.0,3.0,900 sqm covered area
+4 bedroom detached bungalow for sale,"170,000,000","Nihort Junction Idi Ishin Area, Jericho, Ibadan, Oyo",4.0,4.0,4.0,900 sqm covered area
+4 bedroom detached duplex for sale,"200,000,000","Zionist Estate Off Akala Express, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+4 bedroom detached duplex for sale,"120,000,000","Olumbe Bashir, Bodija/ashi, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+4 bedroom detached duplex for sale,"200,000,000","Adebajo Street, New Bodija, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+4 bedroom detached duplex for sale,"185,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+3 bedroom detached bungalow for sale,"65,000,000","Ile Tuntun Nihort Area, Behind Dss Private Estate, Ibadan, Oyo",3.0,3.0,3.0,600 sqm covered area
+3 bedroom block of flats for sale,"120,000,000","Harmony Estate Gbopa, Ologuneru, Ibadan, Oyo",3.0,3.0,3.0,600 sqm covered area
+4 bedroom detached duplex for sale,"120,000,000","Iyana Olopa, Akobo, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+4 bedroom detached duplex for sale,"280,000,000","New Bodija, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+3 bedroom detached duplex for sale,"75,000,000","West Park & Garden , Opposite Coca-cola Factory Asejire, Egbeda Lga, Ibadan, Oyo",3.0,3.0,3.0,600 sqm covered area
+Block of flats for sale,"55,000,000","Lam Adesina Street, Felele, Challenge, Ibadan, Oyo",,,,600 sqm covered area
+5 bedroom detached duplex for sale,"280,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,5.0,5.0,600 sqm covered area
+4 bedroom detached duplex for sale,"280,000,000","Salami Estate New Bodija, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+4 bedroom block of flats for sale,"100,000,000","Opposite Nnpc Filling Station, Ajadi Junction, Along Ologuneru, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+5 bedroom detached duplex for sale,"200,000,000","Ikolaba Estate Near Agodi Gra, Agodi, Ibadan, Oyo",5.0,5.0,5.0,600 sqm covered area
+Block of flats for sale,"80,000,000","Olunde Scheme Academy Off Lagos Ibadan Express Way, Ibadan, Oyo",,,,600 sqm covered area
+4 bedroom detached duplex for sale,"230,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+5 bedroom detached duplex for sale,"150,000,000","Adetokun Street After Bitemore Restaurant ,ologuneru, Ibadan, Oyo",5.0,5.0,5.0,"1,200 sqm covered area"
+4 bedroom semi-detached duplex for sale,"160,000,000","Greenland Estate Gra, Jericho, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+4 bedroom terraced duplex for sale,"150,000,000","Iyaganku Gra, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+4 bedroom detached bungalow for sale,"600,000,000","Kobiowu Crescent, Iyaganku Gra, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+5 bedroom semi-detached duplex for sale,"200,000,000","Adebajo Street, Kongi, New Bodija, Ibadan, Oyo",5.0,5.0,5.0,"1,000 sqm covered area"
+Block of flats for sale,"15,000,000","Peace Estate, Akobo, Ibadan, Oyo",,,,"1,000 sqm covered area"
+Block of flats for sale,"65,000,000","Akoto Estate, Elebu, Ibadan, Oyo",,,,"1,000 sqm covered area"
+3 bedroom detached bungalow for sale,"80,000,008","Bashorun Housing Estate, Ibadan, Oyo",3.0,4.0,4.0,"1,000 sqm covered area"
+4 bedroom detached duplex for sale,"130,000,000","Temidire Estate Ologuneru Off Eleyele, Ibadan, Oyo",4.0,5.0,5.0,"1,000 sqm covered area"
+4 bedroom semi-detached duplex for sale,"250,000,000","Eng. Lere Adigun Gra, Beside Bcos, Bashorun, Ibadan, Oyo",4.0,4.0,5.0,"1,000 sqm covered area"
+4 bedroom semi-detached duplex for sale,"270,000,000","New Bodija, Ibadan, Oyo",4.0,5.0,5.0,"1,000 sqm covered area"
+4 bedroom semi-detached duplex for sale,"70,000,000","City Park And Garden Estate Asejire Opposite Coca Cola Depot, Asejire, Ibadan, Oyo",4.0,5.0,5.0,"1,000 sqm covered area"
+Block of flats for sale,"75,000,000","Akobo, Ibadan, Oyo",,,,"1,000 sqm covered area"
+5 bedroom detached duplex for sale,"180,000,000","Olive Court Estate, Agodi Gra., Ibadan, Oyo",5.0,6.0,6.0,"1,000 sqm covered area"
+Block of flats for sale,"45,000,000","Success Estate, Olorunda, Akobo, Ibadan, Oyo",,,,"1,000 sqm covered area"
+4 bedroom detached duplex for sale,"180,000,000","Idi Ishin, Jericho, Ibadan, Oyo",4.0,,,"1,000 sqm covered area"
+4 bedroom detached duplex for sale,"250,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,"1,000 sqm covered area"
+Block of flats for sale,"150,000,000","Gra, Bashorun, Agodi, Ibadan, Oyo",,,,"1,000 sqm covered area"
+Block of flats for sale,"85,000,000","Felele Main Road, Challenge, Ibadan, Oyo",,,,"1,000 sqm covered area"
+Block of flats for sale,"30,000,000","Ibugbe Tutu, Adegbayi, Alakia, Ibadan, Oyo",,,,"1,000 sqm covered area"
+3 bedroom detached duplex for sale,"110,000,000","Providence Estate, Eleyele, Ibadan, Oyo",3.0,3.0,4.0,502 sqm total area
+3 bedroom terraced duplex for sale,"160,000,000","Loyola College Old Ofe Road Near Gate,, Ibadan, Oyo",3.0,3.0,3.0,650 sqm total area
+3 bedroom block of flats for sale,"50,000,000","Olorunkemi Estate, Elebu, Ibadan, Oyo",3.0,3.0,3.0,650 sqm total area
+4 bedroom detached duplex for sale,"210,000,000","Carlton Gate Estate, Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,650 sqm total area
+4 bedroom detached bungalow for sale,"200,000,000","Main Alalubosa Gra, Ibadan, Oyo",4.0,4.0,4.0,650 sqm total area
+3 bedroom block of flats for sale,"75,000,000","Taiwo Olobi, Powerline Moniya Express,, Ibadan, Oyo",3.0,2.0,2.0,650 sqm total area
+4 bedroom detached duplex for sale,"300,000,000","Lere Adigun Gra Basorun, Ibadan, Oyo",4.0,4.0,4.0,650 sqm total area
+5 bedroom detached duplex for sale,"430,000,000","Kolapo Ishola Gated Estate, Akobo, Ibadan, Oyo",5.0,5.0,5.0,650 sqm total area
+5 bedroom detached duplex for sale,"185,000,000","Airforce Estate Akobo, Ibadan, Oyo",5.0,5.0,5.0,650 sqm total area
+3 bedroom semi-detached bungalow for sale,"16,000,000","Aseyori Estate, Off Ayegun Oleyo Road, Akala Exp, Ibadan, Oyo",3.0,3.0,3.0,552 sqm total area
+12 bedroom block of flats for sale,"60,000,000","Old-ife Road, Ibadan, Oyo",12.0,6.0,6.0,552 sqm total area
+6 bedroom semi-detached duplex for sale,"120,000,000","Bashorun Housing Estate, Akobo, Ibadan, Oyo",6.0,,,552 sqm total area
+4 bedroom detached duplex for sale,"250,000,000","S&t (military) Estate, Jericho Gra, Ibadan, Oyo",4.0,4.0,4.0,552 sqm total area
+6 bedroom detached duplex for sale,"150,000,000","Akobo, Ibadan, Oyo",6.0,6.0,6.0,552 sqm total area
+4 bedroom semi-detached duplex for sale,"165,000,000","Lere Adigun Gra, New Bodija, Ibadan, Oyo",4.0,,,552 sqm total area
+4 bedroom detached duplex for sale,"100,000,000","Bola Akogi Area, Jankata , Off Akala Express, Ibadan, Oyo",4.0,4.0,4.0,552 sqm total area
+4 bedroom detached duplex for sale,"160,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,,,552 sqm total area
+5 bedroom detached duplex for sale,"280,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,,,552 sqm total area
+4 bedroom detached duplex for sale,"230,000,000","Onireke Gra, Ibadan, Oyo",4.0,4.0,5.0,552 sqm total area
+4 bedroom detached duplex for sale,"230,000,000","Akobo, Ibadan, Oyo",4.0,5.0,5.0,552 sqm total area
+Block of flats for sale,"320,000,000","Along Omolayo Road 9/oke'badan Estate, Akobo, Ibadan, Oyo",,,,"2,179 sqm total area"
+4 bedroom terraced duplex for sale,"180,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,5.0,"2,179 sqm total area"
+4 bedroom terraced duplex for sale,"160,000,000","Bashorun Housing Estates, Ibadan, Oyo",4.0,4.0,4.0,"2,179 sqm total area"
+5 bedroom detached duplex for sale,"230,000,000","Carlton Gate Estate, Ibadan, Oyo",5.0,6.0,6.0,"2,179 sqm total area"
+2 bedroom detached bungalow for sale,"28,000,000","All. Saints College, Agbofieti, Ologuneru, Ibadan, Oyo",2.0,,,"2,179 sqm total area"
+5 bedroom detached bungalow for sale,"10,000,000","N. O Idowu, Olorundaba, Akobo, Ibadan, Oyo",5.0,,,"2,179 sqm total area"
+Block of flats for sale,"22,000,000","Ajobo, Arulogun Road, Ojoo, Ibadan, Oyo",,,,"2,179 sqm total area"
+4 bedroom detached duplex for sale,"135,000,000","Alafia Estate, Omolayo, Akobo, Ibadan, Oyo",4.0,,5.0,"2,179 sqm total area"
+5 bedroom detached duplex for sale,"500,000,000","Behind Jericho Mall Onireke Gra, Ibadan, Oyo",5.0,5.0,5.0,"1,580 sqm covered area"
+5 bedroom detached duplex for sale,"250,000,000","Jericho Gra, Ibadan, Oyo",5.0,5.0,6.0,"1,580 sqm covered area"
+5 bedroom detached duplex for sale,"250,000,000","Jericho Gra, Ibadan, Oyo",5.0,5.0,6.0,"1,580 sqm covered area"
+5 bedroom semi-detached duplex for sale,"210,000,000","Carlton Gate Estate, Ibadan, Oyo",5.0,6.0,6.0,"1,580 sqm covered area"
+4 bedroom detached duplex for sale,"100,000,000","Cedars Street, Oke'badan Estate, Akobo, Ibadan, Oyo",4.0,,,"1,580 sqm covered area"
+Block of flats for sale,"100,000,000","Opposite Poly, Eleyele, Ibadan, Oyo",,,,"1,580 sqm covered area"
+5 bedroom terraced duplex for sale,"75,000,000","Winners Way, Bashorun, Akobo, Ibadan, Oyo",5.0,,,"1,580 sqm covered area"
+3 bedroom detached bungalow for sale,"90,000,000","Olunde, Ologuneru, Ibadan, Oyo",3.0,2.0,3.0,"1,580 sqm covered area"
+Block of flats for sale,"130,000,000","Olubadan Estate, Alakia, Ibadan, Oyo",,,,"1,580 sqm covered area"
+5 bedroom detached duplex for sale,"130,000,000","New Bodija, Ibadan, Oyo",5.0,5.0,,"1,580 sqm covered area"
+3 bedroom block of flats for sale,"45,000,000","Oremeji-alakia Airport Road, Ibadan, Oyo",3.0,3.0,3.0,"1,580 sqm covered area"
+2 bedroom block of flats for sale,"70,000,000","Zionist Estate, Akala Express Oluyole Extension, Ibadan, Oyo",2.0,2.0,2.0,"1,580 sqm covered area"
+4 bedroom detached duplex for sale,"152,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,580 sqm covered area"
+4 bedroom detached duplex for sale,"135,000,000","Alpha Grace Estate, Jericho, Ibadan, Oyo",4.0,,,"1,580 sqm covered area"
+4 bedroom block of flats for sale,"120,000,000","Bashorun Housing Estate,opposite Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,580 sqm covered area"
+6 bedroom detached duplex for sale,"120,000,000","Adenuga Street, Kongi Layout, Bodija, Ibadan, Oyo",6.0,6.0,6.0,"1,580 sqm covered area"
+5 bedroom detached duplex for sale,"165,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",5.0,5.0,5.0,"1,580 sqm covered area"
+4 bedroom detached duplex for sale,"450,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,000 sqm covered area"
+3 bedroom block of flats for sale,"70,000,000","Off Adeoyo Fodacis Area, Ibadan, Oyo",3.0,3.0,3.0,"1,200 sqm covered area"
+4 bedroom detached bungalow for sale,"60,000,000","A3 Estate,, Akobo, Ibadan, Oyo",4.0,,,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"160,000,000","Aare, Oluyole Estate, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+Block of flats for sale,"55,000,000","Iyana Adeoyo, Off Ring Road, Challenge, Ibadan, Oyo",,,,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"200,000,000","Ikolaba Estate Near Agodi Gra, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+4 bedroom terraced duplex for sale,"230,000,000","Bobby Olofa, Akala Way, Okebadan Estate, Akobo, Ibadan, Oyo",4.0,,,"1,200 sqm covered area"
+3 bedroom detached bungalow for sale,"65,000,000","Gospel Road, Ojoo Barrack, Ibadan, Oyo",3.0,3.0,3.0,"1,200 sqm covered area"
+2 bedroom block of flats for sale,"80,000,000","Off Icast Road Elebu Off Akala Express Oluyole Extension, Ibadan, Oyo",2.0,2.0,2.0,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"80,000,000","Behind Dss Estate, Jericho, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+5 bedroom detached duplex for sale,"300,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",5.0,5.0,5.0,"1,200 sqm covered area"
+4 bedroom house for sale,"175,000,000","Kolapo Ishola Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+5 bedroom detached duplex for sale,"300,000,000","Engr Lere Adigun Gra, Bashorun, Ibadan, Oyo",5.0,5.0,5.0,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"220,000,000","Ikolaba Estate, Agodi, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+5 bedroom detached duplex for sale,"155,000,000","Ire-akari Estate Akala Express, Ibadan, Oyo",5.0,5.0,5.0,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"160,000,000","Golf Drive Onireke Gra, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+5 bedroom detached duplex for sale,"160,000,000","Ireakari Estate, Akala Express, Ibadan, Oyo",5.0,5.0,5.0,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"165,000,000","Carlton Gate Estate, Akobo, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"200,000,000","Lere Adigun Gra, Bashorun, Ibadan, Oyo",4.0,4.0,4.0,"1,200 sqm covered area"
+3 bedroom block of flats for sale,"250,000,000","Oke Adan Estate, Akobo, Ibadan, Oyo",3.0,3.0,3.0,"1,200 sqm covered area"
+4 bedroom detached duplex for sale,"185,000,000","Zionist Estate, Off Akala Express, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+3 bedroom block of flats for sale,"100,000,000","Amuda Jonku Off General Gas, Akobo, Ibadan, Oyo",3.0,3.0,3.0,600 sqm covered area
+4 bedroom detached duplex for sale,"165,000,000","Kolapo Ishola Gra, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+4 bedroom detached duplex for sale,"165,000,000","Olive Street Kolapo Gra, Akobo, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+2 bedroom block of flats for sale,"85,000,000","Basorun Housing Estate, Akobo, Ibadan, Oyo",2.0,3.0,3.0,600 sqm covered area
+4 bedroom detached duplex for sale,"70,000,000","Nifort Gra, Awotan Apete, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+5 bedroom detached duplex for sale,"50,000,000","Sdp G.r.a, All Motors, Gbagi, Alakia, Ibadan, Oyo",5.0,,,600 sqm covered area
+11 bedroom detached duplex for sale,"120,000,000","Ikolaba Estate, New Bodija, Ibadan, Oyo",11.0,,,600 sqm covered area
+4 bedroom detached duplex for sale,"130,000,000","Olunde Scheme, Academy, Off Lagos-ibadan Expressway, Ibadan, Oyo",4.0,4.0,5.0,600 sqm covered area
+3 bedroom detached duplex for sale,"57,000,000","Olunde Scheme, Academy, Off Lagos-ibadan Expressway, Ibadan, Oyo",3.0,3.0,4.0,600 sqm covered area
+2 bedroom detached duplex for sale,"47,000,000","Olunde Scheme, Academy, Off Lagos-ibadan Expressway, Ibadan, Oyo",2.0,2.0,3.0,600 sqm covered area
+3 bedroom detached bungalow for sale,"40,000,000","Olunde Scheme, Academy, Off Lagos-ibadan Expressway, Ibadan, Oyo",3.0,3.0,4.0,600 sqm covered area
+4 bedroom detached bungalow for sale,"43,000,000","Olunde Scheme, Academy, Off Lagos-ibadan Expressway, Ibadan, Oyo",4.0,4.0,5.0,600 sqm covered area
+Block of flats for sale,"75,000,000","Alegongo Main Estate, Akobo, Ibadan, Oyo",,,,600 sqm covered area
+16 bedroom block of flats for sale,"30,000,000","Joyce B, Ring Road, Challenge, Ibadan, Oyo",16.0,,,600 sqm covered area
+2 bedroom block of flats for sale,"80,000,000","Rotimi Williams Avenue, Bodija, Ibadan, Oyo",2.0,2.0,3.0,600 sqm covered area
+18 bedroom block of flats for sale,"75,000,000","Molade, Iwo Road, Alakia, Ibadan, Oyo",18.0,,,600 sqm covered area
+5 bedroom detached duplex for sale,"85,000,000","Adenuga, Kongi,, New Bodija, Ibadan, Oyo",5.0,,,600 sqm covered area
+Block of flats for sale,"50,000,000","Akingbade, Gbagi Market, Alakia, Ibadan, Oyo",,,,600 sqm covered area
+4 bedroom house for sale,"70,000,000","Elewuro, Akobo, Ibadan, Oyo",4.0,,,600 sqm covered area
+3 bedroom block of flats for sale,"60,000,000","Iyana Ajia, Alakia, Ibadan, Oyo",3.0,,,600 sqm covered area
+5 bedroom detached duplex for sale,"75,000,000","Akala Express, Ibadan, Oyo",5.0,,,600 sqm covered area
+4 bedroom terraced duplex for sale,"120,000,000","Eng Lere Adigun, Gra, Ibadan, Oyo",4.0,,5.0,600 sqm covered area
+3 bedroom detached bungalow for sale,"85,000,000","Goodwill Estate, Jericho Gra., Ibadan, Oyo",3.0,,,600 sqm covered area
+4 bedroom semi-detached duplex for sale,"160,000,000","Okebadan Estate, Akobo, Ibadan, Oyo",4.0,,,600 sqm covered area
+2 bedroom terraced duplex for sale,"110,000,000","Oba Adesida, Iyaganku, Ibadan, Oyo",2.0,,,600 sqm covered area
+3 bedroom detached bungalow for sale,"47,500,000","Favour Estate, Ibadan, Oyo",3.0,3.0,3.0,600 sqm covered area
+3 bedroom block of flats for sale,"200,000,000","Leyland, Iwo Road, Alakia, Ibadan, Oyo",3.0,,,600 sqm covered area
+5 bedroom detached duplex for sale,"130,000,000","Omololu Olunloyo Gra, Ring Road, Challenge, Ibadan, Oyo",5.0,,,600 sqm covered area
+4 bedroom detached duplex for sale,"220,000,000","Gra, Agodi, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+2 bedroom block of flats for sale,"70,000,000","Nifort Gra Awotan Apete, Ibadan, Oyo",2.0,2.0,2.0,600 sqm covered area
+4 bedroom detached duplex for sale,"130,000,000","Ifelodun Estate, Arapaja, Oluyole Extension, Ibadan, Oyo",4.0,4.0,4.0,600 sqm covered area
+5 bedroom terraced duplex for sale,"300,000,000","Gra, Agodi, Ibadan, Oyo",5.0,5.0,5.0,"2,200 sqm covered area"
+4 bedroom terraced duplex for sale,"300,000,000","Agodi Gra, Agodi, Ibadan, Oyo",4.0,,,"2,200 sqm covered area"
+3 bedroom block of flats for sale,"100,000,000","No 16 Alalubosa Gra, Aleshinloye Axis, Alalubosa, Ibadan, Oyo",3.0,3.0,3.0,"2,200 sqm covered area"
+Block of flats for sale,"650,000,000","Onikoko Close, Gra, Agodi, Ibadan, Oyo",,,,"2,200 sqm covered area"
+4 bedroom detached duplex for sale,"165,000,000","Calton Gate Estate, Akobo, Ibadan, Oyo",4.0,5.0,6.0,"2,200 sqm covered area"
+2 bedroom block of flats for sale,"85,000,000","Along Idi Ishin Gbekuba Road, Ibadan, Oyo",2.0,2.0,2.0,"2,200 sqm covered area"
+4 bedroom detached duplex for sale,"140,000,000","New Garage Bodija, Ibadan, Oyo",4.0,5.0,6.0,"2,200 sqm covered area"
+3 bedroom detached bungalow for sale,"75,000,000","Basorun Housing Estate, Akobo, Ibadan, Oyo",3.0,3.0,3.0,400 sqm covered area
+5 bedroom detached duplex for sale,"85,000,000","Facing Akala Way Main Road, Npg, Akobo, Ibadan, Oyo",5.0,,,400 sqm covered area
+3 bedroom detached bungalow for sale,"55,000,000","Life Fort, Apete, Samonda, Ibadan, Oyo",3.0,,,400 sqm covered area
+4 bedroom semi-detached duplex for sale,"75,000,000","Okebadan Estate, Akala Way, Akobo, Ibadan, Oyo",4.0,,,400 sqm covered area
