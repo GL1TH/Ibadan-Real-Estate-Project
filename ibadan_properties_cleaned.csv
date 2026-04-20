@@ -1,0 +1,914 @@
+title,price,location,bedrooms,bathrooms,toilets,size_value,property_type,price_per_bedroom,price_per_size
+9 bedroom detached bungalow for sale,55000000.0,Ologuneru,9.0,9.0,9.0,605,bungalow,6111111.111111111,90909.09090909091
+2 bedroom block of flats for sale,54000000.0,Off Up Jesus Road,2.0,2.0,2.0,605,apartment,27000000.0,89256.19834710743
+4 bedroom house for sale,315000000.0,Akobo,4.0,4.0,4.0,605,other,78750000.0,520661.1570247934
+4 bedroom house for sale,250000000.0,Akobo,4.0,4.0,4.0,605,other,62500000.0,413223.14049586776
+4 bedroom house for sale,350000000.0,Oluyole,4.0,4.0,4.0,605,other,87500000.0,578512.3966942149
+3 bedroom detached bungalow for sale,75000000.0,Olushetan Street,3.0,3.0,3.0,605,bungalow,25000000.0,123966.94214876032
+4 bedroom house for sale,140000000.0,Akala Way,4.0,4.0,4.0,605,other,35000000.0,231404.95867768594
+4 bedroom semi-detached duplex for sale,250000000.0,Old Bodija,4.0,4.0,4.0,605,duplex,62500000.0,413223.14049586776
+4 bedroom house for sale,300000000.0,Samonda.,4.0,4.0,4.0,605,other,75000000.0,495867.7685950413
+5 bedroom house for sale,350000000.0,Kolapo Ishola Gra,5.0,5.0,5.0,605,other,70000000.0,578512.3966942149
+4 bedroom house for sale,120000000.0,Adeoyo Gra Ring Road Ibadan Behind Oyo State Court Of Appeal,4.0,4.0,4.0,605,other,30000000.0,198347.10743801654
+4 bedroom house for sale,250000000.0,Akala Akobo,4.0,4.0,4.0,605,other,62500000.0,413223.14049586776
+4 bedroom house for sale,270000000.0,Beside Kolapo Ishola Gra,4.0,4.0,4.0,605,other,67500000.0,446280.9917355372
+5 bedroom house for sale,185000000.0,Oke'badan Estate Akala Way Akobo.,5.0,5.0,5.0,605,other,37000000.0,305785.12396694213
+4 bedroom house for sale,165000000.0,Oke'badan Estate Akala Way Akobo.,4.0,4.0,4.0,605,other,41250000.0,272727.2727272727
+4 bedroom house for sale,160000000.0,Oke'badan Estate Akala Way Akobo.,4.0,4.0,4.0,605,other,40000000.0,264462.80991735536
+4 bedroom house for sale,190000000.0,Oluyole,4.0,4.0,4.0,605,other,47500000.0,314049.5867768595
+5 bedroom house for sale,30000000.0,Off Akala Akobo.,5.0,5.0,5.0,605,other,6000000.0,49586.776859504134
+4 bedroom house for sale,135000000.0,Akobo Gra,4.0,4.0,4.0,605,other,33750000.0,223140.4958677686
+3 bedroom semi-detached duplex for sale,170000000.0,Akobo,3.0,3.0,3.0,605,duplex,56666666.666666664,280991.7355371901
+4 bedroom house for sale,300000000.0,Akobo,4.0,4.0,4.0,605,other,75000000.0,495867.7685950413
+4 bedroom house for sale,150000000.0,Akoto Estate,4.0,4.0,4.0,605,other,37500000.0,247933.88429752065
+4 bedroom house for sale,180000000.0,Agodi Gra,4.0,4.0,4.0,605,other,45000000.0,297520.6611570248
+5 bedroom house for sale,150000000.0,Akala Expressway,5.0,5.0,5.0,605,other,30000000.0,247933.88429752065
+5 bedroom house for sale,450000000.0,Bashorun,5.0,5.0,5.0,605,other,90000000.0,743801.652892562
+5 bedroom detached duplex for sale,180000000.0,Jankata Near Kuola Off Akala Express,5.0,5.0,6.0,605,duplex,36000000.0,297520.6611570248
+4 bedroom detached bungalow for sale,25000000.0,Akobo,4.0,4.0,4.0,605,bungalow,6250000.0,41322.31404958678
+3 bedroom detached bungalow for sale,75000000.0,Jericho Extension Alafara,3.0,4.0,4.0,605,bungalow,25000000.0,123966.94214876032
+11 bedroom block of flats for sale,265000000.0,Aare Oluyole Estate,11.0,13.0,13.0,605,apartment,24090909.09090909,438016.52892561984
+3 bedroom detached bungalow for sale,50000000.0,Akobo,3.0,3.0,4.0,560,bungalow,16666666.666666666,89285.71428571429
+5 bedroom detached duplex for sale,159999999.0,Agodi,5.0,6.0,6.0,560,duplex,31999999.8,285714.28392857144
+4 bedroom detached duplex for sale,200000000.0,Omolayo Akobo,4.0,5.0,5.0,560,duplex,50000000.0,357142.85714285716
+5 bedroom semi-detached duplex for sale,240000000.0,Jericho,5.0,6.0,6.0,560,duplex,48000000.0,428571.4285714286
+5 bedroom detached duplex for sale,55000000.0,Akobo Ojurin,5.0,5.0,5.0,560,duplex,11000000.0,98214.28571428571
+5 bedroom detached duplex for sale,310000000.0,Akobo,5.0,6.0,6.0,560,duplex,62000000.0,553571.4285714285
+4 bedroom detached duplex for sale,200000000.0,New Bodija,4.0,5.0,5.0,560,duplex,50000000.0,357142.85714285716
+6 bedroom detached duplex for sale,350000000.0,Kolapo Ishola Gra,6.0,7.0,7.0,450,duplex,58333333.333333336,777777.7777777778
+6 bedroom detached duplex for sale,180000000.0,Akala Express,6.0,6.0,7.0,1,duplex,30000000.0,180000000.0
+12 bedroom block of flats for sale,400000000.0,Akobo,12.0,12.0,15.0,1,apartment,33333333.333333332,400000000.0
+5 bedroom detached duplex for sale,180000000.0,By Jagz Hotel,5.0,5.0,5.0,1,duplex,36000000.0,180000000.0
+4 bedroom house for sale,105000000.0,Akobo,4.0,4.0,4.0,1,other,26250000.0,105000000.0
+4 bedroom semi-detached duplex for sale,150000000.0,Oyo,4.0,4.0,5.0,1,duplex,37500000.0,150000000.0
+4 bedroom house for sale,300000000.0,Beside Kolapo Ishola Gra,4.0,4.0,4.0,1,other,75000000.0,300000000.0
+5 bedroom detached duplex for sale,350000000.0,Akobo,5.0,5.0,6.0,1,duplex,70000000.0,350000000.0
+3 bedroom detached bungalow for sale,30000000.0,Ologuneru,3.0,3.0,3.0,1,bungalow,10000000.0,30000000.0
+2 bedroom block of flats for sale,120000000.0,Ologuneru,2.0,2.0,2.0,1,apartment,60000000.0,120000000.0
+4 bedroom detached duplex for sale,200000000.0,Ikolaba Gra,4.0,4.0,5.0,1,duplex,50000000.0,200000000.0
+3 bedroom detached bungalow for sale,68000000.0,Off Ologuneru Eleyele Road,3.0,3.0,4.0,1,bungalow,22666666.666666668,68000000.0
+4 bedroom detached duplex for sale,270000000.0,Akobo Gra,4.0,4.0,4.0,400,duplex,67500000.0,675000.0
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,4.0,4.0,400,duplex,75000000.0,750000.0
+4 bedroom semi-detached duplex for sale,99000000.0,Asunle 2nd Bus Stop,4.0,4.0,5.0,400,duplex,24750000.0,247500.0
+5 bedroom detached duplex for sale,420000000.0,Engr Lere Adigun Gra,5.0,5.0,6.0,400,duplex,84000000.0,1050000.0
+4 bedroom detached bungalow for sale,65000000.0,Maberi Idi Ishin Off Ajinde Akala Express Oluyole Extension,4.0,4.0,4.0,400,bungalow,16250000.0,162500.0
+5 bedroom detached duplex for sale,175000000.0,Jericho,5.0,5.0,6.0,400,duplex,35000000.0,437500.0
+6 bedroom detached duplex for sale,340000000.0,Oluyole Estate,6.0,6.0,6.0,400,duplex,56666666.666666664,850000.0
+Block of flats for sale,95000000.0,Challenge,4.0,4.0,4.0,400,apartment,23750000.0,237500.0
+Block of flats for sale,35000000.0,Old Ife Road,4.0,4.0,4.0,400,apartment,8750000.0,87500.0
+5 bedroom terraced duplex for sale,250000000.0,Gra Akobo Ibadan,5.0,6.0,6.0,400,duplex,50000000.0,625000.0
+Block of flats for sale,23000000.0,Opposite Wisdom Estate,4.0,4.0,4.0,400,apartment,5750000.0,57500.0
+9 bedroom detached duplex for sale,180000000.0,New Bodija,9.0,9.0,9.0,400,duplex,20000000.0,450000.0
+6 bedroom detached bungalow for sale,40000000.0,orita,6.0,6.0,6.0,400,bungalow,6666666.666666667,100000.0
+4 bedroom block of flats for sale,70000000.0,,4.0,4.0,4.0,400,apartment,17500000.0,175000.0
+4 bedroom detached duplex for sale,300000000.0,Old Bodija,4.0,5.0,5.0,400,duplex,75000000.0,750000.0
+3 bedroom detached bungalow for sale,85000000.0,Akala Way,3.0,4.0,4.0,400,bungalow,28333333.333333332,212500.0
+5 bedroom detached duplex for sale,350000000.0,Kolapo Ishola Gra,5.0,5.0,6.0,400,duplex,70000000.0,875000.0
+Block of flats for sale,18000000.0,Agbowo,4.0,4.0,4.0,400,apartment,4500000.0,45000.0
+Block of flats for sale,150000000.0,Adeoyo,4.0,4.0,4.0,400,apartment,37500000.0,375000.0
+4 bedroom detached duplex for sale,250000000.0,Samonda,4.0,5.0,5.0,400,duplex,62500000.0,625000.0
+4 bedroom detached duplex for sale,195000000.0,Oluyole Estate,4.0,5.0,5.0,550,duplex,48750000.0,354545.45454545453
+4 bedroom detached duplex for sale,250000000.0,Akobo,4.0,5.0,5.0,550,duplex,62500000.0,454545.45454545453
+4 bedroom detached duplex for sale,180000000.0,Jankata Near Kuola Off Akala Express Oluyole Extension Ibadan,4.0,4.0,4.0,550,duplex,45000000.0,327272.7272727273
+4 bedroom detached duplex for sale,300000000.0,Alalubosa,4.0,5.0,5.0,550,duplex,75000000.0,545454.5454545454
+4 bedroom detached duplex for sale,280000000.0,Akobo,4.0,5.0,5.0,550,duplex,70000000.0,509090.9090909091
+5 bedroom detached duplex for sale,450000000.0,Engineer Lere Adigun Gra,5.0,6.0,6.0,550,duplex,90000000.0,818181.8181818182
+5 bedroom detached duplex for sale,300000000.0,Oluyole Extension,5.0,5.0,5.0,550,duplex,60000000.0,545454.5454545454
+5 bedroom semi-detached duplex for sale,135000000.0,Behind Ashi-bodija Baptist College,5.0,4.0,4.0,868,duplex,27000000.0,155529.9539170507
+4 bedroom detached duplex for sale,450000000.0,Akobo,4.0,6.0,6.0,868,duplex,112500000.0,518433.1797235023
+4 bedroom detached duplex for sale,300000000.0,Samonda,4.0,5.0,5.0,868,duplex,75000000.0,345622.1198156682
+4 bedroom semi-detached duplex for sale,375000000.0,Akobo,4.0,5.0,5.0,868,duplex,93750000.0,432027.64976958523
+4 bedroom semi-detached duplex for sale,370000000.0,Akobo,4.0,5.0,5.0,868,duplex,92500000.0,426267.28110599075
+3 bedroom detached bungalow for sale,85000000.0,Challenge,3.0,4.0,4.0,868,bungalow,28333333.333333332,97926.26728110599
+4 bedroom detached duplex for sale,185000000.0,Ile Tuntun,4.0,5.0,5.0,868,duplex,46250000.0,213133.64055299538
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,5.0,5.0,868,duplex,75000000.0,345622.1198156682
+4 bedroom detached duplex for sale,310000000.0,Next To Kolapo Ishola Gra,4.0,5.0,5.0,868,duplex,77500000.0,357142.85714285716
+4 bedroom detached duplex for sale,315000000.0,kolapo Ishola,4.0,5.0,5.0,868,duplex,78750000.0,362903.22580645164
+4 bedroom detached duplex for sale,270000000.0,Kolapo Ishola Gra,4.0,5.0,5.0,868,duplex,67500000.0,311059.9078341014
+5 bedroom detached duplex for sale,300000000.0,Oluyole Estate,5.0,6.0,6.0,868,duplex,60000000.0,345622.1198156682
+5 bedroom detached duplex for sale,350000000.0,Akobo,5.0,6.0,6.0,868,duplex,70000000.0,403225.8064516129
+5 bedroom detached bungalow for sale,165000000.0,Ikolaba Gra,5.0,5.0,5.0,868,bungalow,33000000.0,190092.1658986175
+5 bedroom detached duplex for sale,300000000.0,Near Heritage Estate Oluyole Extension,5.0,5.0,6.0,2,duplex,60000000.0,150000000.0
+4 bedroom detached bungalow for sale,65000000.0,Maberi Area Off Ajinde Akala Express,4.0,5.0,6.0,2,bungalow,16250000.0,32500000.0
+6 bedroom block of flats for sale,58000000.0,Ologuneru,6.0,7.0,7.0,2,apartment,9666666.666666666,29000000.0
+4 bedroom detached duplex for sale,200000000.0,Beside Kolapo Ishola,4.0,5.0,5.0,2,duplex,50000000.0,100000000.0
+1 bedroom detached duplex for sale,180000000.0,Agodi,1.0,1.0,2.0,2,duplex,180000000.0,90000000.0
+Block of flats for sale,80000000.0,Academy,4.0,4.0,4.0,2,apartment,20000000.0,40000000.0
+6 bedroom block of flats for sale,390000000.0,Old Bodija,6.0,6.0,6.0,2,apartment,65000000.0,195000000.0
+4 bedroom detached duplex for sale,260000000.0,Alalubosa,4.0,4.0,5.0,2,duplex,65000000.0,130000000.0
+5 bedroom detached bungalow for sale,150000000.0,Nnpc Area,5.0,5.0,5.0,2,bungalow,30000000.0,75000000.0
+5 bedroom semi-detached duplex for sale,165000000.0,Oluyole Estate,5.0,5.0,5.0,383,duplex,33000000.0,430809.3994778068
+4 bedroom detached duplex for sale,160000000.0,Ologuneru,4.0,4.0,5.0,383,duplex,40000000.0,417754.56919060054
+4 bedroom semi-detached duplex for sale,250000000.0,Jericho Hill Estate,4.0,1.0,2.0,383,duplex,62500000.0,652741.5143603133
+4 bedroom detached duplex for sale,220000000.0,Akobo,4.0,4.0,5.0,383,duplex,55000000.0,574412.5326370758
+4 bedroom semi-detached duplex for sale,370000000.0,Akobo,4.0,4.0,5.0,383,duplex,92500000.0,966057.4412532637
+4 bedroom detached duplex for sale,315000000.0,Akobo,4.0,4.0,5.0,383,duplex,78750000.0,822454.3080939947
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,4.0,5.0,383,duplex,75000000.0,783289.817232376
+4 bedroom detached duplex for sale,195000000.0,Oluyole Estate,4.0,4.0,5.0,383,duplex,48750000.0,509138.38120104437
+3 bedroom detached duplex for sale,240000000.0,Alalubosa Main Gra,3.0,3.0,3.0,1,duplex,80000000.0,240000000.0
+4 bedroom detached duplex for sale,170000000.0,Mkh City / Olunde Scheme Academy,4.0,4.0,4.0,1,duplex,42500000.0,170000000.0
+3 bedroom detached bungalow for sale,25000000.0,Apata,3.0,3.0,3.0,1,bungalow,8333333.333333333,25000000.0
+5 bedroom detached duplex for sale,200000000.0,New Bodija,5.0,5.0,5.0,1,duplex,40000000.0,200000000.0
+4 bedroom detached duplex for sale,200000000.0,Akobo,4.0,4.0,4.0,1,duplex,50000000.0,200000000.0
+4 bedroom detached bungalow for sale,220000000.0,Akobo,4.0,8.0,8.0,1,bungalow,55000000.0,220000000.0
+4 bedroom detached duplex for sale,250000000.0,Off Bale Akintayo,4.0,4.0,4.0,1,duplex,62500000.0,250000000.0
+4 bedroom detached duplex for sale,170000000.0,Ashi Bodija,4.0,4.0,4.0,1,duplex,42500000.0,170000000.0
+5 bedroom detached duplex for sale,270000000.0,Akobo,5.0,5.0,5.0,1,duplex,54000000.0,270000000.0
+Block of flats for sale,60000000.0,Oke Ado,4.0,4.0,4.0,1,apartment,15000000.0,60000000.0
+4 bedroom detached duplex for sale,240000000.0,Akoto Estate Oluyole Extension,4.0,4.0,4.0,1,duplex,60000000.0,240000000.0
+Block of flats for sale,110000000.0,New Bodija,4.0,4.0,4.0,1,apartment,27500000.0,110000000.0
+5 bedroom detached duplex for sale,140000000.0,Akala Express,5.0,6.0,7.0,1,duplex,28000000.0,140000000.0
+3 bedroom detached duplex for sale,50000000.0,Oyo,3.0,3.0,4.0,1,duplex,16666666.666666666,50000000.0
+5 bedroom detached duplex for sale,100000000.0,Ojoo,5.0,5.0,5.0,1,duplex,20000000.0,100000000.0
+4 bedroom detached bungalow for sale,25000000.0,Akobo,4.0,4.0,4.0,1,bungalow,6250000.0,25000000.0
+Block of flats for sale,70000000.0,Ring Road,4.0,4.0,4.0,1,apartment,17500000.0,70000000.0
+Block of flats for sale,120000000.0,Old Ife Road,4.0,4.0,4.0,1,apartment,30000000.0,120000000.0
+Block of flats for sale,55000000.0,Adegbayi,4.0,4.0,4.0,1,apartment,13750000.0,55000000.0
+5 bedroom detached duplex for sale,180000000.0,Akala Express,5.0,5.0,5.0,1,duplex,36000000.0,180000000.0
+3 bedroom house for sale,130000000.0,Akobo,3.0,3.0,3.0,1,other,43333333.333333336,130000000.0
+3 bedroom detached bungalow for sale,26000000.0,Apata,3.0,3.0,3.0,1,bungalow,8666666.666666666,26000000.0
+5 bedroom detached duplex for sale,300000000.0,Aerodrome Gra,5.0,5.0,6.0,1,duplex,60000000.0,300000000.0
+3 bedroom detached bungalow for sale,99750000.0,Asejire,3.0,4.0,4.0,1,bungalow,33250000.0,99750000.0
+4 bedroom detached bungalow for sale,50000000.0,Ire-akari,4.0,4.0,4.0,500,bungalow,12500000.0,100000.0
+2 bedroom block of flats for sale,130000000.0,Oluyole Estate,2.0,2.0,2.0,500,apartment,65000000.0,260000.0
+4 bedroom detached duplex for sale,340000000.0,Blue Gate Oluyole Estate,4.0,4.0,4.0,400,duplex,85000000.0,850000.0
+3 bedroom detached bungalow for sale,8000000.0,Oluwo,3.0,3.0,3.0,400,bungalow,2666666.6666666665,20000.0
+Block of flats for sale,25000000.0,Oluwo,4.0,4.0,4.0,400,apartment,6250000.0,62500.0
+2 bedroom block of flats for sale,85000000.0,Alakia,2.0,2.0,2.0,400,apartment,42500000.0,212500.0
+Block of flats for sale,38000000.0,Inu Ewe,4.0,4.0,4.0,400,apartment,9500000.0,95000.0
+5 bedroom detached duplex for sale,200000000.0,New Bodija,5.0,5.0,5.0,400,duplex,40000000.0,500000.0
+Block of flats for sale,25000000.0,Monatan,4.0,4.0,4.0,400,apartment,6250000.0,62500.0
+4 bedroom detached bungalow for sale,40000000.0,Alakia,4.0,4.0,4.0,400,bungalow,10000000.0,100000.0
+5 bedroom detached duplex for sale,70000000.0,Ojoo,5.0,5.0,5.0,400,duplex,14000000.0,175000.0
+3 bedroom detached bungalow for sale,90000000.0,Elewuro,3.0,4.0,4.0,400,bungalow,30000000.0,225000.0
+3 bedroom detached duplex for sale,180000000.0,Alalubosa Gra,3.0,4.0,4.0,400,duplex,60000000.0,450000.0
+Block of flats for sale,60000000.0,Challenge,4.0,4.0,4.0,400,apartment,15000000.0,150000.0
+Block of flats for sale,13000000.0,Iyana Agbala,4.0,4.0,4.0,400,apartment,3250000.0,32500.0
+Block of flats for sale,75000000.0,Sdp,4.0,4.0,4.0,400,apartment,18750000.0,187500.0
+4 bedroom terraced duplex for sale,220000000.0,Jericho,4.0,4.0,5.0,400,duplex,55000000.0,550000.0
+3 bedroom detached bungalow for sale,160000000.0,Akobo,3.0,3.0,3.0,400,bungalow,53333333.333333336,400000.0
+Block of flats for sale,80000000.0,Agbowo,4.0,4.0,4.0,400,apartment,20000000.0,200000.0
+5 bedroom detached duplex for sale,200000000.0,Akobo,5.0,5.0,5.0,400,duplex,40000000.0,500000.0
+Block of flats for sale,18000000.0,Old Ife Road,4.0,4.0,4.0,400,apartment,4500000.0,45000.0
+Block of flats for sale,50000000.0,Akobo,4.0,4.0,4.0,400,apartment,12500000.0,125000.0
+3 bedroom detached bungalow for sale,50000000.0,Alengongo,3.0,3.0,3.0,400,bungalow,16666666.666666666,125000.0
+3 bedroom detached bungalow for sale,72000000.0,Ile Tuntun,3.0,3.0,3.0,400,bungalow,24000000.0,180000.0
+6 bedroom detached duplex for sale,100000000.0,Akobo,6.0,6.0,6.0,400,duplex,16666666.666666666,250000.0
+Block of flats for sale,8000000.0,Alakia,4.0,4.0,4.0,400,apartment,2000000.0,20000.0
+Block of flats for sale,40000000.0,Alakia,4.0,4.0,4.0,400,apartment,10000000.0,100000.0
+Block of flats for sale,250000000.0,Ringroad,4.0,4.0,4.0,400,apartment,62500000.0,625000.0
+Block of flats for sale,400000000.0,Old Bodija,4.0,4.0,4.0,400,apartment,100000000.0,1000000.0
+Block of flats for sale,420000000.0,Old Bodija,4.0,4.0,4.0,400,apartment,105000000.0,1050000.0
+Block of flats for sale,80000000.0,Eleyele,4.0,4.0,4.0,400,apartment,20000000.0,200000.0
+5 bedroom detached duplex for sale,339000000.0,Samonda,5.0,6.0,6.0,500,duplex,67800000.0,678000.0
+4 bedroom house for sale,32000000.0,Akobo Ojurin Ibadan,4.0,4.0,5.0,500,other,8000000.0,64000.0
+7 bedroom block of flats for sale,70000000.0,Apata,7.0,4.0,4.0,500,apartment,10000000.0,140000.0
+4 bedroom detached duplex for sale,300000000.0,Alalubosa Gra,4.0,4.0,5.0,500,duplex,75000000.0,600000.0
+4 bedroom detached duplex for sale,310000000.0,Akobo,4.0,4.0,5.0,500,duplex,77500000.0,620000.0
+3 bedroom semi-detached duplex for sale,160000000.0,Akobo,3.0,3.0,4.0,500,duplex,53333333.333333336,320000.0
+4 bedroom detached duplex for sale,200000000.0,Akobo,4.0,4.0,5.0,500,duplex,50000000.0,400000.0
+4 bedroom detached duplex for sale,195000000.0,Oluyole,4.0,5.0,5.0,500,duplex,48750000.0,390000.0
+4 bedroom detached duplex for sale,300000000.0,Aerodrome Gra Samonda,4.0,5.0,5.0,500,duplex,75000000.0,600000.0
+4 bedroom semi-detached duplex for sale,155000000.0,Akobo,4.0,4.0,4.0,500,duplex,38750000.0,310000.0
+3 bedroom detached duplex for sale,400000000.0,Old Bodija,3.0,3.0,3.0,500,duplex,133333333.33333333,800000.0
+3 bedroom detached duplex for sale,160000000.0,Eleyele,3.0,3.0,3.0,500,duplex,53333333.333333336,320000.0
+Block of flats for sale,65000000.0,Akobo,4.0,4.0,4.0,500,apartment,16250000.0,130000.0
+4 bedroom detached bungalow for sale,35000000.0,Apata,4.0,4.0,4.0,500,bungalow,8750000.0,70000.0
+5 bedroom house for sale,130000000.0,Akobo,5.0,6.0,6.0,500,other,26000000.0,260000.0
+3 bedroom detached bungalow for sale,180000000.0,New Bodija,3.0,4.0,4.0,650,bungalow,60000000.0,276923.07692307694
+6 bedroom detached bungalow for sale,130000000.0,Ile Tuntun Jericho Extension,6.0,6.0,6.0,650,bungalow,21666666.666666668,200000.0
+3 bedroom detached duplex for sale,90000000.0,Phase 1,3.0,4.0,4.0,300,duplex,30000000.0,300000.0
+4 bedroom detached duplex for sale,230000000.0,Golf Club,4.0,4.0,5.0,410,duplex,57500000.0,560975.6097560975
+Block of flats for sale,75000000.0,Opposite Welfare Hospital,4.0,4.0,4.0,410,apartment,18750000.0,182926.82926829267
+4 bedroom detached duplex for sale,200000000.0,New Bodija,4.0,4.0,5.0,410,duplex,50000000.0,487804.8780487805
+4 bedroom terraced duplex for sale,90000000.0,Akobo,4.0,4.0,5.0,410,duplex,22500000.0,219512.19512195123
+5 bedroom detached duplex for sale,210000000.0,Akobo,5.0,5.0,6.0,410,duplex,42000000.0,512195.1219512195
+4 bedroom detached duplex for sale,270000000.0,Carlton Gate Estate Akobo,4.0,4.0,5.0,410,duplex,67500000.0,658536.5853658536
+4 bedroom detached duplex for sale,220000000.0,Carlton Gate Estate Akobo,4.0,4.0,5.0,410,duplex,55000000.0,536585.3658536585
+4 bedroom house for sale,250000000.0,Jericho Gra,4.0,4.0,5.0,410,other,62500000.0,609756.0975609756
+3 bedroom detached bungalow for sale,65000000.0,Alegongo Akobo,3.0,3.0,4.0,410,bungalow,21666666.666666668,158536.58536585365
+2 bedroom block of flats for sale,65000000.0,Behind Foodco Ringroad,2.0,2.0,3.0,410,apartment,32500000.0,158536.58536585365
+1 bedroom block of flats for sale,55000000.0,Ringroad,1.0,1.0,2.0,410,apartment,55000000.0,134146.34146341463
+3 bedroom detached duplex for sale,350000000.0,Samonda,3.0,3.0,3.0,410,duplex,116666666.66666667,853658.5365853659
+4 bedroom detached duplex for sale,200000000.0,Oyo,4.0,4.0,5.0,410,duplex,50000000.0,487804.8780487805
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,5.0,5.0,410,duplex,75000000.0,731707.3170731707
+3 bedroom detached bungalow for sale,83000000.0,Akala Way,3.0,4.0,4.0,400,bungalow,27666666.666666668,207500.0
+5 bedroom house for sale,160000000.0,Bashorun Housing Estate Akobo,5.0,6.0,6.0,1,other,32000000.0,160000000.0
+4 bedroom detached duplex for sale,320000000.0,Agodi,4.0,4.0,5.0,1,duplex,80000000.0,320000000.0
+5 bedroom house for sale,450000000.0,Engr Lere Adigun Gra,5.0,5.0,6.0,500,other,90000000.0,900000.0
+4 bedroom detached duplex for sale,465000000.0,Akobo,4.0,4.0,5.0,500,duplex,116250000.0,930000.0
+4 bedroom detached duplex for sale,240000000.0,Jericho,4.0,4.0,5.0,500,duplex,60000000.0,480000.0
+2 bedroom block of flats for sale,250000000.0,Old Bodija,2.0,2.0,3.0,1,apartment,125000000.0,250000000.0
+4 bedroom detached bungalow for sale,75000000.0,Yanbule Area Bashorun,4.0,4.0,5.0,1,bungalow,18750000.0,75000000.0
+4 bedroom detached duplex for sale,280000000.0,Akobo,4.0,4.0,5.0,500,duplex,70000000.0,560000.0
+4 bedroom detached duplex for sale,250000000.0,Oluyole Estate,4.0,4.0,5.0,500,duplex,62500000.0,500000.0
+4 bedroom detached duplex for sale,260000000.0,Oluyole Estate,4.0,4.0,5.0,500,duplex,65000000.0,520000.0
+6 bedroom detached duplex for sale,220000000.0,Challenge,6.0,6.0,7.0,500,duplex,36666666.666666664,440000.0
+Block of flats for sale,45000000.0,Kulodi,4.0,4.0,4.0,500,apartment,11250000.0,90000.0
+3 bedroom detached bungalow for sale,6000000.0,Apete,3.0,3.0,3.0,500,bungalow,2000000.0,12000.0
+5 bedroom detached duplex for sale,55000000.0,Apata,5.0,5.0,5.0,500,duplex,11000000.0,110000.0
+Block of flats for sale,30000000.0,Adegbayi,4.0,4.0,4.0,500,apartment,7500000.0,60000.0
+5 bedroom detached duplex for sale,60000000.0,orita Challenge,5.0,5.0,5.0,500,duplex,12000000.0,120000.0
+4 bedroom detached bungalow for sale,80000000.0,Akobo,4.0,4.0,4.0,500,bungalow,20000000.0,160000.0
+2 bedroom terraced duplex for sale,90000000.0,Akobo,2.0,2.0,2.0,500,duplex,45000000.0,180000.0
+3 bedroom detached bungalow for sale,35000000.0,Osengere,3.0,3.0,4.0,500,bungalow,11666666.666666666,70000.0
+4 bedroom detached duplex for sale,310000000.0,Akobo,4.0,5.0,5.0,620,duplex,77500000.0,500000.0
+4 bedroom detached duplex for sale,340000000.0,Akobo,4.0,4.0,5.0,620,duplex,85000000.0,548387.0967741936
+5 bedroom detached duplex for sale,180000000.0,New Bodija,5.0,5.0,6.0,350,duplex,36000000.0,514285.71428571426
+3 bedroom house for sale,130000000.0,Ologuneru,3.0,3.0,4.0,350,other,43333333.333333336,371428.5714285714
+4 bedroom detached duplex for sale,190000000.0,Star Gate Oluyole Estate,4.0,4.0,4.0,350,duplex,47500000.0,542857.1428571428
+7 bedroom detached duplex for sale,250000000.0,Oluyole Estate,7.0,7.0,8.0,350,duplex,35714285.71428572,714285.7142857143
+10 bedroom house for sale,50000000.0,alakia Junction New Ife Road,10.0,6.0,6.0,350,other,5000000.0,142857.14285714287
+3 bedroom detached bungalow for sale,65000000.0,Elebu Off Akala Express,3.0,3.0,4.0,350,bungalow,21666666.666666668,185714.2857142857
+4 bedroom detached duplex for sale,330000000.0,Oluyole Estate,4.0,4.0,5.0,350,duplex,82500000.0,942857.1428571428
+3 bedroom detached duplex for sale,290000000.0,Jericho,3.0,4.0,4.0,350,duplex,96666666.66666667,828571.4285714285
+4 bedroom detached duplex for sale,270000000.0,Akobo,4.0,5.0,5.0,350,duplex,67500000.0,771428.5714285715
+3 bedroom detached bungalow for sale,50000000.0,Ologuneru,3.0,3.0,4.0,350,bungalow,16666666.666666666,142857.14285714287
+4 bedroom detached duplex for sale,180000000.0,Kolapo Ishola Gra,4.0,4.0,5.0,400,duplex,45000000.0,450000.0
+4 bedroom semi-detached duplex for sale,200000000.0,Kolapo Ishola Gra,4.0,4.0,4.0,400,duplex,50000000.0,500000.0
+4 bedroom detached duplex for sale,385000000.0,Old Bodija,4.0,4.0,4.0,400,duplex,96250000.0,962500.0
+5 bedroom semi-detached duplex for sale,130000000.0,Ile Tuntun,5.0,5.0,5.0,400,duplex,26000000.0,325000.0
+4 bedroom detached duplex for sale,340000000.0,Oluyole Estate,4.0,4.0,5.0,400,duplex,85000000.0,850000.0
+4 bedroom detached duplex for sale,45000000.0,Apata,4.0,4.0,4.0,400,duplex,11250000.0,112500.0
+5 bedroom detached duplex for sale,350000000.0,Kolapo Ishola Gra,5.0,5.0,5.0,400,duplex,70000000.0,875000.0
+4 bedroom semi-detached duplex for sale,250000000.0,Jericho Gra,4.0,4.0,5.0,400,duplex,62500000.0,625000.0
+5 bedroom detached duplex for sale,450000000.0,Akobo,5.0,5.0,6.0,400,duplex,90000000.0,1125000.0
+4 bedroom semi-detached duplex for sale,130000000.0,Ile-titun Area,4.0,4.0,5.0,400,duplex,32500000.0,325000.0
+3 bedroom detached bungalow for sale,65000000.0,,3.0,3.0,3.0,400,bungalow,21666666.666666668,162500.0
+3 bedroom detached bungalow for sale,44500000.0,Omititun Estate,3.0,3.0,4.0,400,bungalow,14833333.333333334,111250.0
+5 bedroom detached bungalow for sale,220000000.0,Akobo,5.0,5.0,5.0,400,bungalow,44000000.0,550000.0
+5 bedroom detached duplex for sale,300000000.0,Akobo,5.0,5.0,5.0,400,duplex,60000000.0,750000.0
+4 bedroom detached duplex for sale,270000000.0,Akobo,4.0,4.0,4.0,400,duplex,67500000.0,675000.0
+3 bedroom terraced bungalow for sale,54000000.0,Very Close To The Ibada International Airport,3.0,3.0,4.0,400,bungalow,18000000.0,135000.0
+3 bedroom detached bungalow for sale,42000000.0,Idi Ape,3.0,3.0,3.0,400,bungalow,14000000.0,105000.0
+5 bedroom detached bungalow for sale,27000000.0,International Airport Area,5.0,5.0,5.0,400,bungalow,5400000.0,67500.0
+4 bedroom house for sale,90000000.0,Arapaja,4.0,4.0,5.0,400,other,22500000.0,225000.0
+4 bedroom semi-detached duplex for sale,120000000.0,Ring Road,4.0,4.0,4.0,400,duplex,30000000.0,300000.0
+4 bedroom house for sale,170000000.0,Akobo.,4.0,4.0,4.0,400,other,42500000.0,425000.0
+5 bedroom detached duplex for sale,100000000.0,Ojoo,5.0,5.0,5.0,400,duplex,20000000.0,250000.0
+Block of flats for sale,55000000.0,Sdp,4.0,4.0,4.0,400,apartment,13750000.0,137500.0
+3 bedroom detached bungalow for sale,20000000.0,Moniya,3.0,3.0,3.0,400,bungalow,6666666.666666667,50000.0
+4 bedroom terraced duplex for sale,90000000.0,Akobo,4.0,4.0,4.0,400,duplex,22500000.0,225000.0
+4 bedroom detached bungalow for sale,15000000.0,Olodo,4.0,4.0,4.0,400,bungalow,3750000.0,37500.0
+2 bedroom detached bungalow for sale,140000000.0,Ile Titun Jericho,2.0,2.0,2.0,400,bungalow,70000000.0,350000.0
+4 bedroom detached bungalow for sale,110000000.0,Off Eleyele-ido Road,4.0,4.0,4.0,400,bungalow,27500000.0,275000.0
+5 bedroom detached duplex for sale,170000000.0,Elebu,5.0,5.0,5.0,400,duplex,34000000.0,425000.0
+4 bedroom block of flats for sale,65000000.0,Via Akoto 1st Gate,4.0,4.0,4.0,400,apartment,16250000.0,162500.0
+3 bedroom detached bungalow for sale,75000000.0,Elebu Area Off Akala Express,3.0,3.0,3.0,400,bungalow,25000000.0,187500.0
+3 bedroom detached bungalow for sale,35000000.0,Apata,3.0,3.0,3.0,400,bungalow,11666666.666666666,87500.0
+3 bedroom detached bungalow for sale,65000000.0,Eleyele Area,3.0,3.0,3.0,400,bungalow,21666666.666666668,162500.0
+3 bedroom detached bungalow for sale,75000000.0,Oritamerin,3.0,3.0,3.0,550,bungalow,25000000.0,136363.63636363635
+4 bedroom detached bungalow for sale,85000000.0,Elewuro Area Akobo,4.0,4.0,4.0,1,bungalow,21250000.0,85000000.0
+5 bedroom detached duplex for sale,385000000.0,Oluyole,5.0,5.0,6.0,1,duplex,77000000.0,385000000.0
+5 bedroom detached duplex for sale,280000000.0,Oluyole Estate,5.0,5.0,6.0,1,duplex,56000000.0,280000000.0
+4 bedroom detached duplex for sale,280000000.0,Akobo,4.0,4.0,4.0,1,duplex,70000000.0,280000000.0
+3 bedroom detached bungalow for sale,83000000.0,Akala Way,3.0,3.0,4.0,1,bungalow,27666666.666666668,83000000.0
+Block of flats for sale,95000000.0,Challenge,4.0,4.0,4.0,1,apartment,23750000.0,95000000.0
+20 bedroom house for sale,45000000.0,Near Molete - Dugbe Road,20.0,4.0,4.0,1,other,2250000.0,45000000.0
+9 bedroom house for sale,80000000.0,Elebu Off Akala Express,9.0,9.0,12.0,1,other,8888888.888888888,80000000.0
+4 bedroom detached duplex for sale,200000000.0,Ikolaba Gra Agodi,4.0,5.0,6.0,1,duplex,50000000.0,200000000.0
+4 bedroom detached duplex for sale,170000000.0,Carlton Gate Estate,4.0,4.0,5.0,1,duplex,42500000.0,170000000.0
+3 bedroom detached bungalow for sale,23000000.0,Alakia,3.0,3.0,3.0,1,bungalow,7666666.666666667,23000000.0
+4 bedroom house for sale,120000000.0,Off Nihort,4.0,4.0,4.0,1,other,30000000.0,120000000.0
+4 bedroom house for sale,250000000.0,Oluyole,4.0,5.0,5.0,1,other,62500000.0,250000000.0
+4 bedroom detached duplex for sale,170000000.0,Off Nihort,4.0,5.0,5.0,1,duplex,42500000.0,170000000.0
+5 bedroom house for sale,310000000.0,Location: Oluyole Estate,5.0,5.0,5.0,1,other,62000000.0,310000000.0
+5 bedroom house for sale,210000000.0,Akobo,5.0,5.0,5.0,1,other,42000000.0,210000000.0
+6 bedroom detached duplex for sale,250000000.0,Oluyole,6.0,6.0,6.0,1,duplex,41666666.666666664,250000000.0
+6 bedroom detached duplex for sale,350000000.0,Kolapo Ishola Akobo,6.0,6.0,6.0,1,duplex,58333333.333333336,350000000.0
+4 bedroom detached duplex for sale,430000000.0,Oluyole Estate,4.0,4.0,5.0,1,duplex,107500000.0,430000000.0
+5 bedroom terraced duplex for sale,200000000.0,Eng Lere Adigun Gra,5.0,5.0,5.0,1,duplex,40000000.0,200000000.0
+4 bedroom semi-detached duplex for sale,270000000.0,Kolapo Ishola Gra,4.0,4.0,4.0,1,duplex,67500000.0,270000000.0
+5 bedroom detached duplex for sale,250000000.0,Akobo,5.0,5.0,5.0,1,duplex,50000000.0,250000000.0
+4 bedroom detached duplex for sale,200000000.0,Kolapo Ishola Gra.,4.0,5.0,5.0,1,duplex,50000000.0,200000000.0
+5 bedroom detached duplex for sale,450000000.0,Bashorun,5.0,5.0,6.0,500,duplex,90000000.0,900000.0
+4 bedroom house for sale,450000000.0,Akobo,4.0,4.0,5.0,500,other,112500000.0,900000.0
+4 bedroom house for sale,180000000.0,Akobo,4.0,4.0,4.0,500,other,45000000.0,360000.0
+3 bedroom house for sale,220000000.0,Airforce,3.0,3.0,3.0,500,other,73333333.33333333,440000.0
+4 bedroom house for sale,200000000.0,Ringroad Gra,4.0,4.0,4.0,500,other,50000000.0,400000.0
+5 bedroom house for sale,300000000.0,Samonda,5.0,5.0,5.0,500,other,60000000.0,600000.0
+2 bedroom semi-detached bungalow for sale,70000000.0,Old Bodija,2.0,2.0,2.0,500,bungalow,35000000.0,140000.0
+5 bedroom detached duplex for sale,310000000.0,Blue Gate Oluyole Estate,5.0,6.0,6.0,500,duplex,62000000.0,620000.0
+4 bedroom detached duplex for sale,300000000.0,Alalubosa,4.0,4.0,4.0,500,duplex,75000000.0,600000.0
+Block of flats for sale,300000000.0,Ringroad,4.0,4.0,4.0,500,apartment,75000000.0,600000.0
+3 bedroom semi-detached bungalow for sale,120000000.0,Akobo,3.0,3.0,3.0,500,bungalow,40000000.0,240000.0
+5 bedroom detached duplex for sale,465000000.0,Oluyole Estate,5.0,5.0,6.0,500,duplex,93000000.0,930000.0
+5 bedroom house for sale,180000000.0,New Bodija,5.0,5.0,5.0,500,other,36000000.0,360000.0
+3 bedroom block of flats for sale,45000000.0,Eleyele,3.0,3.0,3.0,500,apartment,15000000.0,90000.0
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,4.0,5.0,500,duplex,75000000.0,600000.0
+4 bedroom detached duplex for sale,160000000.0,Agodi,4.0,4.0,4.0,500,duplex,40000000.0,320000.0
+5 bedroom detached duplex for sale,350000000.0,Akobo,5.0,5.0,5.0,500,duplex,70000000.0,700000.0
+3 bedroom detached bungalow for sale,44500000.0,Ajoda New Town Kulodi Egbeda,3.0,3.0,4.0,500,bungalow,14833333.333333334,89000.0
+4 bedroom detached bungalow for sale,70000000.0,New Bodija,4.0,4.0,4.0,500,bungalow,17500000.0,140000.0
+3 bedroom detached bungalow for sale,13000000.0,Lifort Road,3.0,4.0,4.0,500,bungalow,4333333.333333333,26000.0
+5 bedroom detached duplex for sale,300000000.0,Oluyole Estate,5.0,5.0,6.0,500,duplex,60000000.0,600000.0
+4 bedroom terraced duplex for sale,150000000.0,Akobo,4.0,4.0,5.0,500,duplex,37500000.0,300000.0
+5 bedroom semi-detached duplex for sale,370000000.0,Akobo,5.0,6.0,6.0,500,duplex,74000000.0,740000.0
+4 bedroom detached bungalow for sale,170000000.0,Old Bodija Estate,4.0,4.0,4.0,500,bungalow,42500000.0,340000.0
+4 bedroom semi-detached duplex for sale,375000000.0,Akobo,4.0,4.0,5.0,500,duplex,93750000.0,750000.0
+4 bedroom detached duplex for sale,160000000.0,Agodi,4.0,4.0,5.0,500,duplex,40000000.0,320000.0
+3 bedroom semi-detached duplex for sale,145000000.0,Link Reservations,3.0,3.0,4.0,500,duplex,48333333.333333336,290000.0
+2 bedroom detached bungalow for sale,85000000.0,New Bodija,2.0,2.0,2.0,500,bungalow,42500000.0,170000.0
+4 bedroom semi-detached duplex for sale,160000000.0,Oluyole Industrial Estate,4.0,5.0,5.0,500,duplex,40000000.0,320000.0
+4 bedroom detached duplex for sale,230000000.0,Alalubosa,4.0,4.0,5.0,500,duplex,57500000.0,460000.0
+4 bedroom detached duplex for sale,360000000.0,gra,4.0,6.0,7.0,500,duplex,90000000.0,720000.0
+4 bedroom semi-detached duplex for sale,125000000.0,Peace Estate,4.0,4.0,5.0,500,duplex,31250000.0,250000.0
+4 bedroom semi-detached duplex for sale,160000000.0,Association Street,4.0,4.0,5.0,3,duplex,40000000.0,53333333.333333336
+4 bedroom semi-detached duplex for sale,180000000.0,Ashi. Bodija,4.0,4.0,5.0,600,duplex,45000000.0,300000.0
+6 bedroom detached duplex for sale,285000000.0,Oluyole Estate,6.0,6.0,7.0,600,duplex,47500000.0,475000.0
+5 bedroom detached duplex for sale,300000000.0,Oluyole Estate,5.0,6.0,7.0,600,duplex,60000000.0,500000.0
+4 bedroom detached bungalow for sale,270000000.0,Akobo,4.0,5.0,5.0,600,bungalow,67500000.0,450000.0
+4 bedroom detached duplex for sale,180000000.0,Omololu Olunloyo Gra Ring Road,4.0,4.0,5.0,600,duplex,45000000.0,300000.0
+3 bedroom detached bungalow for sale,85000000.0,Akala Way,3.0,3.0,3.0,600,bungalow,28333333.333333332,141666.66666666666
+5 bedroom detached duplex for sale,180000000.0,New Bodija,5.0,5.0,6.0,600,duplex,36000000.0,300000.0
+5 bedroom semi-detached duplex for sale,360000000.0,Providence Estate,5.0,5.0,5.0,600,duplex,72000000.0,600000.0
+3 bedroom detached bungalow for sale,29000000.0,Adron London Park And Gardens,3.0,4.0,4.0,600,bungalow,9666666.666666666,48333.333333333336
+4 bedroom detached duplex for sale,305000000.0,Akobo,4.0,5.0,5.0,600,duplex,76250000.0,508333.3333333333
+3 bedroom detached bungalow for sale,60900000.0,Lawoyin,3.0,4.0,4.0,300,bungalow,20300000.0,203000.0
+5 bedroom detached duplex for sale,198000000.0,New Bodija,5.0,6.0,6.0,300,duplex,39600000.0,660000.0
+4 bedroom detached duplex for sale,450000000.0,Akobo,4.0,5.0,5.0,300,duplex,112500000.0,1500000.0
+10 bedroom semi-detached duplex for sale,150000000.0,Akingbade Area Near Gbagi Off Airport-ife Road,10.0,10.0,12.0,300,duplex,15000000.0,500000.0
+5 bedroom detached duplex for sale,220000000.0,Kolapo Ishola Estate,5.0,6.0,6.0,300,duplex,44000000.0,733333.3333333334
+4 bedroom detached duplex for sale,250000000.0,Jericho,4.0,4.0,4.0,300,duplex,62500000.0,833333.3333333334
+5 bedroom house for sale,30000000.0,Ologuneru,5.0,6.0,5.0,300,other,6000000.0,100000.0
+2 bedroom semi-detached bungalow for sale,80000000.0,,2.0,2.0,2.0,300,bungalow,40000000.0,266666.6666666667
+3 bedroom detached bungalow for sale,15000000.0,Off Iyana Ajia,3.0,3.0,3.0,300,bungalow,5000000.0,50000.0
+10 bedroom terraced bungalow for sale,65000000.0,Aerodromes Estate Ibadan Oyo State,10.0,8.0,8.0,300,bungalow,6500000.0,216666.66666666666
+Block of flats for sale,35000000.0,Soka,4.0,4.0,4.0,300,apartment,8750000.0,116666.66666666667
+Block of flats for sale,400000000.0,Jericho,4.0,4.0,4.0,300,apartment,100000000.0,1333333.3333333333
+4 bedroom detached duplex for sale,200000000.0,Oyo,4.0,4.0,5.0,300,duplex,50000000.0,666666.6666666666
+2 bedroom block of flats for sale,100000000.0,Faith Bible Area,2.0,2.0,3.0,300,apartment,50000000.0,333333.3333333333
+3 bedroom detached bungalow for sale,80000000.0,Akuru,3.0,3.0,3.0,501,bungalow,26666666.666666668,159680.6387225549
+4 bedroom detached bungalow for sale,110000000.0,Opposite Coca-cola Factory,4.0,4.0,4.0,501,bungalow,27500000.0,219560.87824351297
+3 bedroom block of flats for sale,85000000.0,Akobo,3.0,3.0,3.0,501,apartment,28333333.333333332,169660.67864271457
+Block of flats for sale,70000000.0,Akobo,4.0,4.0,4.0,501,apartment,17500000.0,139720.55888223552
+4 bedroom detached bungalow for sale,32000000.0,Akobo Ojurin,4.0,4.0,4.0,501,bungalow,8000000.0,63872.255489021954
+2 bedroom detached bungalow for sale,53000000.0,Near Taska Filling Station Off Akala Express Way,2.0,2.0,2.0,501,bungalow,26500000.0,105788.42315369261
+3 bedroom block of flats for sale,70000000.0,Kufeyiji Street,3.0,3.0,3.0,501,apartment,23333333.333333332,139720.55888223552
+6 bedroom detached duplex for sale,150000000.0,Oke Ado,6.0,6.0,7.0,501,duplex,25000000.0,299401.19760479045
+3 bedroom detached bungalow for sale,85000000.0,Off Akala Express Road.,3.0,3.0,3.0,501,bungalow,28333333.333333332,169660.67864271457
+3 bedroom semi-detached duplex for sale,45000000.0,Apata,3.0,3.0,4.0,501,duplex,15000000.0,89820.35928143712
+4 bedroom detached duplex for sale,9000000.0,Moniya,4.0,4.0,5.0,501,duplex,2250000.0,17964.071856287424
+5 bedroom detached duplex for sale,170000000.0,Jericho,5.0,5.0,6.0,501,duplex,34000000.0,339321.35728542914
+4 bedroom detached duplex for sale,250000000.0,Alalubosa Main Gra,4.0,4.0,4.0,501,duplex,62500000.0,499001.99600798404
+Block of flats for sale,50000000.0,New Bodija,4.0,4.0,4.0,501,apartment,12500000.0,99800.39920159681
+2 bedroom block of flats for sale,35000000.0,Soka,2.0,2.0,2.0,501,apartment,17500000.0,69860.27944111776
+4 bedroom detached duplex for sale,245000000.0,Oluyole Estate,4.0,5.0,5.0,501,duplex,61250000.0,489021.95608782436
+5 bedroom detached duplex for sale,300000000.0,Akobo,5.0,6.0,6.0,501,duplex,60000000.0,598802.3952095809
+4 bedroom detached bungalow for sale,60000000.0,Old Ife Road,4.0,4.0,4.0,501,bungalow,15000000.0,119760.47904191617
+3 bedroom detached bungalow for sale,40000000.0,Off Olorunda Abaa,3.0,3.0,3.0,1,bungalow,13333333.333333334,40000000.0
+4 bedroom block of flats for sale,70000000.0,Beside Brent Supermarket Apata Area,4.0,4.0,4.0,1,apartment,17500000.0,70000000.0
+2 bedroom semi-detached bungalow for sale,6000000.0,Omi Adio,2.0,2.0,2.0,1,bungalow,3000000.0,6000000.0
+3 bedroom detached duplex for sale,40000000.0,Tipper Garage,3.0,3.0,3.0,312,duplex,13333333.333333334,128205.1282051282
+3 bedroom detached bungalow for sale,85000000.0,Akobo,3.0,4.0,4.0,312,bungalow,28333333.333333332,272435.89743589744
+3 bedroom detached bungalow for sale,68000000.0,Eleyele- Ologuneru Rd,3.0,3.0,3.0,312,bungalow,22666666.666666668,217948.71794871794
+4 bedroom detached bungalow for sale,80000000.0,Asunle Area Off Akala Express,4.0,4.0,4.0,312,bungalow,20000000.0,256410.2564102564
+4 bedroom detached duplex for sale,240000000.0,Jericho,4.0,4.0,4.0,312,duplex,60000000.0,769230.7692307692
+5 bedroom semi-detached duplex for sale,120000000.0,New Bodija,5.0,4.0,4.0,312,duplex,24000000.0,384615.3846153846
+4 bedroom detached duplex for sale,200000000.0,Akobo,4.0,4.0,4.0,312,duplex,50000000.0,641025.641025641
+4 bedroom semi-detached duplex for sale,250000000.0,Lare Adigun Gra,4.0,4.0,4.0,312,duplex,62500000.0,801282.0512820513
+2 bedroom block of flats for sale,70000000.0,Omolayo Estate,2.0,2.0,2.0,545,apartment,35000000.0,128440.36697247706
+4 bedroom detached bungalow for sale,90000000.0,Elebu,4.0,4.0,4.0,545,bungalow,22500000.0,165137.6146788991
+3 bedroom semi-detached duplex for sale,160000000.0,Akobo,3.0,3.0,3.0,545,duplex,53333333.333333336,293577.9816513761
+3 bedroom detached duplex for sale,80000000.0,Mkh City  Estate Oluyunde,3.0,3.0,4.0,545,duplex,26666666.666666668,146788.99082568806
+3 bedroom block of flats for sale,55000000.0,aromolaran,3.0,3.0,3.0,545,apartment,18333333.333333332,100917.43119266054
+2 bedroom detached bungalow for sale,68000000.0,Mowe Golf Off Lagos-ibadan Expressway,2.0,3.0,3.0,545,bungalow,34000000.0,124770.64220183487
+4 bedroom detached duplex for sale,300000000.0,Jericho,4.0,4.0,4.0,700,duplex,75000000.0,428571.4285714286
+4 bedroom house for sale,9000000.0,Moniya,4.0,4.0,4.0,700,other,2250000.0,12857.142857142857
+4 bedroom detached bungalow for sale,60000000.0,Ojoo Barracks,4.0,4.0,4.0,700,bungalow,15000000.0,85714.28571428571
+3 bedroom detached bungalow for sale,65000000.0,Ologuneru,3.0,3.0,3.0,550,bungalow,21666666.666666668,118181.81818181818
+4 bedroom detached duplex for sale,65000000.0,Moniya,4.0,4.0,5.0,175,duplex,16250000.0,371428.5714285714
+5 bedroom semi-detached duplex for sale,120000000.0,Ikolaba Gra,5.0,5.0,5.0,500,duplex,24000000.0,240000.0
+4 bedroom semi-detached duplex for sale,250000000.0,Jericho Gra,4.0,4.0,4.0,500,duplex,62500000.0,500000.0
+5 bedroom detached duplex for sale,300000000.0,Akobo,5.0,5.0,5.0,500,duplex,60000000.0,600000.0
+4 bedroom house for sale,200000000.0,New Bodija,4.0,4.0,4.0,500,other,50000000.0,400000.0
+4 bedroom detached duplex for sale,180000000.0,Wofun,4.0,4.0,4.0,500,duplex,45000000.0,360000.0
+4 bedroom semi-detached duplex for sale,370000000.0,Kolapo Ishola Gra,4.0,4.0,4.0,500,duplex,92500000.0,740000.0
+7 bedroom detached bungalow for sale,40000000.0,Old Ife Road,7.0,7.0,7.0,500,bungalow,5714285.714285715,80000.0
+4 bedroom house for sale,200000000.0,Kolapo Ishola Gra,4.0,4.0,4.0,500,other,50000000.0,400000.0
+4 bedroom house for sale,90000000.0,Omolayo Estate,4.0,4.0,4.0,500,other,22500000.0,180000.0
+3 bedroom house for sale,32000000.0,Ologuneru,3.0,3.0,3.0,500,other,10666666.666666666,64000.0
+4 bedroom house for sale,90000000.0,Kolapo Ishola Gra,4.0,4.0,4.0,500,other,22500000.0,180000.0
+4 bedroom detached duplex for sale,250000000.0,Wofun,4.0,4.0,4.0,500,duplex,62500000.0,500000.0
+3 bedroom detached bungalow for sale,35000000.0,Omi Adio,3.0,3.0,3.0,500,bungalow,11666666.666666666,70000.0
+3 bedroom semi-detached duplex for sale,32000000.0,Elebu Akala Express,3.0,3.0,3.0,500,duplex,10666666.666666666,64000.0
+3 bedroom house for sale,75000000.0,Ile Tuntun-nihort,3.0,3.0,3.0,500,other,25000000.0,150000.0
+4 bedroom house for sale,170000000.0,Off Nihort Area,4.0,4.0,4.0,500,other,42500000.0,340000.0
+2 bedroom house for sale,70000000.0,Old Bodija,2.0,2.0,2.0,500,other,35000000.0,140000.0
+4 bedroom detached bungalow for sale,65000000.0,Akobo,4.0,4.0,4.0,500,bungalow,16250000.0,130000.0
+Block of flats for sale,50000000.0,Alakia,4.0,4.0,4.0,500,apartment,12500000.0,100000.0
+5 bedroom house for sale,90000000.0,Ojoo,5.0,5.0,5.0,500,other,18000000.0,180000.0
+6 bedroom detached duplex for sale,220000000.0,Iyaganku Gra,6.0,6.0,7.0,500,duplex,36666666.666666664,440000.0
+4 bedroom semi-detached duplex for sale,200000000.0,Agodi,4.0,4.0,4.0,500,duplex,50000000.0,400000.0
+2 bedroom house for sale,75000000.0,Ringroad Gra,2.0,2.0,2.0,500,other,37500000.0,150000.0
+3 bedroom house for sale,85000000.0,Akala Express,3.0,3.0,3.0,500,other,28333333.333333332,170000.0
+4 bedroom detached bungalow for sale,90000000.0,kasunmu Off Akalaâs Expressway,4.0,4.0,4.0,500,bungalow,22500000.0,180000.0
+3 bedroom detached duplex for sale,85000000.0,Oyo,3.0,3.0,3.0,500,duplex,28333333.333333332,170000.0
+4 bedroom detached duplex for sale,300000000.0,Aerodrome Gra,4.0,5.0,4.0,500,duplex,75000000.0,600000.0
+3 bedroom detached bungalow for sale,30000000.0,Olodo,3.0,3.0,3.0,500,bungalow,10000000.0,60000.0
+4 bedroom detached duplex for sale,130000000.0,Akala,4.0,4.0,4.0,500,duplex,32500000.0,260000.0
+Block of flats for sale,28000000.0,Alakia,4.0,4.0,4.0,500,apartment,7000000.0,56000.0
+4 bedroom semi-detached duplex for sale,200000000.0,Kolapo Ishola Gra,4.0,4.0,5.0,500,duplex,50000000.0,400000.0
+2 bedroom house for sale,100000000.0,Akobo,2.0,2.0,2.0,500,other,50000000.0,200000.0
+3 bedroom house for sale,170000000.0,Akobo,3.0,3.0,3.0,500,other,56666666.666666664,340000.0
+4 bedroom house for sale,70000000.0,Akilapa Estate,4.0,4.0,4.0,500,other,17500000.0,140000.0
+3 bedroom house for sale,85000000.0,Carlton  Gate Estate,3.0,3.0,3.0,500,other,28333333.333333332,170000.0
+4 bedroom house for sale,130000000.0,Jericho Gra,4.0,4.0,4.0,500,other,32500000.0,260000.0
+5 bedroom house for sale,200000000.0,Bashorun Housing Estate,5.0,5.0,5.0,500,other,40000000.0,400000.0
+6 bedroom house for sale,450000000.0,Bashorun,6.0,6.0,6.0,500,other,75000000.0,900000.0
+5 bedroom house for sale,160000000.0,Kolapo Ishola Gra,5.0,5.0,5.0,500,other,32000000.0,320000.0
+4 bedroom detached duplex for sale,300000000.0,Alalubosa Gra,4.0,5.0,5.0,500,duplex,75000000.0,600000.0
+2 bedroom block of flats for sale,70000000.0,Old Bodija,2.0,2.0,2.0,500,apartment,35000000.0,140000.0
+3 bedroom detached bungalow for sale,83000000.0,Akala Way,3.0,3.0,3.0,500,bungalow,27666666.666666668,166000.0
+5 bedroom detached duplex for sale,250000000.0,Oluyole,5.0,5.0,6.0,500,duplex,50000000.0,500000.0
+4 bedroom house for sale,65000000.0,Opposite Kolapo Ishola Gra,4.0,4.0,4.0,500,other,16250000.0,130000.0
+3 bedroom house for sale,180000000.0,Elebu,3.0,3.0,3.0,500,other,60000000.0,360000.0
+4 bedroom house for sale,300000000.0,Oluyole,4.0,4.0,4.0,500,other,75000000.0,600000.0
+5 bedroom house for sale,150000000.0,Akobo,5.0,5.0,5.0,500,other,30000000.0,300000.0
+4 bedroom house for sale,180000000.0,Ashi â Bodija,4.0,4.0,4.0,500,other,45000000.0,360000.0
+3 bedroom house for sale,165000000.0,New Bodija,3.0,3.0,3.0,500,other,55000000.0,330000.0
+4 bedroom house for sale,190000000.0,Oluyole,4.0,4.0,4.0,500,other,47500000.0,380000.0
+5 bedroom detached duplex for sale,190000000.0,Omolayo Estate,5.0,5.0,5.0,500,duplex,38000000.0,380000.0
+5 bedroom house for sale,160000000.0,Akobo,5.0,5.0,5.0,500,other,32000000.0,320000.0
+3 bedroom house for sale,175000000.0,Lateef Oyelade  Ringroad Gra,3.0,3.0,3.0,500,other,58333333.333333336,350000.0
+4 bedroom house for sale,70000000.0,Bashorun,4.0,4.0,4.0,500,other,17500000.0,140000.0
+3 bedroom house for sale,45000000.0,Akobo,3.0,3.0,4.0,500,other,15000000.0,90000.0
+Block of flats for sale,25000000.0,Alakia,4.0,4.0,4.0,500,apartment,6250000.0,50000.0
+3 bedroom detached bungalow for sale,85000000.0,Elebu,3.0,3.0,4.0,500,bungalow,28333333.333333332,170000.0
+4 bedroom semi-detached duplex for sale,200000000.0,Akobo,4.0,4.0,5.0,500,duplex,50000000.0,400000.0
+8 bedroom detached bungalow for sale,99000000.0,Challenge,8.0,6.0,6.0,500,bungalow,12375000.0,198000.0
+5 bedroom detached bungalow for sale,80000000.0,Jericho,5.0,6.0,6.0,580,bungalow,16000000.0,137931.0344827586
+5 bedroom house for sale,165000000.0,New Bodija,5.0,5.0,5.0,580,other,33000000.0,284482.7586206897
+3 bedroom detached duplex for sale,120000000.0,Akobo,3.0,3.0,4.0,500,duplex,40000000.0,240000.0
+3 bedroom detached bungalow for sale,75000000.0,Ile-tuntun Off Jericho Nihort Road,3.0,4.0,4.0,500,bungalow,25000000.0,150000.0
+5 bedroom detached duplex for sale,80000000.0,Apete,5.0,5.0,6.0,500,duplex,16000000.0,160000.0
+2 bedroom detached duplex for sale,38000000.0,Oyo,2.0,2.0,2.0,500,duplex,19000000.0,76000.0
+4 bedroom house for sale,37000000.0,Apata,4.0,4.0,5.0,500,other,9250000.0,74000.0
+5 bedroom semi-detached bungalow for sale,165000000.0,New Bodija,5.0,5.0,5.0,500,bungalow,33000000.0,330000.0
+2 bedroom block of flats for sale,100000000.0,Yemetu,2.0,1.0,1.0,500,apartment,50000000.0,200000.0
+3 bedroom detached bungalow for sale,75000000.0,Nihort Area,3.0,3.0,4.0,500,bungalow,25000000.0,150000.0
+4 bedroom detached duplex for sale,250000000.0,Jericho,4.0,5.0,5.0,500,duplex,62500000.0,500000.0
+4 bedroom detached duplex for sale,310000000.0,Akobo,4.0,4.0,4.0,500,duplex,77500000.0,620000.0
+4 bedroom detached duplex for sale,185000000.0,Jericho Extension.,4.0,4.0,4.0,500,duplex,46250000.0,370000.0
+3 bedroom terraced duplex for sale,70000000.0,Omolayo Estate,3.0,3.0,4.0,500,duplex,23333333.333333332,140000.0
+2 bedroom detached duplex for sale,100000000.0,Akobo G.r.a,2.0,2.0,3.0,500,duplex,50000000.0,200000.0
+3 bedroom block of flats for sale,130000000.0,Akobo,3.0,4.0,4.0,500,apartment,43333333.333333336,260000.0
+4 bedroom detached duplex for sale,240000000.0,Jericho Gra,4.0,4.0,4.0,500,duplex,60000000.0,480000.0
+3 bedroom detached bungalow for sale,72000000.0,Oluyole Estate,3.0,3.0,4.0,500,bungalow,24000000.0,144000.0
+5 bedroom detached duplex for sale,300000000.0,Alalubosa,5.0,6.0,7.0,500,duplex,60000000.0,600000.0
+4 bedroom detached duplex for sale,155000000.0,New Bodija,4.0,4.0,5.0,500,duplex,38750000.0,310000.0
+3 bedroom detached bungalow for sale,75000000.0,Iletuntun,3.0,3.0,4.0,500,bungalow,25000000.0,150000.0
+5 bedroom detached duplex for sale,190000000.0,Akobo,5.0,5.0,6.0,500,duplex,38000000.0,380000.0
+3 bedroom block of flats for sale,80000000.0,Nnpc,3.0,3.0,3.0,1,apartment,26666666.666666668,80000000.0
+5 bedroom detached bungalow for sale,83000000.0,Akala Way,5.0,6.0,6.0,1,bungalow,16600000.0,83000000.0
+4 bedroom detached duplex for sale,300000000.0,Jericho,4.0,4.0,5.0,1,duplex,75000000.0,300000000.0
+3 bedroom detached bungalow for sale,20000000.0,Apata,3.0,3.0,3.0,1,bungalow,6666666.666666667,20000000.0
+Block of flats for sale,25000000.0,Akobo,4.0,4.0,4.0,1,apartment,6250000.0,25000000.0
+4 bedroom detached duplex for sale,85000000.0,Ojoo,4.0,4.0,4.0,1,duplex,21250000.0,85000000.0
+Block of flats for sale,120000000.0,Ologuneru,4.0,4.0,4.0,1,apartment,30000000.0,120000000.0
+2 bedroom semi-detached duplex for sale,100000000.0,New Bodija,2.0,2.0,2.0,1,duplex,50000000.0,100000000.0
+Block of flats for sale,35000000.0,Alakia,4.0,4.0,4.0,1,apartment,8750000.0,35000000.0
+Block of flats for sale,60000000.0,Akobo,4.0,4.0,4.0,1,apartment,15000000.0,60000000.0
+4 bedroom detached duplex for sale,180000000.0,Gra,4.0,4.0,4.0,1,duplex,45000000.0,180000000.0
+4 bedroom detached bungalow for sale,90000000.0,Okebadan Estate,4.0,4.0,4.0,1,bungalow,22500000.0,90000000.0
+5 bedroom detached bungalow for sale,125000000.0,New Bodija,5.0,5.0,5.0,1,bungalow,25000000.0,125000000.0
+5 bedroom detached duplex for sale,210000000.0,New Bodija,5.0,5.0,5.0,1,duplex,42000000.0,210000000.0
+5 bedroom detached duplex for sale,150000000.0,New Bodija,5.0,5.0,5.0,1,duplex,30000000.0,150000000.0
+Block of flats for sale,100000000.0,Ring Road,4.0,4.0,4.0,1,apartment,25000000.0,100000000.0
+Block of flats for sale,80000000.0,Alakia,4.0,4.0,4.0,1,apartment,20000000.0,80000000.0
+2 bedroom detached bungalow for sale,50000000.0,Ologuneru,2.0,2.0,3.0,530,bungalow,25000000.0,94339.62264150943
+4 bedroom detached duplex for sale,200000000.0,New Bodija,4.0,4.0,4.0,530,duplex,50000000.0,377358.4905660377
+3 bedroom detached bungalow for sale,135000000.0,Akobo,3.0,3.0,3.0,530,bungalow,45000000.0,254716.98113207548
+Block of flats for sale,100000000.0,Oke Bola,4.0,4.0,4.0,530,apartment,25000000.0,188679.24528301886
+4 bedroom detached duplex for sale,50000000.0,Challenge,4.0,5.0,5.0,530,duplex,12500000.0,94339.62264150943
+5 bedroom detached duplex for sale,160000000.0,New Bodija,5.0,5.0,5.0,530,duplex,32000000.0,301886.7924528302
+Block of flats for sale,110000000.0,Anfani Main Road,4.0,4.0,4.0,530,apartment,27500000.0,207547.16981132075
+12 bedroom block of flats for sale,80000000.0,Felele,12.0,9.0,9.0,530,apartment,6666666.666666667,150943.3962264151
+5 bedroom detached duplex for sale,85000000.0,Alakia,5.0,5.0,5.0,530,duplex,17000000.0,160377.35849056602
+Block of flats for sale,80000000.0,Challenge,4.0,4.0,4.0,530,apartment,20000000.0,150943.3962264151
+Block of flats for sale,25000000.0,Akobo,4.0,4.0,4.0,530,apartment,6250000.0,47169.811320754714
+Block of flats for sale,60000000.0,Old Ife Road,4.0,4.0,4.0,530,apartment,15000000.0,113207.54716981133
+Block of flats for sale,60000000.0,Behind Glo Office,4.0,4.0,4.0,530,apartment,15000000.0,113207.54716981133
+Block of flats for sale,50000000.0,Molete,4.0,4.0,4.0,530,apartment,12500000.0,94339.62264150943
+Block of flats for sale,350000000.0,Agbowo,4.0,4.0,4.0,530,apartment,87500000.0,660377.358490566
+Block of flats for sale,60000000.0,Ui Second Gate,4.0,4.0,4.0,530,apartment,15000000.0,113207.54716981133
+3 bedroom detached bungalow for sale,45000000.0,Jenriyin Via Elewuro,3.0,3.0,3.0,530,bungalow,15000000.0,84905.6603773585
+8 bedroom detached bungalow for sale,150000000.0,Alakia,8.0,8.0,8.0,530,bungalow,18750000.0,283018.8679245283
+16 bedroom block of flats for sale,30000000.0,Old Ife Road,16.0,16.0,16.0,530,apartment,1875000.0,56603.77358490566
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,4.0,4.0,530,duplex,75000000.0,566037.7358490566
+5 bedroom detached duplex for sale,250000000.0,Jericho,5.0,5.0,5.0,530,duplex,50000000.0,471698.11320754717
+5 bedroom detached duplex for sale,100000000.0,Akobo,5.0,5.0,5.0,530,duplex,20000000.0,188679.24528301886
+Block of flats for sale,15000000.0,Alakia,4.0,4.0,4.0,530,apartment,3750000.0,28301.88679245283
+3 bedroom detached duplex for sale,80000000.0,Olunde,3.0,3.0,4.0,530,duplex,26666666.666666668,150943.3962264151
+3 bedroom detached bungalow for sale,67000000.0,Oyo,3.0,3.0,4.0,530,bungalow,22333333.333333332,126415.09433962264
+Block of flats for sale,320000000.0,Akala Express New Garage,4.0,4.0,4.0,530,apartment,80000000.0,603773.5849056604
+Block of flats for sale,36000000.0,Akala Express,4.0,4.0,4.0,530,apartment,9000000.0,67924.52830188679
+Block of flats for sale,100000000.0,Iwo Road,4.0,4.0,4.0,530,apartment,25000000.0,188679.24528301886
+4 bedroom detached duplex for sale,145000000.0,Ile Tuntun,4.0,4.0,4.0,530,duplex,36250000.0,273584.90566037735
+Block of flats for sale,52000000.0,Alakia,4.0,4.0,4.0,530,apartment,13000000.0,98113.2075471698
+5 bedroom detached duplex for sale,110000000.0,Alafara,5.0,5.0,5.0,530,duplex,22000000.0,207547.16981132075
+4 bedroom detached duplex for sale,400000000.0,Ilaro Street,4.0,4.0,4.0,530,duplex,100000000.0,754716.9811320754
+6 bedroom detached duplex for sale,250000000.0,Jericho,6.0,6.0,6.0,530,duplex,41666666.666666664,471698.11320754717
+Block of flats for sale,100000000.0,Apata,4.0,4.0,4.0,530,apartment,25000000.0,188679.24528301886
+4 bedroom detached bungalow for sale,35000000.0,After Yawiri,4.0,4.0,4.0,530,bungalow,8750000.0,66037.7358490566
+3 bedroom block of flats for sale,50000000.0,Isebo Alakia,3.0,3.0,3.0,530,apartment,16666666.666666666,94339.62264150943
+2 bedroom house for sale,67000000.0,Olunde Scheme,2.0,2.0,2.0,530,other,33500000.0,126415.09433962264
+Block of flats for sale,75000000.0,Challenge,4.0,4.0,4.0,530,apartment,18750000.0,141509.43396226416
+3 bedroom house for sale,70000000.0,Ajara Olorunda Road,3.0,3.0,4.0,530,other,23333333.333333332,132075.4716981132
+4 bedroom detached bungalow for sale,35000000.0,Akobo,4.0,4.0,4.0,530,bungalow,8750000.0,66037.7358490566
+4 bedroom detached duplex for sale,75000000.0,Off Akala Express,4.0,4.0,4.0,530,duplex,18750000.0,141509.43396226416
+Block of flats for sale,120000000.0,Akobo,4.0,4.0,4.0,530,apartment,30000000.0,226415.09433962265
+5 bedroom detached duplex for sale,350000000.0,Kolapo Isola Gra,5.0,5.0,5.0,530,duplex,70000000.0,660377.358490566
+Block of flats for sale,70000000.0,Ring Road,4.0,4.0,4.0,530,apartment,17500000.0,132075.4716981132
+3 bedroom terraced duplex for sale,110000000.0,Akobo,3.0,3.0,3.0,530,duplex,36666666.666666664,207547.16981132075
+4 bedroom detached duplex for sale,230000000.0,Akobo,4.0,4.0,4.0,530,duplex,57500000.0,433962.2641509434
+3 bedroom detached bungalow for sale,40000000.0,Ologuneru,3.0,3.0,3.0,530,bungalow,13333333.333333334,75471.69811320755
+4 bedroom detached duplex for sale,280000000.0,Akobo,4.0,5.0,5.0,530,duplex,70000000.0,528301.8867924528
+5 bedroom detached duplex for sale,110000000.0,New Bodija,5.0,5.0,5.0,530,duplex,22000000.0,207547.16981132075
+4 bedroom terraced duplex for sale,135000000.0,Akobo,4.0,4.0,5.0,530,duplex,33750000.0,254716.98113207548
+Block of flats for sale,65000000.0,Oyo,4.0,4.0,4.0,530,apartment,16250000.0,122641.50943396226
+3 bedroom detached duplex for sale,65000000.0,Ologuneru,3.0,3.0,3.0,530,duplex,21666666.666666668,122641.50943396226
+4 bedroom detached bungalow for sale,70000000.0,Jericho Extension,4.0,4.0,5.0,530,bungalow,17500000.0,132075.4716981132
+4 bedroom detached bungalow for sale,195000000.0,Old Bodija,4.0,4.0,5.0,530,bungalow,48750000.0,367924.5283018868
+Block of flats for sale,120000000.0,Nnpc,4.0,4.0,4.0,530,apartment,30000000.0,226415.09433962265
+Block of flats for sale,35000000.0,Iyana Church,4.0,4.0,4.0,530,apartment,8750000.0,66037.7358490566
+4 bedroom detached duplex for sale,300000000.0,Beside Kolapo Ishola Gra,4.0,4.0,4.0,530,duplex,75000000.0,566037.7358490566
+Block of flats for sale,55000000.0,Ibadan Polytechnic Area,4.0,4.0,4.0,530,apartment,13750000.0,103773.58490566038
+4 bedroom semi-detached duplex for sale,10000000.0,Samonda,4.0,4.0,4.0,530,duplex,2500000.0,18867.924528301886
+Block of flats for sale,35000000.0,Iyana Agbala,4.0,4.0,4.0,530,apartment,8750000.0,66037.7358490566
+7 bedroom semi-detached duplex for sale,400000000.0,Onireke Gra,7.0,7.0,7.0,2,duplex,57142857.14285714,200000000.0
+4 bedroom house for sale,270000000.0,Kolapo Ishola Gra,4.0,4.0,4.0,2,other,67500000.0,135000000.0
+5 bedroom house for sale,450000000.0,Akobo,5.0,5.0,5.0,2,other,90000000.0,225000000.0
+4 bedroom house for sale,100000000.0,Akobo,4.0,4.0,4.0,2,other,25000000.0,50000000.0
+4 bedroom detached duplex for sale,220000000.0,Old Bodija,4.0,4.0,4.0,2,duplex,55000000.0,110000000.0
+4 bedroom detached bungalow for sale,25000000.0,Apata,4.0,4.0,4.0,2,bungalow,6250000.0,12500000.0
+4 bedroom detached duplex for sale,160000000.0,Akobo,4.0,4.0,4.0,2,duplex,40000000.0,80000000.0
+4 bedroom detached bungalow for sale,60000000.0,Ologuneru,4.0,4.0,4.0,2,bungalow,15000000.0,30000000.0
+2 bedroom terraced duplex for sale,90000000.0,Ashi - Bodija,2.0,2.0,3.0,2,duplex,45000000.0,45000000.0
+4 bedroom detached duplex for sale,270000000.0,Alalubosa,4.0,4.0,4.0,2,duplex,67500000.0,135000000.0
+Block of flats for sale,60000000.0,Challenge,4.0,4.0,4.0,2,apartment,15000000.0,30000000.0
+Block of flats for sale,130000000.0,Alakia,4.0,4.0,4.0,2,apartment,32500000.0,65000000.0
+2 bedroom house for sale,80000000.0,Ring Road Gra,2.0,2.0,2.0,2,other,40000000.0,40000000.0
+Block of flats for sale,180000000.0,New Bodija,4.0,4.0,4.0,2,apartment,45000000.0,90000000.0
+5 bedroom detached duplex for sale,320000000.0,Samonda,5.0,5.0,5.0,2,duplex,64000000.0,160000000.0
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,4.0,5.0,2,duplex,75000000.0,150000000.0
+5 bedroom detached duplex for sale,385000000.0,Gov Ajimobiâs Street Oluyole Estate,5.0,5.0,5.0,2,duplex,77000000.0,192500000.0
+5 bedroom detached duplex for sale,450000000.0,Akobo,5.0,5.0,5.0,2,duplex,90000000.0,225000000.0
+4 bedroom detached bungalow for sale,170000000.0,Arapaja Estate Oluyole,4.0,4.0,4.0,2,bungalow,42500000.0,85000000.0
+4 bedroom detached duplex for sale,195000000.0,Green Gate,4.0,4.0,4.0,2,duplex,48750000.0,97500000.0
+4 bedroom detached duplex for sale,210000000.0,Kolapo Ishola,4.0,4.0,4.0,2,duplex,52500000.0,105000000.0
+4 bedroom detached duplex for sale,310000000.0,Akobo,4.0,4.0,4.0,2,duplex,77500000.0,155000000.0
+3 bedroom detached bungalow for sale,75000000.0,Ile Titun Nihort Area Jericho,3.0,3.0,3.0,2,bungalow,25000000.0,37500000.0
+4 bedroom terraced duplex for sale,280000000.0,Alalubosa Main Gra,4.0,4.0,4.0,2,duplex,70000000.0,140000000.0
+3 bedroom detached duplex for sale,290000000.0,Main Jericho Gra,3.0,3.0,3.0,2,duplex,96666666.66666667,145000000.0
+3 bedroom detached bungalow for sale,45000000.0,Succes Olorunda Akobo,3.0,3.0,3.0,2,bungalow,15000000.0,22500000.0
+3 bedroom detached bungalow for sale,35000000.0,Elebu,3.0,3.0,3.0,2,bungalow,11666666.666666666,17500000.0
+5 bedroom detached duplex for sale,480000000.0,Oluyole Main Gra,5.0,5.0,5.0,2,duplex,96000000.0,240000000.0
+4 bedroom detached duplex for sale,300000000.0,Samonda,4.0,4.0,4.0,2,duplex,75000000.0,150000000.0
+2 bedroom block of flats for sale,65000000.0,Off Lifeforte Group Of School,2.0,2.0,2.0,2,apartment,32500000.0,32500000.0
+3 bedroom detached bungalow for sale,45000000.0,Tipper Garage,3.0,3.0,3.0,312,bungalow,15000000.0,144230.76923076922
+2 bedroom detached duplex for sale,100000000.0,Akobo,2.0,2.0,2.0,312,duplex,50000000.0,320512.8205128205
+4 bedroom detached bungalow for sale,70000000.0,Ologuneru,4.0,4.0,4.0,312,bungalow,17500000.0,224358.97435897434
+7 bedroom detached duplex for sale,160000000.0,Adeojo Estate Off Akala Express Way,7.0,7.0,7.0,700,duplex,22857142.85714286,228571.42857142858
+4 bedroom detached bungalow for sale,220000000.0,Kolapo Ishola Gra Akobo,4.0,4.0,4.0,740,bungalow,55000000.0,297297.2972972973
+3 bedroom block of flats for sale,130000000.0,Abela Alagutan,3.0,3.0,3.0,740,apartment,43333333.333333336,175675.67567567568
+4 bedroom detached duplex for sale,350000000.0,Jericho Gra,4.0,4.0,4.0,740,duplex,87500000.0,472972.97297297296
+4 bedroom block of flats for sale,450000000.0,Akobo,4.0,4.0,4.0,1,apartment,112500000.0,450000000.0
+5 bedroom detached duplex for sale,465000000.0,Prestigious Oluyole Estate,5.0,5.0,5.0,1,duplex,93000000.0,465000000.0
+4 bedroom detached duplex for sale,300000000.0,Samonda,4.0,4.0,4.0,1,duplex,75000000.0,300000000.0
+5 bedroom detached duplex for sale,200000000.0,Airforce Estate Akobo,5.0,5.0,5.0,1,duplex,40000000.0,200000000.0
+4 bedroom detached duplex for sale,250000000.0,Ojoo,4.0,4.0,4.0,1,duplex,62500000.0,250000000.0
+4 bedroom detached duplex for sale,230000000.0,kolapo Ishola Gra,4.0,4.0,4.0,1,duplex,57500000.0,230000000.0
+4 bedroom detached duplex for sale,150000000.0,Elewuro Junction Off Akala Express Way,4.0,4.0,4.0,1,duplex,37500000.0,150000000.0
+5 bedroom detached duplex for sale,465000000.0,Ajimobi Street Oluyole Estate,5.0,5.0,5.0,1,duplex,93000000.0,465000000.0
+4 bedroom detached duplex for sale,250000000.0,Jericho,4.0,4.0,4.0,1,duplex,62500000.0,250000000.0
+4 bedroom detached bungalow for sale,55000000.0,University Of Ibadan Cooperative,4.0,4.0,4.0,1,bungalow,13750000.0,55000000.0
+4 bedroom detached bungalow for sale,85000000.0,Akobo,4.0,4.0,5.0,1,bungalow,21250000.0,85000000.0
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,4.0,4.0,1,duplex,75000000.0,300000000.0
+Block of flats for sale,120000000.0,Akobo,4.0,4.0,4.0,1,apartment,30000000.0,120000000.0
+6 bedroom detached bungalow for sale,18000000.0,Agbowo,6.0,6.0,6.0,1,bungalow,3000000.0,18000000.0
+5 bedroom detached bungalow for sale,160000000.0,Akobo,5.0,5.0,5.0,1,bungalow,32000000.0,160000000.0
+4 bedroom detached duplex for sale,200000000.0,Olunde Scheme Academy Off Lagos Lbadan Express Way,4.0,4.0,4.0,1,duplex,50000000.0,200000000.0
+2 bedroom block of flats for sale,67000000.0,Mkh City,2.0,2.0,2.0,1,apartment,33500000.0,67000000.0
+Block of flats for sale,65000000.0,Ringroad,4.0,4.0,4.0,1,apartment,16250000.0,65000000.0
+5 bedroom detached duplex for sale,85000000.0,Adex Bus Stop,5.0,5.0,5.0,1,duplex,17000000.0,85000000.0
+Block of flats for sale,25000000.0,Apata,4.0,4.0,4.0,1,apartment,6250000.0,25000000.0
+Block of flats for sale,55000000.0,Monatan,4.0,4.0,4.0,1,apartment,13750000.0,55000000.0
+Block of flats for sale,190000000.0,Ring Road,4.0,4.0,4.0,1,apartment,47500000.0,190000000.0
+Block of flats for sale,100000000.0,New Felele,4.0,4.0,4.0,1,apartment,25000000.0,100000000.0
+4 bedroom house for sale,50000000.0,Alakia,4.0,4.0,5.0,1,other,12500000.0,50000000.0
+5 bedroom detached bungalow for sale,90000000.0,Orogun,5.0,5.0,5.0,1,bungalow,18000000.0,90000000.0
+Block of flats for sale,200000000.0,Jericho-idishin Gra,4.0,4.0,4.0,1,apartment,50000000.0,200000000.0
+3 bedroom detached bungalow for sale,75000000.0,Akobo,3.0,3.0,3.0,1,bungalow,25000000.0,75000000.0
+Block of flats for sale,80000000.0,Iwo Road,4.0,4.0,4.0,1,apartment,20000000.0,80000000.0
+3 bedroom detached bungalow for sale,44100000.0,Oyo,3.0,3.0,3.0,1,bungalow,14700000.0,44100000.0
+Block of flats for sale,200000000.0,Off Ring Road,4.0,4.0,4.0,1,apartment,50000000.0,200000000.0
+Block of flats for sale,65000000.0,Ajibode,4.0,4.0,4.0,1,apartment,16250000.0,65000000.0
+4 bedroom detached bungalow for sale,185000000.0,Old Bodija,4.0,4.0,5.0,1,bungalow,46250000.0,185000000.0
+Block of flats for sale,180000000.0,Isebo,4.0,4.0,4.0,1,apartment,45000000.0,180000000.0
+4 bedroom detached duplex for sale,185000000.0,Akobo,4.0,5.0,5.0,1,duplex,46250000.0,185000000.0
+4 bedroom detached duplex for sale,50000000.0,Alakia,4.0,4.0,4.0,1,duplex,12500000.0,50000000.0
+Block of flats for sale,230000000.0,Old Bodija,4.0,4.0,4.0,1,apartment,57500000.0,230000000.0
+4 bedroom detached bungalow for sale,30000000.0,Adegbayi,4.0,4.0,4.0,1,bungalow,7500000.0,30000000.0
+2 bedroom house for sale,67000000.0,Olude,2.0,2.0,2.0,500,other,33500000.0,134000.0
+Block of flats for sale,22000000.0,Apata,4.0,4.0,4.0,500,apartment,5500000.0,44000.0
+Block of flats for sale,20000000.0,Apata,4.0,4.0,4.0,500,apartment,5000000.0,40000.0
+4 bedroom terraced bungalow for sale,65000000.0,Olunde,4.0,4.0,5.0,500,bungalow,16250000.0,130000.0
+3 bedroom semi-detached bungalow for sale,95000000.0,Akobo,3.0,3.0,3.0,500,bungalow,31666666.666666668,190000.0
+4 bedroom detached bungalow for sale,28000000.0,Apata,4.0,4.0,4.0,500,bungalow,7000000.0,56000.0
+3 bedroom detached bungalow for sale,60000000.0,Eleyele,3.0,3.0,3.0,500,bungalow,20000000.0,120000.0
+4 bedroom detached bungalow for sale,10000000.0,Oluwo,4.0,4.0,4.0,500,bungalow,2500000.0,20000.0
+4 bedroom detached duplex for sale,30000000.0,Alakia,4.0,4.0,4.0,500,duplex,7500000.0,60000.0
+Block of flats for sale,150000000.0,Akobo,4.0,4.0,4.0,500,apartment,37500000.0,300000.0
+Block of flats for sale,85000000.0,Ologuneru,4.0,4.0,4.0,500,apartment,21250000.0,170000.0
+3 bedroom block of flats for sale,35000000.0,Alakia,3.0,3.0,3.0,500,apartment,11666666.666666666,70000.0
+2 bedroom detached bungalow for sale,15000000.0,Akobo,2.0,2.0,2.0,500,bungalow,7500000.0,30000.0
+4 bedroom detached bungalow for sale,23000000.0,Alakia,4.0,4.0,4.0,500,bungalow,5750000.0,46000.0
+4 bedroom detached duplex for sale,170000000.0,After Nihort,4.0,5.0,5.0,500,duplex,42500000.0,340000.0
+2 bedroom detached bungalow for sale,16000000.0,Ologuneru,2.0,2.0,2.0,500,bungalow,8000000.0,32000.0
+3 bedroom detached bungalow for sale,30000000.0,Akobo,3.0,3.0,3.0,500,bungalow,10000000.0,60000.0
+3 bedroom detached bungalow for sale,100000000.0,Alafara Ile Tuntun Jericho Extension,3.0,4.0,4.0,500,bungalow,33333333.333333332,200000.0
+4 bedroom detached bungalow for sale,180000000.0,Old Bodija,4.0,4.0,4.0,500,bungalow,45000000.0,360000.0
+Block of flats for sale,32000000.0,Ring Road,4.0,4.0,4.0,500,apartment,8000000.0,64000.0
+5 bedroom detached duplex for sale,320000000.0,Ologuneru,5.0,5.0,5.0,561,duplex,64000000.0,570409.982174688
+4 bedroom detached duplex for sale,180000000.0,Tiger Estate Ojoo,4.0,4.0,4.0,561,duplex,45000000.0,320855.614973262
+4 bedroom detached duplex for sale,175000000.0,Kolapo Ishola Gra,4.0,4.0,4.0,561,duplex,43750000.0,311942.9590017825
+5 bedroom block of flats for sale,200000000.0,Akobo,5.0,5.0,5.0,561,apartment,40000000.0,356506.23885918
+5 bedroom detached bungalow for sale,120000000.0,New Bodija,5.0,5.0,5.0,812,bungalow,24000000.0,147783.2512315271
+3 bedroom detached bungalow for sale,26000000.0,Mogaji,3.0,3.0,3.0,1,bungalow,8666666.666666666,26000000.0
+4 bedroom detached duplex for sale,250000000.0,Oluyole Area,4.0,4.0,4.0,1,duplex,62500000.0,250000000.0
+4 bedroom detached bungalow for sale,55000000.0,Akoto Estate,4.0,4.0,4.0,1,bungalow,13750000.0,55000000.0
+3 bedroom detached duplex for sale,350000000.0,Kolapo Ishola Gra Akobo,3.0,4.0,4.0,1,duplex,116666666.66666667,350000000.0
+4 bedroom detached bungalow for sale,25000000.0,Moniya,4.0,4.0,4.0,1,bungalow,6250000.0,25000000.0
+1 bedroom block of flats for sale,75000000.0,Elebu Off Akala Express,1.0,1.0,1.0,1,apartment,75000000.0,75000000.0
+4 bedroom detached duplex for sale,310000000.0,Oluyole Estate,4.0,4.0,4.0,1,duplex,77500000.0,310000000.0
+3 bedroom block of flats for sale,95000000.0,Ologede Estate New Garage Off Akala Express,3.0,3.0,3.0,1,apartment,31666666.666666668,95000000.0
+3 bedroom detached duplex for sale,270000000.0,Akobo,3.0,3.0,3.0,1,duplex,90000000.0,270000000.0
+4 bedroom detached duplex for sale,300000000.0,Aare Oluyole Estate,4.0,4.0,4.0,1,duplex,75000000.0,300000000.0
+Block of flats for sale,85000000.0,Karikapo Estate Kasumu Road Off Akala Express,4.0,4.0,4.0,700,apartment,21250000.0,121428.57142857143
+3 bedroom block of flats for sale,120000000.0,Olorunda Road Akobo,3.0,3.0,3.0,700,apartment,40000000.0,171428.57142857142
+4 bedroom detached duplex for sale,180000000.0,Akobo Gra,4.0,4.0,4.0,700,duplex,45000000.0,257142.85714285713
+3 bedroom detached bungalow for sale,55000000.0,Aba Odo Moniya Expressway,3.0,3.0,3.0,503,bungalow,18333333.333333332,109343.93638170975
+4 bedroom semi-detached duplex for sale,200000000.0,New Bodija,4.0,4.0,4.0,503,duplex,50000000.0,397614.31411530817
+3 bedroom block of flats for sale,220000000.0,Progressive Estate Off Akala Express,3.0,3.0,3.0,503,apartment,73333333.33333333,437375.745526839
+5 bedroom terraced duplex for sale,200000000.0,Akobo General Gas,5.0,5.0,5.0,503,duplex,40000000.0,397614.31411530817
+4 bedroom detached duplex for sale,140000000.0,Oluyole,4.0,4.0,4.0,503,duplex,35000000.0,278330.0198807157
+5 bedroom detached duplex for sale,230000000.0,Onireke Gra Jericho,5.0,5.0,5.0,503,duplex,46000000.0,457256.4612326044
+5 bedroom detached duplex for sale,350000000.0,Providence Estate Eleyele Road,5.0,5.0,5.0,503,duplex,70000000.0,695825.0497017893
+4 bedroom detached duplex for sale,270000000.0,Akobo,4.0,4.0,4.0,503,duplex,67500000.0,536779.324055666
+5 bedroom terraced duplex for sale,200000000.0,Gra Basorun,5.0,4.0,5.0,503,duplex,40000000.0,397614.31411530817
+4 bedroom house for sale,220000000.0,Akobo,4.0,4.0,4.0,503,other,55000000.0,437375.745526839
+3 bedroom detached bungalow for sale,70000000.0,Off Nihortâalafara Road,3.0,3.0,3.0,503,bungalow,23333333.333333332,139165.00994035785
+4 bedroom detached duplex for sale,270000000.0,Beside Kolapo Ishola Gra,4.0,4.0,4.0,450,duplex,67500000.0,600000.0
+5 bedroom detached duplex for sale,250000000.0,Oluyole,5.0,5.0,5.0,450,duplex,50000000.0,555555.5555555555
+4 bedroom detached duplex for sale,260000000.0,Beside Kolapo Ishola Gra,4.0,4.0,4.0,450,duplex,65000000.0,577777.7777777778
+4 bedroom detached duplex for sale,150000000.0,Akobo,4.0,4.0,4.0,450,duplex,37500000.0,333333.3333333333
+3 bedroom block of flats for sale,100000000.0,Behind Aleshinloye Shopping Mall,3.0,3.0,3.0,1,apartment,33333333.333333332,100000000.0
+5 bedroom detached bungalow for sale,150000000.0,Akobo,5.0,5.0,5.0,918,bungalow,30000000.0,163398.69281045752
+3 bedroom detached bungalow for sale,70000000.0,Ile Titun Jericho Extension,3.0,3.0,3.0,918,bungalow,23333333.333333332,76252.72331154684
+Block of flats for sale,200000000.0,New Bodija,4.0,4.0,4.0,2,apartment,50000000.0,100000000.0
+3 bedroom detached bungalow for sale,65000000.0,Bada,3.0,3.0,3.0,2,bungalow,21666666.666666668,32500000.0
+4 bedroom detached duplex for sale,220000000.0,Akobo,4.0,4.0,4.0,2,duplex,55000000.0,110000000.0
+4 bedroom semi-detached duplex for sale,135000000.0,Old Bodija,4.0,4.0,4.0,2,duplex,33750000.0,67500000.0
+5 bedroom detached bungalow for sale,150000000.0,New Bodija Estate,5.0,5.0,5.0,2,bungalow,30000000.0,75000000.0
+Block of flats for sale,85000000.0,Akobo,4.0,4.0,4.0,2,apartment,21250000.0,42500000.0
+3 bedroom detached bungalow for sale,85000000.0,Ateere Area Off Akala Express,3.0,3.0,3.0,2,bungalow,28333333.333333332,42500000.0
+5 bedroom detached duplex for sale,400000000.0,Samonda,5.0,5.0,6.0,700,duplex,80000000.0,571428.5714285715
+9 bedroom detached duplex for sale,495000000.0,Jericho Gra,9.0,9.0,9.0,2,duplex,55000000.0,247500000.0
+3 bedroom detached bungalow for sale,60000000.0,Off Ologuneru,3.0,3.0,3.0,2,bungalow,20000000.0,30000000.0
+4 bedroom detached duplex for sale,260000000.0,Oluyole Estate,4.0,4.0,5.0,2,duplex,65000000.0,130000000.0
+4 bedroom detached duplex for sale,270000000.0,Carlton Gate Estate,4.0,4.0,4.0,2,duplex,67500000.0,135000000.0
+3 bedroom block of flats for sale,130000000.0,Abela Alagutan,3.0,3.0,3.0,2,apartment,43333333.333333336,65000000.0
+4 bedroom detached duplex for sale,160000000.0,Ologuneru,4.0,4.0,4.0,2,duplex,40000000.0,80000000.0
+6 bedroom detached duplex for sale,200000000.0,Brown Gate Estate,6.0,6.0,7.0,2,duplex,33333333.333333332,100000000.0
+3 bedroom detached duplex for sale,420000000.0,Iyaganku,3.0,3.0,3.0,2,duplex,140000000.0,210000000.0
+Block of flats for sale,70000000.0,Akobo,4.0,4.0,4.0,2,apartment,17500000.0,35000000.0
+Block of flats for sale,80000000.0,Akala Express,4.0,4.0,4.0,2,apartment,20000000.0,40000000.0
+4 bedroom detached duplex for sale,260000000.0,Ring Road Gra,4.0,4.0,4.0,2,duplex,65000000.0,130000000.0
+Block of flats for sale,420000000.0,Ring Road Gra,4.0,4.0,4.0,2,apartment,105000000.0,210000000.0
+Block of flats for sale,50000000.0,Ring Road,4.0,4.0,4.0,2,apartment,12500000.0,25000000.0
+Block of flats for sale,35000000.0,Ologuneru,4.0,4.0,4.0,2,apartment,8750000.0,17500000.0
+3 bedroom detached bungalow for sale,80000000.0,Akobo,3.0,3.0,3.0,2,bungalow,26666666.666666668,40000000.0
+5 bedroom detached duplex for sale,260000000.0,Onireke Gra,5.0,5.0,5.0,1,duplex,52000000.0,260000000.0
+5 bedroom detached duplex for sale,350000000.0,Eleyele,5.0,5.0,5.0,1,duplex,70000000.0,350000000.0
+4 bedroom terraced duplex for sale,120000000.0,Adeoyo,4.0,4.0,4.0,1,duplex,30000000.0,120000000.0
+Block of flats for sale,30000000.0,Santo,4.0,4.0,4.0,1,apartment,7500000.0,30000000.0
+4 bedroom terraced duplex for sale,150000000.0,Akobo,4.0,4.0,4.0,1,duplex,37500000.0,150000000.0
+Block of flats for sale,100000000.0,lagos Ibadan Express Way,4.0,4.0,4.0,1,apartment,25000000.0,100000000.0
+4 bedroom detached bungalow for sale,30000000.0,Airport Second Gate,4.0,4.0,4.0,1,bungalow,7500000.0,30000000.0
+Block of flats for sale,40000000.0,Moniya,4.0,4.0,4.0,1,apartment,10000000.0,40000000.0
+Block of flats for sale,55000000.0,Jericho,4.0,4.0,4.0,1,apartment,13750000.0,55000000.0
+Block of flats for sale,240000000.0,New Bodija,4.0,4.0,4.0,1,apartment,60000000.0,240000000.0
+4 bedroom detached bungalow for sale,200000000.0,New Bodija,4.0,4.0,4.0,1,bungalow,50000000.0,200000000.0
+3 bedroom detached bungalow for sale,90000000.0,After Kasunmu Off Akala Expressway,3.0,4.0,4.0,1,bungalow,30000000.0,90000000.0
+4 bedroom semi-detached duplex for sale,160000000.0,Ashi Bodija,4.0,5.0,5.0,1,duplex,40000000.0,160000000.0
+4 bedroom house for sale,150000000.0,Elebu,4.0,5.0,5.0,1,other,37500000.0,150000000.0
+4 bedroom detached duplex for sale,230000000.0,Akobo,4.0,4.0,5.0,1,duplex,57500000.0,230000000.0
+4 bedroom terraced duplex for sale,280000000.0,Old Bodija,4.0,4.0,4.0,1,duplex,70000000.0,280000000.0
+5 bedroom detached bungalow for sale,250000000.0,New Bodija,5.0,5.0,5.0,1,bungalow,50000000.0,250000000.0
+4 bedroom semi-detached duplex for sale,180000000.0,Bodija,4.0,4.0,4.0,1,duplex,45000000.0,180000000.0
+4 bedroom detached duplex for sale,160000000.0,Off 7-up Road,4.0,4.0,4.0,1,duplex,40000000.0,160000000.0
+4 bedroom semi-detached duplex for sale,180000000.0,Bodija,4.0,4.0,5.0,1,duplex,45000000.0,180000000.0
+4 bedroom detached duplex for sale,220000000.0,Star Gate Oluyole Estate,4.0,4.0,4.0,1,duplex,55000000.0,220000000.0
+5 bedroom detached bungalow for sale,35000000.0,Akobo,5.0,5.0,5.0,400,bungalow,7000000.0,87500.0
+6 bedroom detached duplex for sale,450000000.0,Akobo,6.0,6.0,6.0,530,duplex,75000000.0,849056.6037735849
+5 bedroom detached duplex for sale,185000000.0,Akobo,5.0,5.0,5.0,530,duplex,37000000.0,349056.6037735849
+2 bedroom block of flats for sale,50000000.0,Ogungbade New Ife Road,2.0,2.0,2.0,500,apartment,25000000.0,100000.0
+4 bedroom detached bungalow for sale,55000000.0,Gate 3 Elebu Off Akala Expressway,4.0,4.0,4.0,500,bungalow,13750000.0,110000.0
+3 bedroom block of flats for sale,85000000.0,Elebu Area Off Akala Express Way,3.0,3.0,3.0,500,apartment,28333333.333333332,170000.0
+3 bedroom detached bungalow for sale,70000000.0,Akobo,3.0,3.0,3.0,610,bungalow,23333333.333333332,114754.09836065574
+3 bedroom block of flats for sale,60000000.0,Ojoo Area,3.0,3.0,3.0,610,apartment,20000000.0,98360.65573770492
+3 bedroom block of flats for sale,90000000.0,Iwo Road,3.0,3.0,3.0,600,apartment,30000000.0,150000.0
+5 bedroom detached duplex for sale,170000000.0,Akala Express,5.0,5.0,5.0,600,duplex,34000000.0,283333.3333333333
+4 bedroom detached duplex for sale,220000000.0,Cassia Drive Alalubosa Gra,4.0,4.0,4.0,600,duplex,55000000.0,366666.6666666667
+4 bedroom detached duplex for sale,210000000.0,Carlton Gate Estate Akobo Gra,4.0,4.0,4.0,600,duplex,52500000.0,350000.0
+1 bedroom block of flats for sale,40000000.0,Iyana Agbala,1.0,1.0,11.0,600,apartment,40000000.0,66666.66666666667
+2 bedroom block of flats for sale,40000000.0,Akingbile,2.0,2.0,2.0,600,apartment,20000000.0,66666.66666666667
+4 bedroom detached duplex for sale,340000000.0,Akobo,4.0,4.0,4.0,620,duplex,85000000.0,548387.0967741936
+4 bedroom detached duplex for sale,110000000.0,Akala,4.0,4.0,4.0,620,duplex,27500000.0,177419.35483870967
+2 bedroom block of flats for sale,80000000.0,Olorunda Akobo,2.0,2.0,2.0,620,apartment,40000000.0,129032.25806451614
+4 bedroom detached bungalow for sale,150000000.0,Lagelu Estate   Challenge,4.0,4.0,4.0,620,bungalow,37500000.0,241935.48387096773
+4 bedroom detached duplex for sale,150000000.0,New Bodija,4.0,4.0,4.0,620,duplex,37500000.0,241935.48387096773
+5 bedroom detached duplex for sale,200000000.0,New Bodija Estate,5.0,6.0,6.0,620,duplex,40000000.0,322580.6451612903
+2 bedroom detached duplex for sale,100000000.0,Akobo,2.0,2.0,3.0,620,duplex,50000000.0,161290.32258064515
+Block of flats for sale,65000000.0,Akobo,4.0,4.0,4.0,620,apartment,16250000.0,104838.70967741935
+3 bedroom detached bungalow for sale,15000000.0,Adegbayi,3.0,3.0,3.0,620,bungalow,5000000.0,24193.548387096773
+Block of flats for sale,150000000.0,New Bodija,4.0,4.0,4.0,620,apartment,37500000.0,241935.48387096773
+5 bedroom detached duplex for sale,190000000.0,Idi Ishin,5.0,5.0,5.0,620,duplex,38000000.0,306451.6129032258
+5 bedroom detached duplex for sale,300000000.0,Carlton Gate Estate,5.0,5.0,6.0,620,duplex,60000000.0,483870.96774193546
+2 bedroom detached bungalow for sale,45000000.0,Jericho,2.0,3.0,3.0,700,bungalow,22500000.0,64285.71428571428
+4 bedroom detached bungalow for sale,80000000.0,Akobo,4.0,5.0,5.0,700,bungalow,20000000.0,114285.71428571429
+4 bedroom detached duplex for sale,265000000.0,Akobo,4.0,4.0,4.0,700,duplex,66250000.0,378571.4285714286
+5 bedroom detached duplex for sale,300000000.0,Orange Gate Oluyole Estate Extension,5.0,5.0,5.0,6,duplex,60000000.0,50000000.0
+5 bedroom detached duplex for sale,270000000.0,Onireke Gra,5.0,5.0,5.0,6,duplex,54000000.0,45000000.0
+5 bedroom detached duplex for sale,285000000.0,Larry Estate Oluyole Extension,5.0,5.0,5.0,6,duplex,57000000.0,47500000.0
+4 bedroom detached duplex for sale,185000000.0,Nihort,4.0,4.0,4.0,6,duplex,46250000.0,30833333.333333332
+7 bedroom detached duplex for sale,150000000.0,Commodore Area Elebu Off Akala Express,7.0,7.0,8.0,6,duplex,21428571.42857143,25000000.0
+6 bedroom detached duplex for sale,85000000.0,Near Elebu Market,6.0,5.0,5.0,6,duplex,14166666.666666666,14166666.666666666
+6 bedroom house for sale,20000000.0,Wire And Cable,6.0,6.0,6.0,6,other,3333333.3333333335,3333333.3333333335
+3 bedroom detached bungalow for sale,35000000.0,,3.0,3.0,3.0,6,bungalow,11666666.666666666,5833333.333333333
+Block of flats for sale,300000000.0,Challenge,4.0,4.0,4.0,6,apartment,75000000.0,50000000.0
+5 bedroom detached bungalow for sale,120000000.0,New Bodija,5.0,5.0,5.0,6,bungalow,24000000.0,20000000.0
+5 bedroom detached duplex for sale,250000000.0,Akobo,5.0,5.0,6.0,6,duplex,50000000.0,41666666.666666664
+4 bedroom detached duplex for sale,270000000.0,Akobo,4.0,4.0,5.0,6,duplex,67500000.0,45000000.0
+4 bedroom detached duplex for sale,260000000.0,Akobo,4.0,4.0,5.0,6,duplex,65000000.0,43333333.333333336
+5 bedroom detached duplex for sale,250000000.0,Oluyole,5.0,5.0,6.0,6,duplex,50000000.0,41666666.666666664
+4 bedroom semi-detached duplex for sale,250000000.0,Akobo,4.0,4.0,5.0,6,duplex,62500000.0,41666666.666666664
+Block of flats for sale,50000000.0,Akobo,4.0,4.0,4.0,6,apartment,12500000.0,8333333.333333333
+4 bedroom detached duplex for sale,375000000.0,Akobo,4.0,4.0,4.0,6,duplex,93750000.0,62500000.0
+4 bedroom detached duplex for sale,150000000.0,New Bodija,4.0,4.0,4.0,6,duplex,37500000.0,25000000.0
+Block of flats for sale,35000000.0,Alakia,4.0,4.0,4.0,6,apartment,8750000.0,5833333.333333333
+Block of flats for sale,35000000.0,Gbagi,4.0,4.0,4.0,6,apartment,8750000.0,5833333.333333333
+2 bedroom detached duplex for sale,100000000.0,Akobo,2.0,2.0,2.0,6,duplex,50000000.0,16666666.666666666
+5 bedroom detached duplex for sale,80000000.0,Airport,5.0,5.0,5.0,6,duplex,16000000.0,13333333.333333334
+Block of flats for sale,180000000.0,Akobo,4.0,4.0,4.0,6,apartment,45000000.0,30000000.0
+3 bedroom detached bungalow for sale,12000000.0,Ologuneru,3.0,3.0,3.0,6,bungalow,4000000.0,2000000.0
+5 bedroom detached bungalow for sale,55000000.0,Akobo,5.0,5.0,7.0,6,bungalow,11000000.0,9166666.666666666
+5 bedroom detached duplex for sale,450000000.0,Akobo,5.0,6.0,6.0,6,duplex,90000000.0,75000000.0
+4 bedroom detached duplex for sale,190000000.0,Challenge,4.0,4.0,4.0,6,duplex,47500000.0,31666666.666666668
+3 bedroom detached bungalow for sale,28000000.0,Adegbayi,3.0,3.0,3.0,6,bungalow,9333333.333333334,4666666.666666667
+3 bedroom detached bungalow for sale,70000000.0,Nihort Area,3.0,3.0,3.0,6,bungalow,23333333.333333332,11666666.666666666
+4 bedroom detached duplex for sale,200000000.0,New Bodija,4.0,4.0,4.0,6,duplex,50000000.0,33333333.333333332
+4 bedroom detached duplex for sale,250000000.0,New Bodija,4.0,4.0,4.0,6,duplex,62500000.0,41666666.666666664
+4 bedroom detached bungalow for sale,170000000.0,Old Bodija,4.0,4.0,4.0,6,bungalow,42500000.0,28333333.333333332
+10 bedroom block of flats for sale,75000000.0,Akobo,10.0,12.0,12.0,6,apartment,7500000.0,12500000.0
+4 bedroom detached duplex for sale,105000000.0,Akobo,4.0,4.0,4.0,6,duplex,26250000.0,17500000.0
+4 bedroom detached duplex for sale,450000000.0,Akobo,4.0,5.0,5.0,6,duplex,112500000.0,75000000.0
+3 bedroom detached bungalow for sale,43000000.0,Off Jericho - Aleshinloye Road,3.0,3.0,3.0,6,bungalow,14333333.333333334,7166666.666666667
+4 bedroom detached duplex for sale,270000000.0,Akobo,4.0,4.0,4.0,6,duplex,67500000.0,45000000.0
+4 bedroom detached duplex for sale,180000000.0,Akobo,4.0,5.0,5.0,6,duplex,45000000.0,30000000.0
+4 bedroom detached duplex for sale,200000000.0,Oyo,4.0,4.0,5.0,6,duplex,50000000.0,33333333.333333332
+12 bedroom detached duplex for sale,240000000.0,Elebu,12.0,12.0,39.0,6,duplex,20000000.0,40000000.0
+3 bedroom detached bungalow for sale,28000000.0,Ojoo,3.0,3.0,4.0,6,bungalow,9333333.333333334,4666666.666666667
+Block of flats for sale,45000000.0,Behind Nigerian Brewery,4.0,4.0,4.0,6,apartment,11250000.0,7500000.0
+Block of flats for sale,25000000.0,Adegbayi,4.0,4.0,4.0,6,apartment,6250000.0,4166666.6666666665
+4 bedroom detached bungalow for sale,30000000.0,Eleyele,4.0,4.0,4.0,6,bungalow,7500000.0,5000000.0
+5 bedroom detached duplex for sale,250000000.0,Kolapo Ishola Gra,5.0,5.0,6.0,6,duplex,50000000.0,41666666.666666664
+4 bedroom detached duplex for sale,300000000.0,Iyaganku,4.0,4.0,4.0,6,duplex,75000000.0,50000000.0
+Block of flats for sale,85000000.0,Orogun,4.0,4.0,4.0,6,apartment,21250000.0,14166666.666666666
+3 bedroom house for sale,200000000.0,Alakia,3.0,3.0,3.0,6,other,66666666.666666664,33333333.333333332
+5 bedroom semi-detached duplex for sale,150000000.0,Okebadan Estate,5.0,5.0,5.0,600,duplex,30000000.0,250000.0
+2 bedroom detached bungalow for sale,50900000.0,Ologuneru,2.0,2.0,3.0,600,bungalow,25450000.0,84833.33333333333
+4 bedroom house for sale,250000000.0,Agodi,4.0,4.0,5.0,600,other,62500000.0,416666.6666666667
+3 bedroom detached bungalow for sale,11000000.0,Iyana Agbala,3.0,3.0,3.0,600,bungalow,3666666.6666666665,18333.333333333332
+Block of flats for sale,65000000.0,Second Plot To Main Road,4.0,4.0,4.0,600,apartment,16250000.0,108333.33333333333
+4 bedroom terraced duplex for sale,200000000.0,Basorun,4.0,4.0,4.0,600,duplex,50000000.0,333333.3333333333
+5 bedroom detached duplex for sale,185000000.0,New Bodija,5.0,5.0,5.0,600,duplex,37000000.0,308333.3333333333
+Block of flats for sale,80000000.0,Bashorun,4.0,4.0,4.0,600,apartment,20000000.0,133333.33333333334
+4 bedroom detached duplex for sale,270000000.0,Akobo,4.0,4.0,4.0,600,duplex,67500000.0,450000.0
+4 bedroom detached duplex for sale,250000000.0,Agodi,4.0,5.0,5.0,600,duplex,62500000.0,416666.6666666667
+4 bedroom detached duplex for sale,180000000.0,Podo Road New Garage,4.0,7.0,7.0,600,duplex,45000000.0,300000.0
+5 bedroom semi-detached duplex for sale,270000000.0,Akobo,5.0,5.0,5.0,600,duplex,54000000.0,450000.0
+4 bedroom detached duplex for sale,145000000.0,Oluyole Estate,4.0,5.0,5.0,600,duplex,36250000.0,241666.66666666666
+4 bedroom detached duplex for sale,400000000.0,Jericho,4.0,5.0,5.0,3,duplex,100000000.0,133333333.33333333
+3 bedroom detached bungalow for sale,75000000.0,Akobo,3.0,3.0,4.0,3,bungalow,25000000.0,25000000.0
+3 bedroom house for sale,75000000.0,Akobo,3.0,3.0,4.0,3,other,25000000.0,25000000.0
+5 bedroom detached bungalow for sale,65000000.0,Alakia,5.0,5.0,5.0,3,bungalow,13000000.0,21666666.666666668
+4 bedroom house for sale,180000000.0,Jericho,4.0,4.0,5.0,3,other,45000000.0,60000000.0
+3 bedroom house for sale,350000000.0,Akobo,3.0,4.0,4.0,3,other,116666666.66666667,116666666.66666667
+4 bedroom detached duplex for sale,250000000.0,New Bodija,4.0,4.0,5.0,3,duplex,62500000.0,83333333.33333333
+4 bedroom semi-detached duplex for sale,200000000.0,Old Bodija,4.0,4.0,5.0,600,duplex,50000000.0,333333.3333333333
+Block of flats for sale,45000000.0,Apete,4.0,4.0,4.0,600,apartment,11250000.0,75000.0
+5 bedroom detached bungalow for sale,35000000.0,Akobo,5.0,5.0,5.0,600,bungalow,7000000.0,58333.333333333336
+4 bedroom detached duplex for sale,185000000.0,Akobo,4.0,5.0,5.0,600,duplex,46250000.0,308333.3333333333
+4 bedroom house for sale,190000000.0,Akobo,4.0,4.0,5.0,600,other,47500000.0,316666.6666666667
+4 bedroom detached duplex for sale,220000000.0,Akobo,4.0,4.0,5.0,600,duplex,55000000.0,366666.6666666667
+5 bedroom detached duplex for sale,200000000.0,Agodi,5.0,5.0,6.0,600,duplex,40000000.0,333333.3333333333
+3 bedroom house for sale,140000000.0,Beside Dss Estate,3.0,3.0,3.0,600,other,46666666.666666664,233333.33333333334
+11 bedroom detached duplex for sale,200000000.0,Ikolaba,11.0,7.0,8.0,1,duplex,18181818.181818184,200000000.0
+Block of flats for sale,70000000.0,Akobo,4.0,4.0,4.0,1,apartment,17500000.0,70000000.0
+Block of flats for sale,60000000.0,Ringroad,4.0,4.0,4.0,1,apartment,15000000.0,60000000.0
+4 bedroom detached bungalow for sale,40000000.0,Akobo,4.0,4.0,4.0,1,bungalow,10000000.0,40000000.0
+2 bedroom detached bungalow for sale,28000000.0,Ido,2.0,2.0,2.0,1,bungalow,14000000.0,28000000.0
+4 bedroom semi-detached duplex for sale,200000000.0,Beside Kolapo Ishola Gra,4.0,4.0,5.0,1,duplex,50000000.0,200000000.0
+4 bedroom detached duplex for sale,150000000.0,Akobo,4.0,4.0,4.0,1,duplex,37500000.0,150000000.0
+4 bedroom detached duplex for sale,180000000.0,Akobo,4.0,4.0,4.0,1,duplex,45000000.0,180000000.0
+4 bedroom semi-detached duplex for sale,230000000.0,(legacy Estate),4.0,4.0,5.0,1,duplex,57500000.0,230000000.0
+4 bedroom semi-detached duplex for sale,180000000.0,Jericho,4.0,4.0,5.0,1,duplex,45000000.0,180000000.0
+Block of flats for sale,160000000.0,Ringroad,4.0,4.0,4.0,1,apartment,40000000.0,160000000.0
+Block of flats for sale,50000000.0,Akobo,4.0,4.0,4.0,1,apartment,12500000.0,50000000.0
+5 bedroom detached duplex for sale,220000000.0,Oluyole Estate,5.0,6.0,6.0,1,duplex,44000000.0,220000000.0
+Block of flats for sale,55000000.0,Ring Road,4.0,4.0,4.0,1,apartment,13750000.0,55000000.0
+Block of flats for sale,60000000.0,Bashorun,4.0,4.0,4.0,1,apartment,15000000.0,60000000.0
+Block of flats for sale,10000000.0,Oremeji,4.0,4.0,4.0,1,apartment,2500000.0,10000000.0
+4 bedroom house for sale,180000000.0,Jericho,4.0,4.0,5.0,1,other,45000000.0,180000000.0
+2 bedroom house for sale,70000000.0,Eleyele,2.0,2.0,3.0,1,other,35000000.0,70000000.0
+3 bedroom block of flats for sale,115000000.0,Akobo,3.0,3.0,3.0,1,apartment,38333333.333333336,115000000.0
+5 bedroom house for sale,290000000.0,Akobo,5.0,5.0,6.0,1,other,58000000.0,290000000.0
+Block of flats for sale,150000000.0,New Bodija,4.0,4.0,4.0,1,apartment,37500000.0,150000000.0
+96 bedroom house for sale,55000000.0,Ring Road,96.0,6.0,6.0,2,other,572916.6666666666,27500000.0
+4 bedroom detached duplex for sale,185000000.0,Kolapo Ishola Gra Akobo,4.0,4.0,4.0,2,duplex,46250000.0,92500000.0
+4 bedroom detached duplex for sale,250000000.0,Ikolaba Estate Bodija,4.0,4.0,4.0,2,duplex,62500000.0,125000000.0
+4 bedroom semi-detached duplex for sale,200000000.0,Bodija,4.0,4.0,4.0,2,duplex,50000000.0,100000000.0
+4 bedroom semi-detached duplex for sale,130000000.0,Jericho,4.0,4.0,4.0,2,duplex,32500000.0,65000000.0
+16 bedroom block of flats for sale,250000000.0,Old Bodija,16.0,24.0,24.0,1,apartment,15625000.0,250000000.0
+5 bedroom detached duplex for sale,190000000.0,Akobo,5.0,4.0,4.0,1,duplex,38000000.0,190000000.0
+4 bedroom block of flats for sale,70000000.0,Off Ring Road,4.0,4.0,44.0,700,apartment,17500000.0,100000.0
+6 bedroom detached duplex for sale,120000000.0,Alafia Estate Akobo Akala Way,6.0,6.0,6.0,700,duplex,20000000.0,171428.57142857142
+5 bedroom detached duplex for sale,100000000.0,Oluwo Nla Basorun,5.0,5.0,5.0,700,duplex,20000000.0,142857.14285714287
+4 bedroom detached bungalow for sale,55000000.0,Ile Titun Nihort Area Nihort,4.0,4.0,4.0,700,bungalow,13750000.0,78571.42857142857
+3 bedroom detached bungalow for sale,100000000.0,Jericho,3.0,3.0,3.0,700,bungalow,33333333.333333332,142857.14285714287
+4 bedroom detached duplex for sale,209000000.0,Ojoo,4.0,4.0,4.0,700,duplex,52250000.0,298571.4285714286
+4 bedroom detached bungalow for sale,35000000.0,Ayetigbo Street,4.0,4.0,4.0,700,bungalow,8750000.0,50000.0
+4 bedroom detached duplex for sale,185000000.0,Akobo,4.0,4.0,4.0,700,duplex,46250000.0,264285.71428571426
+4 bedroom semi-detached duplex for sale,250000000.0,New Bodija,4.0,4.0,4.0,700,duplex,62500000.0,357142.85714285716
+4 bedroom detached duplex for sale,300000000.0,Akobo,4.0,5.0,5.0,620,duplex,75000000.0,483870.96774193546
+Block of flats for sale,110000000.0,Facing Main Road,4.0,4.0,4.0,620,apartment,27500000.0,177419.35483870967
+Block of flats for sale,50000000.0,Agbowo,4.0,4.0,4.0,620,apartment,12500000.0,80645.16129032258
+4 bedroom detached duplex for sale,300000000.0,Oluyole Estate,4.0,4.0,4.0,620,duplex,75000000.0,483870.96774193546
+4 bedroom detached duplex for sale,350000000.0,Akobo,4.0,4.0,4.0,620,duplex,87500000.0,564516.1290322581
+3 bedroom detached bungalow for sale,60000000.0,Afin Iyanu,3.0,3.0,3.0,620,bungalow,20000000.0,96774.19354838709
+4 bedroom detached duplex for sale,200000000.0,Jericho,4.0,4.0,4.0,620,duplex,50000000.0,322580.6451612903
+3 bedroom detached bungalow for sale,65000000.0,Off Nihort Jericho Extension,3.0,3.0,3.0,620,bungalow,21666666.666666668,104838.70967741935
+3 bedroom detached bungalow for sale,18000000.0,Ologuneru,3.0,3.0,3.0,620,bungalow,6000000.0,29032.25806451613
+4 bedroom detached duplex for sale,220000000.0,Oluyole Estate,4.0,4.0,5.0,620,duplex,55000000.0,354838.70967741933
+4 bedroom detached bungalow for sale,25000000.0,Airport,4.0,4.0,4.0,620,bungalow,6250000.0,40322.58064516129
+4 bedroom detached duplex for sale,250000000.0,Samonda,4.0,4.0,4.0,400,duplex,62500000.0,625000.0
+4 bedroom detached bungalow for sale,6500000.0,Alakia,4.0,4.0,4.0,400,bungalow,1625000.0,16250.0
+4 bedroom detached duplex for sale,70000000.0,Ologuneru,4.0,4.0,4.0,400,duplex,17500000.0,175000.0
+4 bedroom semi-detached duplex for sale,180000000.0,Jericho,4.0,4.0,5.0,400,duplex,45000000.0,450000.0
+Block of flats for sale,28000000.0,Agbowo,4.0,4.0,4.0,400,apartment,7000000.0,70000.0
+Block of flats for sale,50000000.0,Iwo Road,4.0,4.0,4.0,400,apartment,12500000.0,125000.0
+Block of flats for sale,50000000.0,Olodo,4.0,4.0,4.0,400,apartment,12500000.0,125000.0
+Block of flats for sale,150000000.0,Alakia,4.0,4.0,4.0,400,apartment,37500000.0,375000.0
+3 bedroom detached bungalow for sale,65000000.0,Jericho Extension Alafara,3.0,4.0,4.0,400,bungalow,21666666.666666668,162500.0
+4 bedroom semi-detached duplex for sale,120000000.0,Oke Ado,4.0,4.0,4.0,400,duplex,30000000.0,300000.0
+Block of flats for sale,90000000.0,Ring Road,4.0,4.0,4.0,400,apartment,22500000.0,225000.0
+3 bedroom detached bungalow for sale,65000000.0,Jericho Extension,3.0,4.0,4.0,400,bungalow,21666666.666666668,162500.0
+3 bedroom detached bungalow for sale,100000000.0,Nihort,3.0,3.0,3.0,400,bungalow,33333333.333333332,250000.0
+12 bedroom block of flats for sale,50000000.0,Along Faith Bible Church,12.0,12.0,12.0,400,apartment,4166666.6666666665,125000.0
+3 bedroom detached bungalow for sale,58000000.0,Moniya,3.0,3.0,4.0,400,bungalow,19333333.333333332,145000.0
+5 bedroom terraced duplex for sale,130000000.0,Iyaganku,5.0,5.0,6.0,400,duplex,26000000.0,325000.0
+Block of flats for sale,230000000.0,Akobo,4.0,4.0,4.0,400,apartment,57500000.0,575000.0
+2 bedroom detached bungalow for sale,90000000.0,Winners Way,2.0,2.0,2.0,400,bungalow,45000000.0,225000.0
+Block of flats for sale,120000000.0,Ringroad,4.0,4.0,4.0,400,apartment,30000000.0,300000.0
+3 bedroom detached duplex for sale,75000000.0,Asejire,3.0,3.0,3.0,400,duplex,25000000.0,187500.0
+Block of flats for sale,25000000.0,Old Ife Road,4.0,4.0,4.0,400,apartment,6250000.0,62500.0
+4 bedroom detached duplex for sale,230000000.0,Old Bodija,4.0,4.0,4.0,400,duplex,57500000.0,575000.0
+3 bedroom detached bungalow for sale,65000000.0,Ologuneru,3.0,3.0,3.0,400,bungalow,21666666.666666668,162500.0
+6 bedroom detached duplex for sale,250000000.0,Oluyole Estate,6.0,7.0,7.0,700,duplex,41666666.666666664,357142.85714285716
+Block of flats for sale,50000000.0,Akobo,4.0,4.0,4.0,700,apartment,12500000.0,71428.57142857143
+4 bedroom detached duplex for sale,150000000.0,Tiger Mini Estate,4.0,5.0,5.0,700,duplex,37500000.0,214285.7142857143
+4 bedroom semi-detached bungalow for sale,200000000.0,Ringroad,4.0,4.0,4.0,700,bungalow,50000000.0,285714.28571428574
+Block of flats for sale,65000000.0,Old Ife Road,4.0,4.0,4.0,700,apartment,16250000.0,92857.14285714286
+4 bedroom detached duplex for sale,190000000.0,Akobo,4.0,4.0,4.0,700,duplex,47500000.0,271428.5714285714
+5 bedroom detached duplex for sale,250000000.0,Adeosun Close,5.0,5.0,6.0,700,duplex,50000000.0,357142.85714285716
+5 bedroom semi-detached duplex for sale,200000000.0,New Bodija,5.0,5.0,5.0,700,duplex,40000000.0,285714.28571428574
+Block of flats for sale,85000000.0,Bashorun,4.0,4.0,4.0,700,apartment,21250000.0,121428.57142857143
+2 bedroom semi-detached duplex for sale,200000000.0,Alakia,2.0,2.0,2.0,700,duplex,100000000.0,285714.28571428574
+5 bedroom semi-detached duplex for sale,180000000.0,New Bodija,5.0,5.0,5.0,700,duplex,36000000.0,257142.85714285713
+5 bedroom detached bungalow for sale,65000000.0,Oke Bola,5.0,5.0,5.0,700,bungalow,13000000.0,92857.14285714286
+7 bedroom detached duplex for sale,350000000.0,Old Bodija,7.0,8.0,8.0,700,duplex,50000000.0,500000.0
+Block of flats for sale,25000000.0,Iyana Agbala,4.0,4.0,4.0,700,apartment,6250000.0,35714.28571428572
+Block of flats for sale,85000000.0,New Bodija,4.0,4.0,4.0,1,apartment,21250000.0,85000000.0
+Block of flats for sale,55000000.0,Akobo,4.0,4.0,4.0,1,apartment,13750000.0,55000000.0
+Block of flats for sale,10000000.0,Olodo,4.0,4.0,4.0,1,apartment,2500000.0,10000000.0
+3 bedroom detached bungalow for sale,22000000.0,Solomon Ogunbayo Memorial Estate Odo Ona Kekere,3.0,3.0,4.0,1,bungalow,7333333.333333333,22000000.0
+7 bedroom house for sale,75000000.0,Adeoya Street,7.0,7.0,7.0,595,other,10714285.714285715,126050.42016806723
+24 bedroom block of flats for sale,160000000.0,Monatan Rd,24.0,24.0,24.0,595,apartment,6666666.666666667,268907.5630252101
+Block of flats for sale,65000000.0,Bashorun,4.0,4.0,4.0,595,apartment,16250000.0,109243.6974789916
+5 bedroom detached duplex for sale,220000000.0,Lere Adigun Gra,5.0,6.0,6.0,595,duplex,44000000.0,369747.8991596639
+4 bedroom detached duplex for sale,200000000.0,Agodi Gra,4.0,4.0,4.0,595,duplex,50000000.0,336134.4537815126
+Block of flats for sale,35000000.0,Ijokodo,4.0,4.0,4.0,595,apartment,8750000.0,58823.529411764706
+3 bedroom detached duplex for sale,120000000.0,Adetokun Ologuneru,3.0,3.0,4.0,595,duplex,40000000.0,201680.67226890757
+Block of flats for sale,40000000.0,Babalegba Area,4.0,4.0,4.0,595,apartment,10000000.0,67226.89075630253
